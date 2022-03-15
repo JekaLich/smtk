@@ -1,3 +1,19 @@
 #EXTM3U x-tvg-url="http://epg.auratv.fun/EPG/epg.zip" url-tvg="https://iptvx.site/epg.xml.gz,http://epg.openboxfan.com/xmltv-t-sd.xml.gz,http://epg.auratv.fun/EPG/xmltv.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
+#EXTINF:-1 group-title="Россия",Первый канал HD
+https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1647376910
+#EXTINF:-1 group-title="Россия",Первый канал HD (+4)
+https://cdn10.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd?e=1647377004
 #EXTINF:-1 group-title="Россия",Россия 1 HD
 https://cdnv-ru.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 group-title="Россия",Россия К
+https://a1311337617-s27836.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия",Россия 24
+https://a1311337617-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия",Москва 24
+https://a1311337617-s27836.cdn.ngenix.net/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия",Кавказ 24
+https://a1311337617-s27836.cdn.ngenix.net/hls2/kavkaz_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия",Матч ТВ HD
+https://live-2-333.zxz.su/LIVE/LIVE:407384/HLS/1647391618/81U2YgHyK4naZd00YTY07A/live/407384_7/chunklist.m3u8
+#EXTINF:-1 group-title="Россия",ТНТ HD
+https://live-2-333.zxz.su/LIVE/LIVE:410338/HLS/1647391836/in5wrN5_wPgSc-e-ndwrEg/live/410338_7/chunklist.m3u8

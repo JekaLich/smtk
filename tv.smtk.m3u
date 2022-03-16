@@ -318,8 +318,6 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
 https://cdnv-ru.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Россия",Россия К
 https://a1311337617-s27836.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
-#EXTINF:-1 group-title="Россия",Россия 24
-https://a1311337617-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",НТВ HD
 https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/chunklist_b6128000.m3u8?md5=eUC4x4HnoxrVreG8bqvE2w&e=1648058820&hls_proxy_host=pub3.rtmp.s01.l.ntv
 #EXTINF:-1 group-title="Россия",НТВ
@@ -358,20 +356,26 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 https://bl.uma.media/live/410336/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1646116465/edbb91a8adf1c5e2c3f65d361ee7722f/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Россия",ТВ3 HD
+https://live-202.zxz.su/LIVE/LIVE:317846/HLS/1647471090/18vPU9E1LYzKL9b01LpdaQ/live/317846_3/chunklist.m3u8
+#EXTINF:-1 group-title="Россия",Россия 24
+https://a1311337617-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия",Известия FHD
+https://mobdrm.mediavitrina.ru/dash-livec1/streams/vitrina/izvestia.smil/manifest.mpd?cdn=https%3A%2F%2Fizlive-vitrina.cdnvideo.ru&token=v2.36TVdGiEj9-wcKIbNYRj--AZ9w1ExIovu_DJ4qQmtOM.k3lew5HYii27WSsgjavFctWJ6LDFuqo3OjkkNqHOsPs.1647456525.bb727180b6c9b09feb9dd5be3aa1877e
+#EXTINF:-1 group-title="Россия",Известия HD
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="Россия",РБК HD
+https://live-rbc.gcdn.co/gcore/rbctvhd_1080p/index.m3u8?e=gcore&t=q5/Uxh
+#EXTINF:-1 group-title="Россия",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="Россия",Настоящее время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/RFE-TVMC05_1080/chunklist.m3u8
 #EXTINF:-1 group-title="Россия",Мир 24 HD 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Мир Премиум
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Известия FHD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Известия HD
-https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Россия",РБК
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="Россия",Настоящее время
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 group-title="Россия",Вместе РФ
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 #EXTINF:-1 group-title="Россия",8 Канал

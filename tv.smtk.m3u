@@ -310,7 +310,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 
 #EXTINF:-1 group-title="Россия",Первый канал HD
-https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1647376910
+https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="Россия",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
@@ -318,7 +318,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
 https://cdnv-ru.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Россия",Россия К
 https://a1311337617-s27836.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
-#EXTINF:-1 group-title="Россия",НТВ HD
+#EXTINF:-1 group-title="Россия" tv-logo="https://i6.imageban.ru/out/2022/03/16/2acbf596e43ba004670ce4726a3b51d1.png",НТВ HD
 https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/chunklist_b6128000.m3u8?md5=eUC4x4HnoxrVreG8bqvE2w&e=1648058820&hls_proxy_host=pub3.rtmp.s01.l.ntv
 #EXTINF:-1 group-title="Россия",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer

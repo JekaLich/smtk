@@ -343,7 +343,7 @@ https://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 group-title="Россия",СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ HD
-https://live-2-333.zxz.su/LIVE/LIVE:410338/HLS/1647468699/SN5QT4wsxFlXEe2W5b8ulg/live/410338_7/chunklist.m3u8
+https://bl.uma.media/live/410338/HLS/6307840_7/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
@@ -353,11 +353,11 @@ https://live-202.zxz.su/LIVE/LIVE:317849/HLS/1647468886/fDncZNMNo01o8JKLGEJHSg/l
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Пятница HD
-https://bl.uma.media/live/410336/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1646116465/edbb91a8adf1c5e2c3f65d361ee7722f/playlist.m3u8
+https://bl.uma.media/live/410336/HLS/6307840_7/1646116465/edbb91a8adf1c5e2c3f65d361ee7722f/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия",ТВ3 HD
-https://live-202.zxz.su/LIVE/LIVE:317846/HLS/1647471090/18vPU9E1LYzKL9b01LpdaQ/live/317846_3/chunklist.m3u8
+https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Россия 24
 https://a1311337617-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",Известия FHD

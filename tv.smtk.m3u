@@ -309,6 +309,52 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 #EXTINF:-1 group-title="Relax Nature",TV Waterfalls HD
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 
+#EXTINF:-1 group-title="Россия",Первый канал HD
+https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1647376910
+#EXTINF:-1 group-title="Россия",Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия",Россия 1 HD
+https://cdnv-ru.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 group-title="Россия",Россия К
+https://a1311337617-s27836.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия",Россия 24
+https://a1311337617-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия",НТВ HD
+https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/chunklist_b6128000.m3u8?md5=eUC4x4HnoxrVreG8bqvE2w&e=1648058820&hls_proxy_host=pub3.rtmp.s01.l.ntv
+#EXTINF:-1 group-title="Россия",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия",ТВ Центр
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия",Пятый канал
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия",Рен ТВ
+https://sc.id-tv.kz/RenTV_34_35.m3u8
+#EXTINF:-1 group-title="Россия",Рен ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:-1 group-title="Россия",СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 group-title="Россия",СТС
+http://46.174.83.66/CTC/mpegts
+#EXTINF:-1 group-title="Россия",СТС International
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 group-title="Россия",СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 group-title="Россия",ТНТ HD
+https://live-2-333.zxz.su/LIVE/LIVE:410338/HLS/1647468699/SN5QT4wsxFlXEe2W5b8ulg/live/410338_7/chunklist.m3u8
+#EXTINF:-1 group-title="Россия",ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 HD
+https://live-202.zxz.su/LIVE/LIVE:317849/HLS/1647468886/fDncZNMNo01o8JKLGEJHSg/live/317849_3/chunklist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия",Мир 24 HD 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Мир HD
@@ -321,12 +367,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Россия",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="Россия",Рен ТВ
-https://sc.id-tv.kz/RenTV_34_35.m3u8
-#EXTINF:-1 group-title="Россия",СТС
-http://46.174.83.66/CTC/mpegts
-#EXTINF:-1 group-title="Россия",СТС International
-https://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 group-title="Россия",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 group-title="Россия",Вместе РФ
@@ -341,33 +381,9 @@ http://46.174.83.66/U/mpegts
 http://140.238.127.147:80/streams/5.m3u8
 #EXTINF:-1 group-title="Россия",Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Первый канал
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Россия",ТНТ
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Россия",РЕН ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Россия",НТВ
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Россия",Пятый канал
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Россия",ТВ Центр
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Россия",СТС
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Рифей-ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2

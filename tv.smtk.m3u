@@ -354,7 +354,7 @@ https://live-202.zxz.su/LIVE/LIVE:317849/HLS/1647468886/fDncZNMNo01o8JKLGEJHSg/l
 #EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/tnt4.png",Пятница HD
+#EXTINF:-1 group-title="Россия",Пятница HD
 https://bl.uma.media/live/410336/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1646116465/edbb91a8adf1c5e2c3f65d361ee7722f/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8

@@ -330,18 +330,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Рен ТВ HD
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="Россия",РЕН ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",СТС HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="Россия",СТС
 http://46.174.83.66/CTC/mpegts
 #EXTINF:-1 group-title="Россия",СТС International
 https://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 group-title="Россия",СТС Love
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ HD
 https://live-2-333.zxz.su/LIVE/LIVE:410338/HLS/1647468699/SN5QT4wsxFlXEe2W5b8ulg/live/410338_7/chunklist.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ
@@ -365,7 +365,7 @@ https://mobdrm.mediavitrina.ru/dash-livec1/streams/vitrina/izvestia.smil/manifes
 #EXTINF:-1 group-title="Россия",Известия HD
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Россия",РБК HD
-https://live-rbc.gcdn.co/gcore/rbctvhd_1080p/index.m3u8?e=gcore&t=q5/Uxh
+https://live-rbc.gcdn.co/gcore/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Россия",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="Россия",Настоящее время

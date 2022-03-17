@@ -179,6 +179,7 @@ https://v2.catcast.tv/content/38896/index.m3u8
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/4662.png",BACKUSTV Страшное HD
 http://stream.backustv.ru/live/btv2/index.m3u8
+
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://109.200.130.124:7006/play/a00v
 #EXTINF:-1 group-title="Познавательные",Animal Planet
@@ -449,7 +450,6 @@ http://212.115.255.196/Jfd85Hf/piksel.m3u8
 http://212.115.255.196/Jfd85Hf/nickjr.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon HD
 http://persik.by/stream/7504/377885/10420.m3u8
-
 
 #EXTINF:-1 group-title="Спорт",Матч! HD
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
@@ -1150,6 +1150,7 @@ https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региональные" tvg-id="yamal-region" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/nclogo1525680014617.png",Ямал-Регион
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
+
 #EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/disney_channel.png",Disney Channel (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/variant.m3u8?version=2
@@ -1522,7 +1523,6 @@ http://188.138.130.130:8080
 #EXTINF:-1 group-title="Киргизия",TV1 KG
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Украина",1+1 International
 http://109.200.130.124:7003/play/a005
 #EXTINF:-1 group-title="Украина",2+2
@@ -1788,6 +1788,7 @@ https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 group-title="Турция",Uçankuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+
 #EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/ultra-hd-cinema.png",Ultra HD cinema (-2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-7200

@@ -643,17 +643,6 @@ https://stirr.ott-channels.stingray.com/155/master.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Exitos Del Momento HD
 https://stirr.ott-channels.stingray.com/190/master.m3u8
 
-#EXTINF:-1 group-title="Взрослые",Русская ночь
-http://46.174.83.66/Russkaya_Noch/video.m3u8
-#EXTINF:-1 group-title="Взрослые",O-la-la
-http://46.181.193.122:81/udp/239.255.42.219:1234
-#EXTINF:-1 group-title="Взрослые",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="Взрослые",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
-#EXTINF:-1 group-title="Взрослые",Erox
-http://94.229.250.73:8008/play/a002
-
 #EXTINF:-1 group-title="Региональные",Вечерняя Москва HD
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-1 group-title="Региональные",Башкортостан 24
@@ -1456,3 +1445,104 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?ve
 #EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/love-nature-4k.png",Love Nature 4K (-10)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
+
+#EXTINF:-1 group-title="Взрослые",Русская ночь
+http://46.174.83.66/Russkaya_Noch/video.m3u8
+#EXTINF:-1 group-title="Взрослые",O-la-la
+http://46.181.193.122:81/udp/239.255.42.219:1234
+#EXTINF:-1 group-title="Взрослые",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Взрослые",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
+#EXTINF:-1 group-title="Взрослые",Erox
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1 group-title="Взрослые",Extasy 4K
+http://213.81.133.133:8080/extasy4k/index.m3u8
+#EXTINF:-1 group-title="Взрослые",PinkoTV
+http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Redlight HD
+http://109.200.130.123:7032/play/353
+#EXTINF:-1 group-title="Взрослые",Vivid Red HD
+http://109.200.130.123:7032/play/a00g
+#EXTINF:-1 group-title="Взрослые",SuperOne HD
+http://185.96.176.139:90/superone/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Brazzers TV
+http://46.181.193.122:81/udp/239.255.42.220:1234
+#EXTINF:-1 group-title="Взрослые",Playboy TV
+http://46.181.193.122:81/udp/239.255.42.221:1234
+#EXTINF:-1 group-title="Взрослые",Blue Hustler
+http://46.181.193.122:81/udp/239.255.42.222:1234
+#EXTINF:-1 group-title="Взрослые",Frenchlover
+http://46.181.193.122:81/udp/239.255.42.223:1234
+#EXTINF:-1 group-title="Взрослые",Barely Legal
+http://46.181.193.122:81/udp/239.255.42.224:1234
+#EXTINF:-1 group-title="Взрослые",Hustler HD
+http://46.181.193.122:81/udp/239.255.43.53:1234
+#EXTINF:-1 group-title="Взрослые",Hustler TV
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1 group-title="Взрослые",Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 group-title="Взрослые",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="Взрослые",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="Взрослые",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="Взрослые",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="Взрослые",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="Взрослые",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="Взрослые",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="Взрослые",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="Взрослые",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="Взрослые",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="Взрослые",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="Взрослые",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="Взрослые",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="Взрослые",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="Взрослые",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="Взрослые",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="Взрослые",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="Взрослые",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="Взрослые",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="Взрослые",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="Взрослые",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="Взрослые",Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="Взрослые",Bigass HD
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="Взрослые",Cuckold HD
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="Взрослые",Fetish HD
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="Взрослые",Hard Core
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="Взрослые",Interracial HD
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="Взрослые",Latina HD 720
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="Взрослые",Lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="Взрослые",Milf HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="Взрослые",Pornstar HD
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="Взрослые",POV HD 720
+http://live.redtraffic.xyz/pov.m3u8

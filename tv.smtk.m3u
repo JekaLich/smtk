@@ -326,7 +326,7 @@ https://cdnv-ru.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Россия",Россия К
 https://a1311337617-s27836.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",НТВ HD
-https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/chunklist_b6128000.m3u8?md5=yONX-MwMVE_cLVNBrN16nA&e=1648095909&hls_proxy_host=pub3.rtmp.s01.l.ntv
+https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/chunklist_b6128000.m3u8?md5=HRYdw19sOMiXhfFYewOkCw&e=1648480910&hls_proxy_host=pub3.rtmp.s01.l.ntv
 #EXTINF:-1 group-title="Россия",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2

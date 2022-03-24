@@ -351,7 +351,7 @@ https://a1311337617-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
 https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Известия HD
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://jekalich.github.io/smtk/logo/rbk.png" tgv-id="rbk",РБК HD
+#EXTINF:-1 group-title="Россия" tvg-logo="https://jekalich.github.io/smtk/logo/rbk.png" tvg-id="rbk",РБК HD
 https://live-rbc.gcdn.co/gcore/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Россия",РБК
 http://92.50.128.180/utv/1358/index.m3u8

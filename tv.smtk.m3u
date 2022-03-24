@@ -396,6 +396,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
 
+#EXTINF:-1 group-title="Новости",Дождь HD
+https://strm.yandex.ru/kal/tvrain2/ysign1=27aad446bc6da4415dacbfe5e762f9c9ba3d86b3f745f96aa576c55ef118fe65,abcID=1558,from=unknown,pfx,region=10000,sfx,ts=623df80b/manifest.mpd?audio_mbr=1&brand-safety-categories=%5B64%5D&channel_id=1539355922&clid=495&content-category=&content-genre=&content_id=41c50d5d90efce1297b9f0de98c1218d&from=other&from_block=other&frontend_vh_reqid=1648141963694814-15228260796079585324-k5twvc3oiyi5zy7y-BAL-7693&gzip=1&imp-id=undefined&imp_id=1&mburl=1&offset=30&partner-id=323734&partner_id=323734&puid=53812529&reqid=1648141963694814-15228260796079585324-k5twvc3oiyi5zy7y-BAL&sandboxVersion=0x8f901ed9b93&slots=null&target_ref=https%3A%2F%2Fyastatic.net%2Fyandex-video-player-iframe-api%2Fjs%2Fplayer-api-loader.js&uuid=41c50d5d90efce1297b9f0de98c1218d&video-category-id=1017&video_category_id=1017&vsid=603db4d771ac52f9dc0c47727c3f0351cf6a34c0a260xWEBx8081x1648141963&yandexuid=6032127301566493347
 #EXTINF:-1 group-title="Новости",DW
 http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский

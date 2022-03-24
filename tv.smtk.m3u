@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,http://epg.auratv.fun/EPG/xmltv.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1
 http://109.200.130.124:15500/A1
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1 HD
@@ -295,27 +295,6 @@ http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ЛитКлуб ТВ Стихи
 http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/playlist.m3u8
 
-#EXTINF:-1 group-title="Relax Nature",TV Animals HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 group-title="Relax Nature",TV Aurora HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 group-title="Relax Nature",TV Beaches HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 group-title="Relax Nature",TV Forest HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 group-title="Relax Nature",TV Lake HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 group-title="Relax Nature",TV Mountain HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 group-title="Relax Nature",TV Rivers HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 group-title="Relax Nature",TV Sunset HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 group-title="Relax Nature",TV Tropics HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 group-title="Relax Nature",TV Waterfalls HD
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-
 #EXTINF:-1 group-title="Россия",Первый канал HD
 https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="Россия",Первый канал
@@ -369,7 +348,7 @@ https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b
 #EXTINF:-1 group-title="Россия",Россия 24
 https://a1311337617-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",Известия FHD
-https://mobdrm.mediavitrina.ru/dash-livec1/streams/vitrina/izvestia.smil/manifest.mpd?cdn=https%3A%2F%2Fedge02d.mediavitrina.ru&token=v2.mxXrxGi_ILYjlHqao3iOOwBP_fUIYvs3bEqd7MEr2Jw.b6EwTFTdFJMeAIhWSfeYB8NT4oq7YYnMBIIelQlHfMc.1647491209.f6b44b6e819e94156b1afe93ae5d3cbb
+https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Известия HD
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Россия",РБК HD
@@ -405,6 +384,8 @@ http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/varian
 #EXTINF:-1 group-title="Россия" tvg-logo="http://epg.it999.ru/img/2141.png",Спас
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngQ3MBk-1noku5P-oU6dLqNnB_Lh0pFp9zOSwSa=s200-c-k-c0x00ffffff-no-rj?.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/c0cb246f51fa7550e4826435804082fc.png" tvg-id="2na2",2x2 HD
+https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="http://epg.it999.ru/img/323.png",2x2
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2

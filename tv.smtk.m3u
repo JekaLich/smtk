@@ -1,48 +1,44 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,http://epg.auratv.fun/EPG/xmltv.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1
-http://109.200.130.124:15500/A1
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1 HD
 http://persik.by/stream/7504/377885/10380.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2
 http://persik.by/stream/7504/377885/727.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2
-http://109.200.130.124:15500/A2
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit
-http://109.200.130.124:7006/play/a02l
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit
 http://persik.by/stream/7504/377885/895.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Premium
-http://109.200.130.124:7006/play/a02m
-#EXTINF:-1 group-title="Кино",Amedia Premium HD
-https://sc.id-tv.kz:443/amedia_pr_hd.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Premium HD
-https://sc.id-tv.kz/amedia_pr_hd.m3u8
+#EXTINF:-1 group-title="Кино"  tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit
+http://91.210.251.19:4866/udp/239.0.1.139:4000
 #EXTINF:-1 group-title="Кино",Amedia Premium HD
 http://persik.by/stream/7504/377885/643.m3u8
+#EXTINF:-1 group-title="Кино",VIP Comedy
+http://91.210.251.17:4866/udp/239.0.20.25:4000
+#EXTINF:-1 group-title="Кино",VIP Megahit
+http://91.210.251.17:4866/udp/239.0.20.26:4000
+#EXTINF:-1 group-title="Кино",VIP Premiere
+http://91.210.251.17:4866/udp/239.0.20.27:4000
 #EXTINF:-1 group-title="Кино",VIP Serial
 http://94.229.250.73:8008/play/a003
 #EXTINF:-1 group-title="Кино",TV1000
 http://82.209.197.187:8080/udp/239.0.100.141:1234
 #EXTINF:-1 group-title="Кино",TV1000
-http://212.115.255.196/Jfd85Hf/tv1000.m3u8
-#EXTINF:-1 group-title="Кино",TV1000
 http://persik.by/stream/7504/377885/10237.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+http://91.210.251.19:4866/udp/239.0.1.44:4000
+#EXTINF:-1 group-title="Кино",TV1000 Action
+http://91.210.251.19:4866/udp/239.0.1.52:4000
 #EXTINF:-1 group-title="Кино",TV1000 Action
 http://persik.by/stream/7504/377885/10238.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Action
 http://tv.streams.baikal-telecom.net/TV1000/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Action
 http://212.115.255.196/Jfd85Hf/tv1000action.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 Русское кино
+http://91.210.251.19:4866/udp/239.0.1.60:4000
 #EXTINF:-1 group-title="Кино",Русский Экстрим UHD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Душевное кино
-http://50.7.231.220:8081/172/index.m3u8?wmsAuthSign=okad
-#EXTINF:-1 group-title="Кино",Про любовь
-http://50.7.231.220:8081/237/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://myott.top/stream/1VGPHYLZTH/64.m3u8
 #EXTINF:-1 group-title="Кино",Комедия
@@ -52,49 +48,53 @@ http://myott.top/stream/1VGPHYLZTH/74.m3u8
 #EXTINF:-1 group-title="Кино",Шокирующее
 http://myott.top/stream/1VGPHYLZTH/75.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
-http://109.200.130.124:7006/play/a02n
-#EXTINF:-1 group-title="Кино",Hollywood
 https://sc.id-tv.kz/Hollywood_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Hollywood
+http://91.210.251.19:4866/udp/239.0.1.104:4000
 #EXTINF:-1 group-title="Кино",Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1 group-title="Кино",CINEMA 
-https://sc.id-tv.kz:443/Cinema_36_37.m3u8
-#EXTINF:-1 group-title="Кино",CINEMA
-https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1 group-title="Кино",ДОРАМА
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",ДОРАМА HD
 https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
-#EXTINF:-1 group-title="Кино",Кинопремьера
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Кинопремьера HD
 http://persik.by/stream/7504/377885/10240.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
 http://persik.by/stream/7504/377885/292.m3u8
+#EXTINF:-1 group-title="Кино",Кинокомедия
+http://91.210.251.19:4866/udp/239.0.1.103:4000
+#EXTINF:-1 group-title="Кино",Киномикс
+http://91.210.251.19:4866/udp/239.0.1.114:4000
 #EXTINF:-1 group-title="Кино",Киномикс
 http://persik.by/stream/7504/377885/608.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
 http://persik.by/stream/7504/377885/30.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание
+http://91.210.251.19:4866/udp/239.0.1.86:4000
 #EXTINF:-1 group-title="Кино",Киносемья
 http://persik.by/stream/7504/377885/590.m3u8
+#EXTINF:-1 group-title="Кино",Киносемья
+http://91.210.251.19:4866/udp/239.0.1.88:4000
 #EXTINF:-1 group-title="Кино",Киносерия
 http://persik.by/stream/7504/377885/278.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://persik.by/stream/7504/377885/213.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
+http://91.210.251.19:4866/udp/239.0.1.87:4000
 #EXTINF:-1 group-title="Кино",Мужское кино HD
 http://persik.by/stream/7504/377885/10368.m3u8
+#EXTINF:-1 group-title="Кино",Мужское кино
+http://91.210.251.19:4866/udp/239.0.1.83:4000
 #EXTINF:-1 group-title="Кино",Наше новое кино
 http://persik.by/stream/7504/377885/260.m3u8
+#EXTINF:-1 group-title="Кино",Наше новое кино
+http://91.210.251.19:4866/udp/239.0.1.31:4000
+#EXTINF:-1 group-title="Кино",Родное кино
+http://91.210.251.19:4866/udp/239.0.1.30:4000
 #EXTINF:-1 group-title="Кино",Родное кино
 http://persik.by/stream/7504/377885/312.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
-https://sc.id-tv.kz/Kinohit_hd.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
-http://185.129.1.242:80/kinoxit/mpegts
-#EXTINF:-1 group-title="Кино",Киномикс HD
-https://sc.id-tv.kz/Kinomix_hd.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://82.209.197.187:8080/udp/239.0.100.33:1234
 #EXTINF:-1 group-title="Кино",Киносемья HD
@@ -103,42 +103,40 @@ https://sc.id-tv.kz/Kinosemiya_hd.m3u8
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
 http://94.154.83.88:10000/kinosvidanie
-#EXTINF:-1 group-title="Кино",Мужское Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
 http://46.174.83.66/Kinokomedia/index.m3u8
-#EXTINF:-1 group-title="Кино",Киносерия
-https://sc.id-tv.kz/Kinoseriya_hd.m3u8
-#EXTINF:-1 group-title="Кино",Комедия
-http://83.234.69.200:4022/udp/233.12.144.1:5050
+#EXTINF:-1 group-title="Кино",Shot TV
+http://91.210.251.19:4866/udp/239.0.1.118:4000
 #EXTINF:-1 group-title="Кино",Иллюзион+
 https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:-1 group-title="Кино",Иллюзион+
+http://91.210.251.19:4866/udp/239.0.1.101:4000
 #EXTINF:-1 group-title="Кино",FOX
 http://109.200.130.124:15500/fox
 #EXTINF:-1 group-title="Кино",FOX HD
 https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
 #EXTINF:-1 group-title="Кино",FOX HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title="Кино",FOX
+http://91.210.251.19:4866/udp/239.0.1.68:4000
+#EXTINF:-1 group-title="Кино",Fox Life
+http://91.210.251.19:4866/udp/239.0.1.69:4000
 #EXTINF:-1 group-title="Кино",Paramount Channel
 http://109.200.130.124:15500/paramountchannel
 #EXTINF:-1 group-title="Кино",Paramount Comedy
 http://109.200.130.124:15500/paramountcomedy
-#EXTINF:-1 group-title="Кино",Sony Channel
-http://83.234.69.200:4022/udp/239.54.6.47:1224
 #EXTINF:-1 group-title="Кино",Sony Channel
 http://myott.top/stream/1VGPHYLZTH/69.m3u8
 #EXTINF:-1 group-title="Кино",.black
 http://176.197.77.101:81/udp/239.255.42.93:1234
 #EXTINF:-1 group-title="Кино",.black HD
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8?ts
-#EXTINF:-1 group-title="Кино",.sci-fi
+#EXTINF:-1 group-title="Кино",Sony Sci-fi
+http://91.210.251.19:4866/udp/239.0.1.26:4000
+#EXTINF:-1 group-title="Кино",Sony Sci-fi
 http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
 #EXTINF:-1 group-title="Кино",Мир Сериала
 http://109.200.130.124:7007/play/a01a
-#EXTINF:-1 group-title="Кино",НСТ
-http://109.200.130.124:15500/nst
-#EXTINF:-1 group-title="Кино",НСТ
-https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Zee TV
@@ -147,47 +145,31 @@ http://194.213.23.7:3304
 http://82.209.197.187:8080/udp/239.0.100.101:1234
 #EXTINF:-1 group-title="Кино",НТВ Сериал
 http://82.209.197.187:8080/udp/239.0.100.139:1234
-#EXTINF:-1 group-title="Кино",НТВ Хит
-http://178.163.38.155:4022/udp/234.0.0.236:2000
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум
 https://sc.id-tv.kz/domkino_hd.m3u8
-#EXTINF:-1 group-title="Кино",Дом Кино
-https://sc.id-tv.kz:443/DomKino_36_37.m3u8
-#EXTINF:-1 group-title="Кино",Дом кино
-http://82.209.197.187:8080/udp/239.0.100.148:1234
+#EXTINF:-1 group-title="Кино",ТВ-3
+http://91.210.251.19:4866/udp/239.0.1.136:4000
+#EXTINF:-1 group-title="Кино",ЕвроКино
+http://91.210.251.19:4866/udp/239.0.1.106:4000
+#EXTINF:-1 group-title="Кино",Домашний
+http://91.210.251.19:4866/udp/239.0.1.81:4000
 #EXTINF:-1 group-title="Кино",Твоё ТВ
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Кино",Твоё ТВ HD
 http://stream-norst.cf:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Русский Иллюзион
-http://178.163.29.89:4022/udp/234.0.0.178:2000
-#EXTINF:-1 group-title="Кино",Русский Иллюзион
+#EXTINF:-1 group-title="Кино",Русский роман
+http://109.171.45.109:81/udp/239.54.5.87:1224
+#EXTINF:-1 group-title="Кино",Русский иллюзион
 http://86.57.178.105:10823
-#EXTINF:-1 group-title="Кино",Русский Иллюзион
+#EXTINF:-1 group-title="Кино",Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Русский детектив
-http://83.234.69.200:4022/udp/239.54.6.32:1224
-#EXTINF:-1 group-title="Кино",Русский иллюзион INT
-http://82.209.197.187:8080/udp/239.0.100.220:1234
-#EXTINF:-1 group-title="Кино",Русский Бестселлер
-http://185.134.38.134:4022/udp/234.0.0.250:2000
+http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Кинолюкс
-http://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 group-title="Кино",Ужастик
-https://v2.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/4770.png",BACKUS TV HD
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/4662.png",BACKUSTV Страшное HD
-http://stream.backustv.ru/live/btv2/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные",Animal Planet
-http://109.200.130.124:7006/play/a00v
-#EXTINF:-1 group-title="Познавательные",Animal Planet
-http://31.40.148.98:8000/animal_planet/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Science
@@ -196,18 +178,24 @@ http://109.200.130.124:7007/play/a00b
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1 group-title="Познавательные",DTX
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
-#EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
-http://1hdru-hls-otcnet.cdnvideo.ru/ta/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",ID
-http://109.200.130.124:7006/play/a010
 #EXTINF:-1 group-title="Познавательные",TLC
-http://109.200.130.124:7006/play/a018
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",History HD
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 group-title="Познавательные",History 2 HD
+https://sc.id-tv.kz/H2HD_36_37.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://91.210.251.19:4866/udp/239.0.1.24:4000
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://persik.by/stream/7504/377885/10210.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 http://persik.by/stream/7504/377885/10243.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1014.png",Viasat Explore
-https://sc.id-tv.kz:443/ViasatExplorer_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://91.210.251.19:4866/udp/239.0.1.59:4000
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+https://sc.id-tv.kz:443/NatGeogHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1014.png",Viasat Explore
 http://persik.by/stream/7504/377885/10280.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3236.png",Viasat History
@@ -216,28 +204,20 @@ http://persik.by/stream/7504/377885/10278.m3u8
 https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature
 http://persik.by/stream/7504/377885/10279.m3u8
+#EXTINF:-1 group-title="Познавательные",Da Vinci
+http://91.210.251.19:4866/udp/239.0.1.107:4000
 #EXTINF:-1 group-title="Познавательные",Авто Плюс
 http://persik.by/stream/7504/377885/311.m3u8
 #EXTINF:-1 group-title="Познавательные",Доктор
 http://myott.top/stream/1VGPHYLZTH/80.m3u8
-#EXTINF:-1 group-title="Познавательные",Большая азия
-http://192.166.144.111:8008/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Нано HD
 http://192.166.144.111:8008/play/a003/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Продвижение
 http://192.166.144.111:8008/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Продвижение
+http://91.210.251.19:4866/udp/239.0.1.15:4000
 #EXTINF:-1 group-title="Познавательные",Тайна
 http://192.166.144.111:8008/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Тномер
-http://192.166.144.111:8008/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Точка ТВ
-http://192.166.144.111:8008/play/a018/index.m3u8
-#EXTINF:-1 group-title="Познавательные",History HD
-http://185.129.1.242:80/history/mpegts
-#EXTINF:-1 group-title="Познавательные",History HD
-https://sc.id-tv.kz/HistoryHD_36_37.m3u8
-#EXTINF:-1 group-title="Познавательные",History 2 HD
-https://sc.id-tv.kz/H2HD_36_37.m3u8
 #EXTINF:-1 group-title="Познавательные",Love Nature 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
@@ -256,30 +236,22 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 #EXTINF:-1 group-title="Познавательные",Конный мир
 http://83.222.205.10:38080/konnyimir/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Поехали!
-http://109.200.130.124:7006/play/a02p
 #EXTINF:-1 group-title="Познавательные",Домашние Животные
 http://109.200.130.124:7000/play/a00d
-#EXTINF:-1 group-title="Познавательные",Охота и рыбалка
-http://82.209.197.187:8080/udp/239.0.100.90:1234
-#EXTINF:-1 group-title="Познавательные",Охота и рыбалка
-http://83.234.69.200:4022/udp/233.12.144.54:5050
-#EXTINF:-1 group-title="Познавательные",HGTV
-http://83.234.69.200:4022/udp/239.54.6.208:1224
-#EXTINF:-1 group-title="Познавательные",Драйв
-http://82.209.197.187:8080/udp/239.0.100.91:1234
-#EXTINF:-1 group-title="Познавательные",Ретро
-http://82.209.197.187:8080/udp/239.0.100.92:1234
-#EXTINF:-1 group-title="Познавательные",Домашние животные
-http://82.209.197.187:8080/udp/239.0.100.93:1234
-#EXTINF:-1 group-title="Познавательные",Усадьба
-http://82.209.197.187:8080/udp/239.0.100.94:1234
-#EXTINF:-1 group-title="Познавательные",Оружие
-http://82.209.197.187:8080/udp/239.0.100.122:1234
 #EXTINF:-1 group-title="Познавательные",365 дней ТВ
 http://82.209.197.187:8080/udp/239.0.100.138:1234
-#EXTINF:-1 group-title="Познавательные",Бобер
-http://109.200.130.124:7006/play/a02g
+#EXTINF:-1 group-title="Познавательные",Еда Премиум
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ HD
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Зоопарк
+http://46.174.83.66/Zoopark/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Поехали!
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Техно 24
+https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Охота и рыбалка
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка ТВ
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство идей
@@ -396,45 +368,84 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
 
-#EXTINF:-1 group-title="Новости",Дождь HD
-https://strm.yandex.ru/kal/tvrain2/ysign1=27aad446bc6da4415dacbfe5e762f9c9ba3d86b3f745f96aa576c55ef118fe65,abcID=1558,from=unknown,pfx,region=10000,sfx,ts=623df80b/manifest.mpd?audio_mbr=1&brand-safety-categories=%5B64%5D&channel_id=1539355922&clid=495&content-category=&content-genre=&content_id=41c50d5d90efce1297b9f0de98c1218d&from=other&from_block=other&frontend_vh_reqid=1648141963694814-15228260796079585324-k5twvc3oiyi5zy7y-BAL-7693&gzip=1&imp-id=undefined&imp_id=1&mburl=1&offset=30&partner-id=323734&partner_id=323734&puid=53812529&reqid=1648141963694814-15228260796079585324-k5twvc3oiyi5zy7y-BAL&sandboxVersion=0x8f901ed9b93&slots=null&target_ref=https%3A%2F%2Fyastatic.net%2Fyandex-video-player-iframe-api%2Fjs%2Fplayer-api-loader.js&uuid=41c50d5d90efce1297b9f0de98c1218d&video-category-id=1017&video_category_id=1017&vsid=603db4d771ac52f9dc0c47727c3f0351cf6a34c0a260xWEBx8081x1648141963&yandexuid=6032127301566493347
-#EXTINF:-1 group-title="Новости",DW
-http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Россия",Дождь
+http://91.210.251.19:4866/udp/239.0.1.100:4000
+#EXTINF:-1 group-title="Новости",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/03.m3u8
+#EXTINF:-1 group-title="Новости",Euronews
+http://91.210.251.19:4866/udp/239.0.1.9:4000
+#EXTINF:-1 group-title="Новости",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 group-title="Новости",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/03.m3u8
 #EXTINF:-1 group-title="Новости",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 group-title="Новости",Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
+#EXTINF:-1 group-title="Relax Nature",TV Animals HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Aurora HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Beaches HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Forest HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Lake HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Mountain HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Rivers HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Sunset HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Tropics HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Waterfalls HD
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+
+#EXTINF:-1 group-title="Детские",Канал Disney
+http://91.210.251.19:4866/udp/239.0.1.39:4000
+#EXTINF:-1 group-title="Детские",Детский мир
+http://91.210.251.19:4866/udp/239.0.1.40:4000
+#EXTINF:-1 group-title="Детские",Карусель
+http://91.210.251.19:4866/udp/239.0.1.49:4000
 #EXTINF:-1 group-title="Детские",Карусель
 http://82.209.197.187:8080/udp/239.0.100.149:1234
 #EXTINF:-1 group-title="Детские",Карусель
 http://46.174.83.66/Karusel/mpegts
 #EXTINF:-1 group-title="Детские",Карусель
 http://radio-live-mg.rtr-vesti.ru/hls/karusel/playlist_3.m3u8
-#EXTINF:-1 group-title="Детские",Baby TV
-http://193.106.29.244:80/baby_tv/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://tv.streams.baikal-telecom.net/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Детские",Cartoon Network
-http://91.237.40.215:4002/play/a00p
+#EXTINF:-1 group-title="Детские",Gulli Girl
+https://sc.id-tv.kz/Gulli_34_35.m3u8
 #EXTINF:-1 group-title="Детские",Gulli Girl
 http://persik.by/stream/7504/377885/596.m3u8
+#EXTINF:-1 group-title="Детские",Gulli Girl
+http://91.210.251.19:4866/udp/239.0.1.70:4000
+#EXTINF:-1 group-title="Детские",TiJi
+http://91.210.251.19:4866/udp/239.0.1.96:4000
 #EXTINF:-1 group-title="Детские",O!
 https://sc.id-tv.kz/o_34_35.m3u8
-#EXTINF:-1 group-title="Детские",Мульт и музыка
-http://myott.top/stream/1VGPHYLZTH/82.m3u8
+#EXTINF:-1 group-title="Детские",О!
+http://46.174.83.66/O/index.m3u8
+#EXTINF:-1 group-title="Детские",Мульт
+https://sc.id-tv.kz:443/Mult_34_35.m3u8
+#EXTINF:-1 group-title="Детские",Мульт HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=mult
 #EXTINF:-1 group-title="Детские",Піксель ТВ
 http://212.115.255.196/Jfd85Hf/piksel.m3u8
-#EXTINF:-1 group-title="Детские",Nick Jr.
-http://212.115.255.196/Jfd85Hf/nickjr.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon Europe
+http://91.210.251.19:4866/udp/239.0.1.51:4000
 #EXTINF:-1 group-title="Детские",Nickelodeon HD
 http://persik.by/stream/7504/377885/10420.m3u8
+#EXTINF:-1 group-title="Детские",Пиксель
+http://185.29.255.187:8001/play/a00d
+#EXTINF:-1 group-title="Детские",Плюс Плюс
+http://91.210.251.19:4866/udp/239.0.2.28:4000
+#EXTINF:-1 group-title="Детские",Мульт и музыка
+http://myott.top/stream/1VGPHYLZTH/82.m3u8
 
 #EXTINF:-1 group-title="Спорт",Матч! HD
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
@@ -454,24 +465,18 @@ http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF07
 http://80.237.96.66:9090/stream/channelid/927470349?ticket=4AC1FD6BFB840BFDA0D8FA44B2ABE1DE00617625&profile=pass
 #EXTINF:-1 group-title="Спорт",Матч Футбол 3
 http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
-#EXTINF:-1 group-title="Спорт",Футбол
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://persik.tv/images/channels/logos/440.png",Футбол
 http://80.237.96.66:9090/stream/channelid/179317365?ticket=DA8EC54EEBE7A94F39F16B645F93F14F2B1AFA9F&profile=pass
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://persik.tv/images/channels/logos/440.png",Футбол
+http://persik.by/stream/7504/377885/440.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 #EXTINF:-1 group-title="Спорт",Беларусь 5 HD
 http://persik.by/stream/7504/377885/10408.m3u8
 #EXTINF:-1 group-title="Спорт",Беларусь 5
 http://persik.by/stream/7504/377885/932.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! HD
-https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Планета
 https://sc.id-tv.kz:443/MatchPlaneta_36_37.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Игра
-http://178.163.96.252:4022/udp/234.0.0.211:2000
-#EXTINF:-1 group-title="Спорт",Матч! Страна HD
-https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Страна
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchstrana
 #EXTINF:-1 group-title="Спорт",Спорт 1
 http://212.115.255.196/Jfd85Hf/sport1.m3u8
 #EXTINF:-1 group-title="Спорт",КХЛ HD
@@ -553,12 +558,34 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Музыка",RU.TV
 http://82.209.197.187:8080/udp/239.0.100.48:1234
-#EXTINF:-1 group-title="Музыка",THT Music
-http://82.209.197.187:8080/udp/239.0.100.161:1234
+#EXTINF:-1 group-title="Музыка",BRIDGE
+http://91.210.251.19:4866/udp/239.0.1.102:4000
+#EXTINF:-1 group-title="Музыка",BRIDGE РУССКИЙ ХИТ
+http://91.210.251.19:4866/udp/239.0.1.98:4000
+#EXTINF:-1 group-title="Музыка",Европа Плюс ТВ
+http://91.210.251.19:4866/udp/239.0.1.134:4000
+#EXTINF:-1 group-title="Музыка",Муз ТВ
+http://91.210.251.19:4866/udp/239.0.1.141:4000
+#EXTINF:-1 group-title="Музыка",MCM Top
+http://91.210.251.19:4866/udp/239.0.1.71:4000
+#EXTINF:-1 group-title="Музыка",Mezzo
+http://91.210.251.19:4866/udp/239.0.1.32:4000
+#EXTINF:-1 group-title="Музыка",Club MTV
+http://91.210.251.19:4866/udp/239.0.1.50:4000
+#EXTINF:-1 group-title="Музыка",MTV 00s
+http://91.210.251.19:4866/udp/239.0.1.79:4000
+#EXTINF:-1 group-title="Музыка",MTV 90s
+http://91.210.251.19:4866/udp/239.0.1.72:4000
+#EXTINF:-1 group-title="Музыка",MTV 80s
+http://91.210.251.19:4866/udp/239.0.1.112:4000
+#EXTINF:-1 group-title="Музыка",MTV Hits
+http://91.210.251.19:4866/udp/239.0.1.121:4000
 #EXTINF:-1 group-title="Музыка",MTV Biggest Pop HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 group-title="Музыка",MTV Block Party HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="Музыка",THT Music
+http://82.209.197.187:8080/udp/239.0.100.161:1234
 #EXTINF:-1 group-title="Музыка",ТНТ Music HD
 http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1 group-title="Музыка",Fashion TV
@@ -577,10 +604,6 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1 group-title="Музыка",MUSIC PLUS
 http://79.172.214.45:10190/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Muzzik Cafe&Club Serbia
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Шансон ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Шансон
 http://82.209.197.187:8080/udp/239.0.100.31:1234
 #EXTINF:-1 group-title="Музыка",Ecnulo
@@ -601,10 +624,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Qello TV HD
-https://stirr.ott-channels.stingray.com/qello/master_1280x720_2000kbps.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Karaoke HD
-https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Classic Rock HD
 https://stirr.ott-channels.stingray.com/101/master.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Alternative HD
@@ -1312,6 +1331,727 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8?version=
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/sts.png",СТС (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1561098062706.png",СТС Love (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1417085072920.png",ПЯТНИЦА (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-11)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-12)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-13)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-14)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-15)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24 (-16)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2&offset=-61200
+
 #EXTINF:-1 group-title="Беларусь" tvg-logo="http://persik.tv/images/channels/logos/118.png",Беларусь 1
 http://persik.by/stream/7504/377885/118.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-logo="http://persik.tv/images/channels/logos/10405.png",Беларусь 1 HD
@@ -1328,8 +2068,6 @@ http://persik.by/stream/7504/377885/10712.m3u8
 http://persik.by/stream/7504/377885/883.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-logo="http://persik.tv/images/channels/logos/10407.png",Беларусь 3 HD
 http://persik.by/stream/7504/377885/10407.m3u8
-#EXTINF:-1 group-title="Беларусь" tvg-logo="http://persik.tv/images/channels/logos/10683.png",Беларусь 4. Гомель
-http://persik.by/stream/7504/377885/10683.m3u8
 #EXTINF:-1 group-title="Беларусь",Беларусь 1
 http://82.209.197.187:8080/udp/239.0.100.1:1234
 #EXTINF:-1 group-title="Беларусь",Беларусь 2
@@ -1348,8 +2086,6 @@ http://82.209.197.187:8080/udp/239.0.100.6:1234
 http://82.209.197.187:8080/udp/239.0.100.5:1234
 #EXTINF:-1 group-title="Беларусь",РТР Беларусь
 http://82.209.197.187:8080/udp/239.0.100.7:1234
-#EXTINF:-1 group-title="Беларусь",Пятый INT
-http://82.209.197.187:8080/udp/239.0.100.84:1234
 #EXTINF:-1 group-title="Беларусь",МИР
 http://82.209.197.187:8080/udp/239.0.100.8:1234
 #EXTINF:-1 group-title="Беларусь",ТНТ
@@ -1370,8 +2106,6 @@ http://82.209.197.187:8080/udp/239.0.100.81:1234
 http://82.209.197.187:8080/udp/239.0.100.123:1234
 #EXTINF:-1 group-title="Беларусь",8 канал
 http://82.209.197.187:8080/udp/239.0.100.124:1234
-#EXTINF:-1 group-title="Беларусь" tvg-logo="https://iptvx.one/icn/belarus4.png",Беларусь 4
-http://95.46.208.8:26258/belarus4
 #EXTINF:-1 group-title="Беларусь" tvg-logo="https://dvb.by/sources/logos/1609.png",Белрос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-logo="https://dvb.by/sources/logos/1609.png",Белрос
@@ -1382,8 +2116,6 @@ http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 group-title="Беларусь",СТВ Беларусь
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь",Наше ТВ (Витебск)
-http://95.46.208.8:26259/nashe
 
 #EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/ultra-hd-cinema.png",Ultra HD cinema (-2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer

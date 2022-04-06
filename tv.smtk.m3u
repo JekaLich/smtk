@@ -2117,52 +2117,6 @@ http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 group-title="Беларусь",СТВ Беларусь
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
 
-#EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/ultra-hd-cinema.png",Ultra HD cinema (-2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/ultra-hd-cinema.png",Ultra HD cinema (-4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/ultra-hd-cinema.png",Ultra HD cinema (-6)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/ultra-hd-cinema.png",Ultra HD cinema (-8)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/ultra-hd-cinema.png",Ultra HD cinema (-10)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 group-title="Архив",Русский Экстрим UHD (-2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 group-title="Архив",Русский Экстрим UHD (-4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 group-title="Архив",Русский Экстрим UHD (-6)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 group-title="Архив",Русский Экстрим UHD (-8)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 group-title="Архив",Русский Экстрим UHD (-10)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/love-nature-4k.png",Love Nature 4K (-2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/love-nature-4k.png",Love Nature 4K (-4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/love-nature-4k.png",Love Nature 4K (-6)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/love-nature-4k.png",Love Nature 4K (-8)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 group-title="Архив" tvg-logo="https://iptvx.one/icn/love-nature-4k.png",Love Nature 4K (-10)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
-
 #EXTINF:-1 group-title="XXX",Hustler HD
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/1
 #EXTINF:-1 group-title="XXX",Redlight HD

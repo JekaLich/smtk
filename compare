@@ -1,8 +1,38 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1
 http://109.200.130.124:15500/A1
+#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1 HD
+http://foreign-default.persik.by:82/live/Ch422/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2
+http://st1.astra-uk.ru:81/1597a5a9948014489de663c8fb4438db/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2
+http://foreign-default.persik.by:82/live/Ch4/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2
 http://109.200.130.124:15500/A2
+#EXTINF:-1 group-title="Кино",Amedia Hit
+http://st1.astra-uk.ru:81/0eb5fb21bfa6734a7347087a6fb20fd4/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Hit
+http://foreign-default.persik.by:82/live/Ch224/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Premium
+http://109.254.7.193:4022/udp/238.1.2.8:1234
+#EXTINF:-1 group-title="Кино",Amedia Premium HD
+http://st1.astra-uk.ru:81/22773eeb20de8c8bdf0fd5580190356b/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Amedia Premium HD
+http://foreign-default.persik.by:82/live/Ch225/index.m3u8
+#EXTINF:-1 group-title="Кино",VIP Megahit
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",VIP Megahit
+http://109.254.7.193:4022/udp/238.1.1.127:1234
+#EXTINF:-1 group-title="Кино",VIP Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",VIP Premiere
+http://109.254.7.193:4022/udp/238.1.1.128:1234
+#EXTINF:-1 group-title="Кино",VIP Comedy
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",VIP Comedy
+http://109.254.7.193:4022/udp/238.1.1.126:1234
+#EXTINF:-1 group-title="Кино",VIP Serial
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",VIP Serial
 http://94.229.250.73:8008/play/a003
 #EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10237.png",TV1000
@@ -51,10 +81,14 @@ http://foreign-default.persik.by:82/live/Ch19/index.m3u8
 http://foreign-default.persik.by:82/live/Ch268/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/278.png",Киносерия
 http://foreign-default.persik.by:82/live/Ch42/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/278.png",Киносерия
+http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/260.png",Наше новое кино
 http://foreign-default.persik.by:82/live/Ch12/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/312.png",Родное кино
 http://foreign-default.persik.by:82/live/Ch6/index.m3u8
+#EXTINF:-1 group-title="Кино",Индийское кино
+http://46.174.83.66/Indiiskoe_kino/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1 group-title="Кино",Киноужас
 https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
@@ -79,6 +113,14 @@ http://176.197.77.101:81/udp/239.255.42.93:1234
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8?ts
 #EXTINF:-1 group-title="Кино",Sony Sci-fi
 http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
+#EXTINF:-1 group-title="Кино",Sony Channel
+http://109.200.130.124:7007/play/a01d
+#EXTINF:-1 group-title="Кино",Cinema
+http://92.248.221.24:81/udp/225.0.55.115:1234
+#EXTINF:-1 group-title="Кино",Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://st1.astra-uk.ru:81/4a4465277e04b28e57d10a290097d5d6/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Zee TV
@@ -89,6 +131,22 @@ http://foreign-default.persik.by:82/live/Ch101/index.m3u8
 http://82.209.197.187:8080/udp/239.0.100.101:1234
 #EXTINF:-1 group-title="Кино",НТВ Сериал
 http://82.209.197.187:8080/udp/239.0.100.139:1234
+#EXTINF:-1 group-title="Кино",НТВ Хит
+https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair14.smil/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Film UA Drama
+http://212.115.255.196/Jfd85Hf/filmuadrama.m3u8
+#EXTINF:-1 group-title="Кино",FilmBox
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1 group-title="Кино",FilmBox ArtHouse
+http://212.115.255.196/Jfd85Hf/fbarthouse.m3u8
+#EXTINF:-1 group-title="Кино",PRO100 TV
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Ретро
+http://46.174.83.66/Retro/index.m3u8?em9uYS1pcHR2LnJ1
+#EXTINF:-1 group-title="Кино",Star Cinema
+http://109.254.7.193:4022/udp/238.1.1.74:1234
+#EXTINF:-1 group-title="Кино",Star Family
+http://109.254.7.193:4022/udp/238.1.1.55:1234
 #EXTINF:-1 group-title="Кино",Мир Сериала
 http://109.200.130.124:7007/play/a01a
 #EXTINF:-1 group-title="Кино",Русский роман
@@ -103,6 +161,8 @@ https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
 #EXTINF:-1 group-title="Кино",BACKUSTV Страшное HD
 http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="Кино",BACKUSTV Страшное HD
+http://stream.backustv.ru/content/39864/index.m3u8
 #EXTINF:-1 group-title="Кино",BACKUSTV HD
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="Кино",Твоё ТВ

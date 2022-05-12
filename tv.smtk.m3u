@@ -659,6 +659,8 @@ http://50.7.92.90/Nickelodeon/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.it999.ru/img/567.png",Nickelodeon
 http://195.245.97.133:8000/channel129.m3u8
 
+#EXTINF:-1 group-title="Спорт" tvg-id="rbk",Матч! HD (test)
+https://live-204.zxz.su/LIVE/LIVE:133529/HLS/1652349431/GNd3vz4keeCCeUztG5HR5A/live/133529_4/chunklist.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://50.7.92.90/Eurosport_HD/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1

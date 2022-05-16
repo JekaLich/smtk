@@ -37,16 +37,16 @@ http://50.7.188.186/TV1000_Comedy_HD/mono.m3u8
 http://195.245.97.133:8000/channel109.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" group-title="Кино",VIP Serial
 http://50.7.188.186/VIP_Serial_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png"  group-title="Кино",VIP Serial
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" group-title="Кино",VIP Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png"  group-title="Кино",VIP Serial
 http://94.229.250.73:8008/play/a003
-#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10237.png",TV1000
-http://82.209.197.187:8080/udp/239.0.100.141:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",TV1000 HD
 http://50.7.188.186/TV1000_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",TV1000
 http://195.245.97.133:8000/channel102.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",TV1000
+http://82.209.197.187:8080/udp/239.0.100.141:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",TV1000 Action
 http://195.245.97.133:8000/channel101.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",TV1000 Action HD
@@ -105,8 +105,12 @@ http://195.245.97.133:8000/channel94.m3u8
 http://50.7.92.90/Komediya_TV/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" group-title="Кино",Кинокомедия
 http://46.174.83.66/Kinokomedia/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" group-title="Кино",Кинокомедия
+http://195.245.97.133:8000/channel106.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="Кино",Мужское Кино HD
 http://50.7.188.186/Muzhskoe_kino/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="Кино",Мужское кино
+http://195.245.97.133:8000/channel99.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" group-title="Кино",Киносерия
 http://50.7.188.186/Mnogo_TV/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/278.png",Киносерия
@@ -115,18 +119,26 @@ http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8
 http://46.174.83.66/Indiiskoe_kino/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" group-title="Кино",Индийское кино
 http://50.7.188.186/Indiya_TV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" group-title="Кино",Индийское кино
+http://195.245.97.133:8000/channel108.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="Кино",Киноужас HD
 http://50.7.92.90/kinoujas_tv/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="Кино",Киноужас
+http://195.245.97.133:8000/channel104.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="Кино",Киноужас
 https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс HD
 http://50.7.188.186/Kino_plyus/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
 http://82.209.197.187:8080/udp/239.0.100.33:1234
-#EXTINF:-1 group-title="Кино",Иллюзион+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
+http://195.245.97.133:8000/channel97.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+
 https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+
 http://50.7.188.186/Illyuzion/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+
+http://195.245.97.133:8000/channel90.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",FOX
 http://109.200.130.124:15500/fox
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",FOX HD
@@ -145,6 +157,8 @@ http://195.245.97.133:8000/channel114.m3u8
 http://50.7.188.186/Paramount_Channel/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" group-title="Кино",Paramount Comedy
 http://50.7.188.186/Paramount_Comedy/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" group-title="Кино",Paramount Comedy
+http://195.245.97.133:8000/channel121.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" group-title="Кино",.red
 http://50.7.188.186/SET/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" group-title="Кино",.sci-fi
@@ -163,6 +177,8 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 http://50.7.188.186/cinema/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Кино",НСТ
 http://50.7.188.186/NST/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Кино",НСТ
+http://195.245.97.133:8000/channel103.m3u8
 #EXTINF:-1 group-title="Кино",Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Феникс+Кино
@@ -173,6 +189,8 @@ http://82.209.197.187:8080/udp/239.0.100.139:1234
 http://50.7.188.186/ntvserial/mono.m3u8
 #EXTINF:-1 group-title="Кино",НТВ Хит
 https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair14.smil/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Мир сериала
+http://195.245.97.133:8000/channel89.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2018.png" group-title="Кино",Наше крутое HD
 http://50.7.92.90/Nashe_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" group-title="Кино",Наш Кинопоказ HD
@@ -181,10 +199,18 @@ http://50.7.92.90/Semeynoe_HD/mono.m3u8
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2233.png" group-title="Кино",ZEE TV
 http://50.7.188.186/ZeeTV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png" group-title="Кино",Дом Кино Премиум
+http://195.245.97.133:8000/channel116.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png" group-title="Кино",Дом Кино
 http://50.7.92.90/Dom_kino/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png" group-title="Кино",Дом кино
+http://195.245.97.133:8000/channel91.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" group-title="Кино",Родное кино
 http://50.7.92.90/Nashe_kino/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" group-title="Кино",Родное кино
+http://195.245.97.133:8000/channel105.m3u8
+#EXTINF:-1 group-title="Кино",Наше новое кино
+http://195.245.97.133:8000/channel96.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png" group-title="Кино",Еврокино
 http://50.7.188.186/Evrokino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2181.png" group-title="Кино",FilmBox
@@ -199,10 +225,14 @@ http://50.7.188.186/TV-XXI/mono.m3u8
 http://50.7.188.186/Russkibesteller/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/994.png" group-title="Кино",Русский бестселлер
 http://50.7.92.90/UTV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/994.png" group-title="Кино",Русский бестселлер
+http://195.245.97.133:8000/channel119.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" group-title="Кино",Русский роман
 http://50.7.188.186/Russkiy_roman/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" group-title="Кино",Русский роман
 http://109.171.45.109:81/udp/239.54.5.87:1224
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" group-title="Кино",Русский роман
+http://195.245.97.133:8000/channel118.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" group-title="Кино",Русский роман
 http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png" group-title="Кино",Русский иллюзион
@@ -211,8 +241,12 @@ http://86.57.178.105:10823
 http://50.7.188.186/Russkiy_illyuzion/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png" group-title="Кино",Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png" group-title="Кино",Русский Иллюзион
+http://195.245.97.133:8000/channel120.m3u8
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Русский Детектив
+http://195.245.97.133:8000/channel117.m3u8
 #EXTINF:-1 group-title="Кино",BACKUSTV Страшное HD
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Кино",BACKUSTV Страшное HD
@@ -258,8 +292,6 @@ http://195.245.97.133:8000/channel62.m3u8
 http://50.7.92.90/DTX_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2485.png" group-title="Познавательные",DTX HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png" group-title="Познавательные",History
-http://134.0.113.120:8000/play/historyhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png" group-title="Познавательные",History HD
 http://50.7.92.90/History_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png" group-title="Познавательные",History HD
@@ -280,6 +312,8 @@ http://50.7.92.90/Nat_Geo_Wild/mono.m3u8
 http://195.245.97.133:8000/channel83.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png" group-title="Познавательные",National Geographic HD
 http://50.7.188.186/National_Geo_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png"  group-title="Познавательные",National Geographic
+http://37.195.6.136:81/udp/239.1.5.8:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png" group-title="Познавательные",Nat Geo
 http://195.245.97.133:8000/channel82.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1035.png" group-title="Познавательные",Travel+Adventure
@@ -310,6 +344,8 @@ http://195.245.97.133:8000/channel70.m3u8
 http://50.7.92.90/CBS_Reality/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Da Vinci
 http://195.245.97.133:8000/channel81.m3u8
+#EXTINF:-1 group-title="Познавательные",Da Vinci
+http://37.195.6.136:81/udp/239.1.5.6:1234
 #EXTINF:-1 group-title="Познавательные",Приключения HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 #EXTINF:-1 group-title="Познавательные",Первый космический HD
@@ -360,16 +396,18 @@ http://195.245.97.133:8000/channel73.m3u8
 http://46.43.210.106:4022/udp/239.255.1.59:1234?7
 #EXTINF:-1 group-title="Познавательные",Оружие
 http://195.245.97.133:8000/channel69.m3u8
-#EXTINF:-1 group-title="Познавательные",Дайвинг ТВ
-http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_130.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="Познавательные",Нано HD
 http://192.166.144.111:8008/play/a003/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Продвижение
-http://192.166.144.101:8008/play/a00t/index.m3u8а
 #EXTINF:-1 group-title="Познавательные",Продвижение
 http://192.166.144.111:8008/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Тайна
 http://192.166.144.111:8008/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Тонус
+http://37.195.6.136:81/udp/239.1.21.17:1234
+#EXTINF:-1 group-title="Познавательные",Театр
+http://37.195.6.136:81/udp/239.1.21.18:1234
+#EXTINF:-1 group-title="Познавательные",Время
+http://37.195.6.136:81/udp/239.1.5.4:1234
 #EXTINF:-1 group-title="Познавательные",Love Nature 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
@@ -386,8 +424,6 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 group-title="Познавательные",Реноме
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-#EXTINF:-1 group-title="Познавательные",Конный мир
-http://83.222.205.10:38080/konnyimir/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2423.png" group-title="Познавательные",365 дней ТВ
 http://82.209.197.187:8080/udp/239.0.100.138:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2423.png" group-title="Познавательные",365 дней
@@ -404,16 +440,12 @@ http://50.7.92.90/Kuhnya_TV/mono.m3u8
 http://195.245.97.133:8000/channel63.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/614.png" group-title="Познавательные",Кухня ТВ HD
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные",Вкусное ТВ
-http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_133.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2186.png" group-title="Познавательные",DocuBox HD
 http://50.7.188.186/DocuBoxHD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/415.png" group-title="Познавательные",HD Life
 http://50.7.188.186/HD_Life/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2422.png" group-title="Познавательные",HD media
 http://50.7.188.186/HDMedia/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Зоопарк
-http://46.174.83.66/Zoopark/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png" group-title="Познавательные",НТВ Стиль
 http://50.7.188.186/ntvstyle/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Большая Азия
@@ -448,6 +480,12 @@ https://sc.id-tv.kz/poehali_34_35.m3u8
 http://195.245.97.133:8000/channel65.m3u8
 #EXTINF:-1 group-title="Познавательные",Моя планета
 http://195.245.97.133:8000/channel64.m3u8
+#EXTINF:-1 group-title="Познавательные",Зоопарк
+http://46.174.83.66/Zoopark/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая Планета
+http://37.195.6.136:81/udp/239.1.5.23:1234
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+http://37.195.6.136:81/udp/239.1.21.16:1234
 #EXTINF:-1 group-title="Познавательные",Здоровое ТВ
 http://195.245.97.133:8000/channel67.m3u8
 #EXTINF:-1 group-title="Познавательные",Бобер
@@ -572,8 +610,6 @@ http://50.7.92.90/RTVi/mono.m3u8
 http://50.7.188.186/Dozhd/mono.m3u8
 #EXTINF:-1 group-title="Новости",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/03.m3u8
-#EXTINF:-1 group-title="Новости",Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский
@@ -659,8 +695,6 @@ http://50.7.92.90/Nickelodeon/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.it999.ru/img/567.png",Nickelodeon
 http://195.245.97.133:8000/channel129.m3u8
 
-#EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD (test)
-https://matchtv.ru/vdl/playlist/133529/1209985/1652381844/61596521682d2578ff6325e8958807ef/web.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://50.7.92.90/Eurosport_HD/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
@@ -719,6 +753,8 @@ http://50.7.188.186/Viasat_Sport/mono.m3u8
 https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
 #EXTINF:-1 group-title="Спорт",Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Sport
+http://195.245.97.133:8000/channel137.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 1 HD
 http://50.7.188.186/Futbol1HDUA/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 2 HD
@@ -733,8 +769,6 @@ http://93.152.174.144:4000/play/sporttv1/index.m3u8
 http://93.152.174.144:4000/play/skysports3/index.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports 5 
 http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports News
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports F1
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Tennis Channel
@@ -744,6 +778,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Музыка",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Страна FM
+http://212.79.122.11:5002/udp/238.0.1.11:1234
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
@@ -768,8 +804,6 @@ https://livetv.mylifeisgood.ml/channels/bridgedeluxetv
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgedeluxetv
 #EXTINF:-1 group-title="Музыка",Bridge TV Русский хит
 http://46.43.210.106:4022/udp/239.254.2.130:1234?zone/
-#EXTINF:-1 group-title="Музыка",Bridge TV Фрэш
-https://2serv.mylifeisgood.ml/channels/bridgefreshya
 #EXTINF:-1 group-title="Музыка",Bridge Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 #EXTINF:-1 group-title="Музыка",O2TV
@@ -2260,14 +2294,6 @@ http://edge-01-pub.persik.by:82/live/Ch113pub/index.m3u8
 http://82.209.197.187:8080/udp/239.0.100.1:1234
 #EXTINF:-1 group-title="Беларусь",Беларусь 3
 http://82.209.197.187:8080/udp/239.0.100.3:1234
-#EXTINF:-1 group-title="Беларусь",ОНТ
-http://82.209.197.187:8080/udp/239.0.100.4:1234
-#EXTINF:-1 group-title="Беларусь",СТВ
-http://82.209.197.187:8080/udp/239.0.100.5:1234
-#EXTINF:-1 group-title="Беларусь",МИР
-http://82.209.197.187:8080/udp/239.0.100.8:1234
-#EXTINF:-1 group-title="Беларусь",ТНТ
-http://82.209.197.187:8080/udp/239.0.100.160:1234
 #EXTINF:-1 group-title="Беларусь",Союз
 http://82.209.197.187:8080/udp/239.0.100.10:1234
 #EXTINF:-1 group-title="Беларусь",ТВ-3
@@ -2278,49 +2304,39 @@ http://82.209.197.187:8080/udp/239.0.100.38:1234
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-logo="https://dvb.by/sources/logos/1609.png",Белрос
 http://uiptv.do.am/1ufc/116316122/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь",Белсат
-http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Беларусь",Белсат HD
-http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 
 #EXTINF:-1 group-title="XXX",Русская ночь
 http://46.174.83.66/Russkaya_Noch/video.m3u8
+#EXTINF:-1 group-title="XXX",Extasy 4K
+http://213.81.133.133:8080/extasy4k/index.m3u8
 #EXTINF:-1 group-title="XXX",Erox
 http://94.229.250.73:8008/play/a002
-#EXTINF:-1 group-title="XXX",Jasmin TV HD
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="XXX",KINO 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 group-title="XXX",Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 group-title="XXX",VISIT-X
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="XXX",VISIT-X r
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="XXX",ExtasY HD
-http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-#EXTINF:-1 group-title="XXX",REDLIGHT
-http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 group-title="XXX",Extasy/LeoTV HD
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:-1 group-title="XXX",PinkoTV
+http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic 1
+http://54.36.123.36:8080/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic 2
+http://54.36.123.36:8080/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic 3
+http://54.36.123.36:8080/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic 5
+http://54.36.123.36:8080/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic 8
+http://54.36.123.36:8080/PinkErotic8/index.m3u8
+#EXTINF:-1 group-title="XXX",Redlight HD
+http://109.200.130.123:7032/play/353
+#EXTINF:-1 group-title="XXX",Vivid Red HD
+http://109.200.130.123:7032/play/a00g
 #EXTINF:-1 group-title="XXX",Hustler TV
 http://78.83.191.18:8000/play/a078
-#EXTINF:-1 group-title="XXX",ExtasY
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-#EXTINF:-1 group-title="XXX",AST TV
-https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 group-title="XXX",AST TV 2
-https://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1 group-title="XXX",Threesone HD
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="XXX",XXL
-http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="XXX",Venus
+http://45.225.95.170:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="XXX",Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="XXX",Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="XXX",Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="XXX",Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="XXX",Brunette
-http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 group-title="XXX",Blonde
 http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 group-title="XXX",Anal
@@ -2329,10 +2345,10 @@ http://cdn.adultiptv.net/anal.m3u8
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 group-title="XXX",Russian
 http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="XXX",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
 #EXTINF:-1 group-title="XXX",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="XXX",Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
 #EXTINF:-1 group-title="XXX",Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
 #EXTINF:-1 group-title="XXX",Teen
@@ -2361,237 +2377,25 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 group-title="XXX",Gay
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="XXX",Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 group-title="XXX",Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1 group-title="XXX",Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 group-title="XXX",Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="XXX",Bigass HD
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="XXX",Cuckold HD
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="XXX",Fetish HD
+http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 group-title="XXX",Hard Core
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 group-title="XXX",Three Some
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 group-title="XXX",Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 group-title="XXX",Blowjob HD 720
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="XXX",Cuckold HD 720
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 group-title="XXX",Fetish HD 720
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 group-title="XXX",Interracial HD 720
+#EXTINF:-1 group-title="XXX",Interracial HD
 http://live.redtraffic.xyz/interracial.m3u8
 #EXTINF:-1 group-title="XXX",Latina HD 720
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 group-title="XXX",Milf HD 720
+#EXTINF:-1 group-title="XXX",Lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="XXX",Milf HD
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 group-title="XXX",Pornstar HD 720
+#EXTINF:-1 group-title="XXX",Pornstar HD
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 group-title="XXX",POV HD 720
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 group-title="XXX",Russian HD 720
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 group-title="XXX",Teen HD 720
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="XXX",Mega XXX 1
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17375
-#EXTINF:-1 group-title="XXX",Mega XXX 2
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17376
-#EXTINF:-1 group-title="XXX",Mega XXX 3
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17377
-#EXTINF:-1 group-title="XXX",Mega XXX 4
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17378
-#EXTINF:-1 group-title="XXX",Mega XXX 5
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17379
-#EXTINF:-1 group-title="XXX",Mega XXX 6
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17380
-#EXTINF:-1 group-title="XXX",Mega XXX 7
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17381
-#EXTINF:-1 group-title="XXX",Mega XXX 8
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17382
-#EXTINF:-1 group-title="XXX",Mega XXX 9
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17383
-#EXTINF:-1 group-title="XXX",Mega XXX 10
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17384
-#EXTINF:-1 group-title="XXX",Prime XXX 1
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17385
-#EXTINF:-1 group-title="XXX",Prime XXX 2
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17386
-#EXTINF:-1 group-title="XXX",Prime XXX 3
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17387
-#EXTINF:-1 group-title="XXX",Prime XXX 4
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17388
-#EXTINF:-1 group-title="XXX",Prime XXX 5
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17389
-#EXTINF:-1 group-title="XXX",Prime XXX 6
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17390
-#EXTINF:-1 group-title="XXX",Prime XXX 7
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17391
-#EXTINF:-1 group-title="XXX",Prime XXX 8
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17392
-#EXTINF:-1 group-title="XXX",Prime XXX 9
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17393
-#EXTINF:-1 group-title="XXX",Prime XXX 10
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17394
-#EXTINF:-1 group-title="XXX",HUSTLER HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31884
-#EXTINF:-1 group-title="XXX",ADULT Big Ass
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31912
-#EXTINF:-1 group-title="XXX",JASMIN.TV HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31881
-#EXTINF:-1 group-title="XXX",ADULT Big Dick
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31911
-#EXTINF:-1 group-title="XXX",PENTHOUSE GOLD HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31877
-#EXTINF:-1 group-title="XXX",ADULT Big Tits
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31910
-#EXTINF:-1 group-title="XXX",PRIVATE HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31874
-#EXTINF:-1 group-title="XXX",ADULT Cuckold
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31909
-#EXTINF:-1 group-title="XXX",ADULT Fetish
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31908
-#EXTINF:-1 group-title="XXX",REDLIGHT HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31850
-#EXTINF:-1 group-title="XXX",ALBA XXX1 HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20400
-#EXTINF:-1 group-title="XXX",ALBA XXX2 HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20399
-#EXTINF:-1 group-title="XXX",ALBA XXX3 HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20398
-#EXTINF:-1 group-title="XXX",EROXXX HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20391
-#EXTINF:-1 group-title="XXX",HOT HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20389
-#EXTINF:-1 group-title="XXX",Hustler HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20388
-#EXTINF:-1 group-title="XXX",ADULT Hardcore
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31907
-#EXTINF:-1 group-title="XXX",ADULT Latina
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31906
-#EXTINF:-1 group-title="XXX",ADULT MILF
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31905
-#EXTINF:-1 group-title="XXX",ADULT POV
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31904
-#EXTINF:-1 group-title="XXX",ADULT Pornstar
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31903
-#EXTINF:-1 group-title="XXX",ADULT Russian
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31902
-#EXTINF:-1 group-title="XXX",ADULT Teen
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31901
-#EXTINF:-1 group-title="XXX",ADULT Threesome
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31900
-#EXTINF:-1 group-title="XXX",BRAZZERS TV EUROPE
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31899
-#EXTINF:-1 group-title="XXX",DORCEL
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31898
-#EXTINF:-1 group-title="XXX",DUSK
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31897
-#EXTINF:-1 group-title="XXX",ERO-X
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31896
-#EXTINF:-1 group-title="XXX",EROTIC 1
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31895
-#EXTINF:-1 group-title="XXX",EROTIC 2
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31894
-#EXTINF:-1 group-title="XXX",EROTIC 3
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31893
-#EXTINF:-1 group-title="XXX",EROTIC 4
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31892
-#EXTINF:-1 group-title="XXX",EROTIC 5
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31891
-#EXTINF:-1 group-title="XXX",EROTIC 6
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31890
-#EXTINF:-1 group-title="XXX",EROTIC 7
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31889
-#EXTINF:-1 group-title="XXX",EROTIC 8
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31888
-#EXTINF:-1 group-title="XXX",EROXXX
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31887
-#EXTINF:-1 group-title="XXX",FRENCHLOVER
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31886
-#EXTINF:-1 group-title="XXX",Barely Legal
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31885
-#EXTINF:-1 group-title="XXX",HUSTLER TV
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31883
-#EXTINF:-1 group-title="XXX",BHot
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31882
-#EXTINF:-1 group-title="XXX",PASSIONXXX
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31879
-#EXTINF:-1 group-title="XXX",PENTHOUSE QUICKIES
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31878
-#EXTINF:-1 group-title="XXX",PRIVATE
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31875
-#EXTINF:-1 group-title="XXX",PlayBoy TV
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31873
-#EXTINF:-1 group-title="XXX",SCT
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31872
-#EXTINF:-1 group-title="XXX",Stars XXX
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31870
-#EXTINF:-1 group-title="XXX",VIVID TV
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31868
-#EXTINF:-1 group-title="XXX",XXL HD
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31867
-#EXTINF:-1 group-title="XXX",EXTASY
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31866
-#EXTINF:-1 group-title="XXX",XY max
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31865
-#EXTINF:-1 group-title="XXX",XY mix
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31864
-#EXTINF:-1 group-title="XXX",XY plus
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31863
-#EXTINF:-1 group-title="XXX",Bizzare Live
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31862
-#EXTINF:-1 group-title="XXX",Bunga Bunga
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31861
-#EXTINF:-1 group-title="XXX",XXX COMPILATION
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31853
-#EXTINF:-1 group-title="XXX",XXX VENUS TV
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31852
-#EXTINF:-1 group-title="XXX",XXL TV
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31851
-#EXTINF:-1 group-title="XXX",RUSSKAYA NOCH
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31849
-#EXTINF:-1 group-title="XXX",Blue Hustler
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31848
-#EXTINF:-1 group-title="XXX",CENTOXCENTO TV (PRIVE)
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31847
-#EXTINF:-1 group-title="XXX",Amateur
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20401
-#EXTINF:-1 group-title="XXX",Brazzers tv
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20397
-#EXTINF:-1 group-title="XXX",Dorcel
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20396
-#EXTINF:-1 group-title="XXX",DUSK
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20395
-#EXTINF:-1 group-title="XXX",EROTIC
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20394
-#EXTINF:-1 group-title="XXX",EVIL ANGEL
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20390
-#EXTINF:-1 group-title="XXX",Passion XXX
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20386
-#EXTINF:-1 group-title="XXX",Pink Erotic 2
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20384
-#EXTINF:-1 group-title="XXX",Pink Erotic 3
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20383
-#EXTINF:-1 group-title="XXX",Pink Erotic 4
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20382
-#EXTINF:-1 group-title="XXX",Pink Erotic 6
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20380
-#EXTINF:-1 group-title="XXX",Pink Erotic 7
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20379
-#EXTINF:-1 group-title="XXX",Pink Erotic 8
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20378
-#EXTINF:-1 group-title="XXX",PORN 3
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20376
-#EXTINF:-1 group-title="XXX",PORN 4
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20375
-#EXTINF:-1 group-title="XXX",PORN 8
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20374
-#EXTINF:-1 group-title="XXX",PORN 9
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20373
-#EXTINF:-1 group-title="XXX",SestoSenso
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20370
-#EXTINF:-1 group-title="XXX",Venus
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20369

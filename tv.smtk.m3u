@@ -710,7 +710,7 @@ http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Eurasia HD
 http://50.7.92.90/SetantaEurasia/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! HD
-http://50.7.188.186/Match_TV_HD/mono.m3u8
+http://188.122.255.58:4022/udp/232.0.2.63:1234
 #EXTINF:-1 group-title="Спорт",Матч!
 http://195.245.97.133:8000/channel141.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер HD

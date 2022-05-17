@@ -553,10 +553,8 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Россия 24
 https://a1311337617-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="Россия",Известия FHD
+#EXTINF:-1 group-title="Россия",Известия
 https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Известия HD
-https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://jekalich.github.io/smtk/logo/rbk.png" tvg-id="rbk",РБК HD
 https://live-rbc.gcdn.co/gcore/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Россия",РБК
@@ -607,7 +605,13 @@ https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
 #EXTINF:-1 group-title="Новости",RTVi
 http://50.7.92.90/RTVi/mono.m3u8
 #EXTINF:-1 group-title="Новости",Дождь
-http://50.7.188.186/Dozhd/mono.m3u8
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tvrainhd
+#EXTINF:-1 group-title="Новости",Euronews
+http://195.245.97.133:8000/channel55.m3u8
+#EXTINF:-1 group-title="Новости",Bloomberg TV Europe
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Униан ТВ
+http://saveukraine.only4.tv/7698/video.m3u8?token=saveUkrain
 #EXTINF:-1 group-title="Новости",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/03.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский
@@ -710,11 +714,11 @@ http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Eurasia HD
 http://50.7.92.90/SetantaEurasia/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! HD
-http://188.122.255.58:4022/udp/232.0.2.63:1234
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
 http://195.245.97.133:8000/channel141.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер HD
-http://50.7.92.90/Nash_futbol_HD/mono.m3u8
+http://65.108.9.39:8060/matc!premerhd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://195.245.97.133:8000/channel140.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Арена HD

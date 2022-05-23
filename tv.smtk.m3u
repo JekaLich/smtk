@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.site/epg.xml.gz,http://epg.openboxfan.com/xmltv-t-sd.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" group-title="Кино",Amedia 1
-http://109.200.130.124:15500/A1
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" group-title="Кино",Amedia 1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png" group-title="Кино",Amedia 2
 http://109.200.130.124:15500/A2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" group-title="Кино",Amedia Hit
@@ -194,33 +194,15 @@ http://50.7.188.186/Animal_Planet_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/365.png" group-title="Познавательные",Animal Planet
 http://195.245.97.133:8000/channel84.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" group-title="Познавательные",Discovery Channel HD
-http://50.7.188.186/Discovery_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" group-title="Познавательные",Discovery Channel HD
-http://195.245.97.133:8000/channel79.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" group-title="Познавательные",Discovery Channel HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" group-title="Познавательные",Discovery Channel
-https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" group-title="Познавательные",Discovery Science HD
-http://50.7.92.90/Discovery_Science_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" group-title="Познавательные",Discovery Science
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2507.png" group-title="Познавательные",ID Xtra HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryxtra
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2507.png" group-title="Познавательные",ID Xtra HD
-http://50.7.92.90/ID_Xtra_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2507.png" group-title="Познавательные",ID Xtra
-http://195.245.97.133:8000/channel62.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2485.png" group-title="Познавательные",DTX HD
-http://50.7.92.90/DTX_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2485.png" group-title="Познавательные",DTX HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png" group-title="Познавательные",History HD
-http://50.7.92.90/History_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png" group-title="Познавательные",History HD
 https://sc.id-tv.kz/HistoryHD_36_37.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png" group-title="Познавательные",History 2 HD
-http://50.7.92.90/H2_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png" group-title="Познавательные",History 2 HD
 https://sc.id-tv.kz/H2HD_36_37.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/425.png" group-title="Познавательные",TLC HD
@@ -229,12 +211,6 @@ http://50.7.92.90/TLC_HD/mono.m3u8
 http://195.245.97.133:8000/channel77.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/223.png" group-title="Познавательные",Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/223.png" group-title="Познавательные",Nat Geo Wild
-http://50.7.92.90/Nat_Geo_Wild/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/223.png" group-title="Познавательные",Nat Geo Wild
-http://195.245.97.133:8000/channel83.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png" group-title="Познавательные",National Geographic HD
-http://50.7.188.186/National_Geo_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png"  group-title="Познавательные",National Geographic
 http://37.195.6.136:81/udp/239.1.5.8:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png" group-title="Познавательные",Nat Geo
@@ -650,6 +626,8 @@ http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5466
 #EXTINF:-1 group-title="Спорт",КХЛ
 https://sc.id-tv.kz:443/FHD_KHL_34_35.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/d2360201b7ecc3975c3982437a50c0c5.png" tvg-id="kxl-hd",KHL Prime
+http://cdnapp.top/lb/khlHD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Turkmenistan Sport
@@ -730,7 +708,7 @@ http://50.7.92.90/MTV_Live_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1021.png" group-title="Музыка",MTV Russia
 http://50.7.92.90/MTV_Russia/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" group-title="Музыка",ТНТ MUSIC
-http://50.7.92.90/TNT_Music/mono.m3u8
+http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1 group-title="Музыка",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Fashion TV Midnite Secrets

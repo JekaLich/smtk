@@ -2178,6 +2178,8 @@ http://uiptv.do.am/1ufc/116316122/playlist.m3u8
 
 #EXTINF:-1 group-title="XXX",Русская ночь
 http://46.174.83.66/Russkaya_Noch/video.m3u8
+#EXTINF:-1 group-title="XXX",Nuart
+http://212.18.115.177:3169/play/nuart/index.m3u8
 #EXTINF:-1 group-title="XXX",Extasy 4K
 http://213.81.133.133:8080/extasy4k/index.m3u8
 #EXTINF:-1 group-title="XXX",Erox
@@ -2192,18 +2194,26 @@ http://54.36.123.36:8080/PinkErotic1/index.m3u8
 http://54.36.123.36:8080/PinkErotic2/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic 3
 http://54.36.123.36:8080/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic 4
+http://54.36.123.36:8080/PinkErotic4/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic 5
 http://54.36.123.36:8080/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic 6
+http://54.36.123.36:8080/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic 7
+http://54.36.123.36:8080/PinkErotic7/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic 8
 http://54.36.123.36:8080/PinkErotic8/index.m3u8
 #EXTINF:-1 group-title="XXX",Redlight HD
 http://109.200.130.123:7032/play/353
+#EXTINF:-1 group-title="XXX",Redlight
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 group-title="XXX",Vivid Red HD
 http://109.200.130.123:7032/play/a00g
+#EXTINF:-1 group-title="XXX",Penthouse Quickies HD
+http://80.24.75.92:5555/udp/239.111.4.2:1234
 #EXTINF:-1 group-title="XXX",Hustler TV
 http://78.83.191.18:8000/play/a078
-#EXTINF:-1 group-title="XXX",Venus
-http://45.225.95.170:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="XXX",Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="XXX",Rough

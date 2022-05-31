@@ -1,24 +1,24 @@
 #EXTM3U url-tvg="http://iptvx.site/epg.xml.gz,http://epg.openboxfan.com/xmltv-t-sd.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" group-title="Кино",Amedia 1 HD
-https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png" group-title="Кино",Amedia 2
-http://109.200.130.124:15500/A2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" group-title="Кино",Amedia Hit
-https://sc.id-tv.kz/amedia_hit_hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" group-title="Кино",Amedia Premium HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2136.png" group-title="Кино",Amedia 1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3590.png" group-title="Кино",Amedia 2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3645.png" group-title="Кино",Amedia Hit HD
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3678.png" group-title="Кино",Amedia Premium HD
 https://sc.id-tv.kz/amedia_pr_hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" group-title="Кино",VIP Megahit
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3520.png" group-title="Кино",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" group-title="Кино",VIP Premiere
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3505.png" group-title="Кино",VIP Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" group-title="Кино",VIP Comedy
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1703.png" group-title="Кино",VIP Comedy
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" group-title="Кино",VIP Serial
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3550.png" group-title="Кино",VIP Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",TV1000
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tv1000
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",TV1000 Action
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tv1000action
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1016.png" group-title="Кино",TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2168.png" group-title="Кино",TV1000 Action
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/2497.png",Русский экстрим HD
 http://50.7.92.90/Russkiy_ekstrim/mono.m3u8
 #EXTINF:-1 group-title="Кино",Русский Экстрим UHD

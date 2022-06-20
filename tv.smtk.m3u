@@ -1,4 +1,59 @@
 #EXTM3U url-tvg="http://iptvx.site/epg.xml.gz,http://epg.openboxfan.com/xmltv-t-sd.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUActionHD.png" timeshift="5" group-title="Кинозал BCU",BCU Action HD
+http://cz1.iptv.monster/7100/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUCatastropheHD.png" timeshift="5" group-title="Кинозал BCU",BCU Catastrophe HD
+http://cz1.iptv.monster/7101/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUComedyHD.png" timeshift="5" group-title="Кинозал BCU",BCU Comedy HD
+http://cz1.iptv.monster/7103/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUCinemaHD.png" timeshift="5" group-title="Кинозал BCU",BCU Cinema HD
+http://cz1.iptv.monster/7102/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU CINEMA+ HD
+http://cz1.iptv.monster/7122/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUFantasticHD.png" timeshift="5" group-title="Кинозал BCU",BCU Fantastic HD
+http://cz1.iptv.monster/7104/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU STARS HD
+http://cz1.iptv.monster/7123/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUFilmysticHD.png" timeshift="5" group-title="Кинозал BCU",BCU FilMystic HD
+http://cz1.iptv.monster/7105/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU Reality HD
+http://cz1.iptv.monster/7136/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUMarvelHD.png" timeshift="5" group-title="Кинозал BCU",BCU Marvel
+http://cz1.iptv.monster/7108/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUHistoryHD.png" timeshift="5" group-title="Кинозал BCU",BCU History HD
+http://cz1.iptv.monster/7106/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUKinoratingHD.png" timeshift="5" group-title="Кинозал BCU",BCU Kinorating HD
+http://cz1.iptv.monster/7107/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUPremiereHD.png" timeshift="5" group-title="Кинозал BCU",BCU Premiere HD
+http://cz1.iptv.monster/7109/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCURomanticHD.png" timeshift="5" group-title="Кинозал BCU",BCU Romantic HD
+http://cz1.iptv.monster/7110/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCURussianHD.png" timeshift="5" group-title="Кинозал BCU",BCU Russian HD
+http://cz1.iptv.monster/7111/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUVHSHD.png" timeshift="5" group-title="Кинозал BCU",BCU VHS HD
+http://cz1.iptv.monster/7112/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU TruMotion HD
+http://cz1.iptv.monster/7139/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU Кинозал Premiere 1 HD
+http://cz1.iptv.monster/7113/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU Кинозал Premiere 2 HD
+http://cz1.iptv.monster/7114/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU Кинозал Premiere 3 HD
+http://cz1.iptv.monster/7115/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU СВАТЫ HD
+http://cz1.iptv.monster/7127/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUSvatuHD.png" timeshift="5" group-title="Кинозал BCU",BCU Ruserial HD
+http://cz1.iptv.monster/7119/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" tvg-logo="https://iptv.online/epg/icon/BCU/BCUCCCPHD.png" timeshift="5" group-title="Кинозал BCU",BCU СССР HD
+http://cz1.iptv.monster/7120/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU Cosmo HD
+http://cz1.iptv.monster/7137/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU Criminal HD
+http://cz1.iptv.monster/7128/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU Ultra 4K
+http://cz1.iptv.monster/7125/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU Premiere Ultra 4K
+http://cz1.iptv.monster/7140/video.m3u8?token=BF963183F1725E8
+
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2136.png" group-title="Кино",Amedia 1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3590.png" group-title="Кино",Amedia 2 HD

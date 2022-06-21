@@ -54,6 +54,39 @@ http://cz1.iptv.monster/7125/video.m3u8?token=BF963183F1725E8
 #EXTINF:-1 tvg-rec="5" timeshift="5" group-title="Кинозал BCU",BCU Premiere Ultra 4K
 http://cz1.iptv.monster/7140/video.m3u8?token=BF963183F1725E8
 
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Adrenaline
+http://cz1.iptv.monster/8783/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Adventure
+http://cz1.iptv.monster/8769/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Best
+http://cz1.iptv.monster/8781/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Grand
+http://cz1.iptv.monster/8779/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV New Кино
+http://cz1.iptv.monster/8773/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Oblivion
+http://cz1.iptv.monster/8784/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Thriller
+http://cz1.iptv.monster/8785/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Vhs
+http://cz1.iptv.monster/8778/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Забавное
+http://cz1.iptv.monster/8780/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Ковбойское
+http://cz1.iptv.monster/8782/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Русские Фильмы
+http://cz1.iptv.monster/8776/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Советские Фильмы
+http://cz1.iptv.monster/8775/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso TV Трагичное
+http://cz1.iptv.monster/8770/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso-4K
+http://cz1.iptv.monster/8766/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso-C-Comedy
+http://cz1.iptv.monster/8768/video.m3u8?token=BF963183F1725E8
+#EXTINF:-1 group-title="Кинозал Yosso TV",Yosso-C-Inquest
+http://cz1.iptv.monster/8767/video.m3u8?token=BF963183F1725E8
+
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2136.png" group-title="Кино",Amedia 1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3590.png" group-title="Кино",Amedia 2 HD
@@ -80,7 +113,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tv1000ruskino
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://dmitry-tv.ml/hls/zabava/CH_ULTRAHDCINEMAUHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ HD
-http://live-1.otcnet.ru/kinotvsd/mono.m3u8
+http://cz1.iptv.monster/381/video.m3u8?token=BF963183F1725E8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png" group-title="Кино",Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",ДОРАМА HD
@@ -110,7 +143,7 @@ https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",FOX HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=fox
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2405.png" group-title="Кино",Paramount Channel
-http://50.7.188.186/Paramount_Channel/mono.m3u8
+http://cz1.iptv.monster/383/video.m3u8?token=BF963183F1725E8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" group-title="Кино",Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" group-title="Кино",Sony Turbo

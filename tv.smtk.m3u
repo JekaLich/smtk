@@ -64,7 +64,7 @@ http://176.197.77.101:81/udp/239.255.42.93:1234
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Кино",НСТ
 http://109.200.130.124:15500/nst
-#EXTINF:-1 group-title="Кино",Суббота! HD
+#EXTINF:-1 group-title="Кино" tvg-id="super",Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Феникс+Кино
 http://82.209.197.187:8080/udp/239.0.100.101:1234
@@ -82,7 +82,7 @@ http://109.200.130.124:15500/evrokino
 http://109.200.130.124:15500/lubimoekino 
 #EXTINF:-1 group-title="Кино",Родное кино
 http://128.0.27.41:8080/239.211.211.144/mpegts
-#EXTINF:-1 group-title="Кино",Золотая Коллекция Мосфильма
+#EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
 http://195.2.74.99/channel/2bac7f96/index.m3u8?q=c6bd4fd8e668d857fa7eb47815d54064
 #EXTINF:-1 group-title="Кино",Дом кино
 http://109.200.130.124:15500/domkino
@@ -90,8 +90,6 @@ http://109.200.130.124:15500/domkino
 http://109.171.45.109:81/udp/239.54.5.87:1224
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png" group-title="Кино",Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
-#EXTINF:-1 group-title="Кино",Твоё ТВ
-http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Кино",Твоё ТВ HD
 http://stream-norst.cf:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10544.png",Кинокомедии. Рекомендуем
@@ -166,15 +164,15 @@ http://91.185.3.218:8000/play/619
 #EXTINF:-1 group-title="Познавательные",Охота и рыбалка
 https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
 #EXTINF:-1 group-title="Познавательные",Охотник и рыболов
-http://91.185.3.218:8000/play/624
+https://stream-msk-07.ott.tricolor.tv:443/dtv/id169_MSKSG-PVR-1--HD_Oh_Rbl/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzODA0MDkwMjMxNjA2NyIsImV4cCI6MTY3MDIyOTk4MiwiaHdpZCI6IjQ0ZDgyYTNhZGExNmFhNjU2OTljODFjNzEyMGM3MjZmNDIwOWUxNzJlYjBiY2VhMTQ0ZGI5ZWVkZDQyZGRhMWIiLCJsYXN0X3JlcV9kYXRlIjoxNjU1NTAwMjQ4LCJzZXNzaW9uX2lkIjoiNzc2NTM0YzUyZWYxNTVhNmI0NzY4ZGYwODU2YjdlYTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QdOqNt03KOwAV8oAEEwfwymya93yzPmtMxYnFMiZRsU
 #EXTINF:-1 group-title="Познавательные",Дикий
 http://109.200.130.124:15500/dikiy
 #EXTINF:-1 group-title="Познавательные",Дикая охота HD
-http://okkotv-live.cdnvideo.ru/channel/Dikaya_Ohota_HD.m3u8
+http://195.2.74.99/channel/6ca7ba28/index.m3u8?q=c6bd4fd8e668d857fa7eb47815d54064
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
-http://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD.m3u8
+http://195.2.74.99/channel/n6c785a9a/index.m3u8?q=c6bd4fd8e668d857fa7eb47815d54064
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2444.png" group-title="Познавательные",Мужской
-http://46.43.210.106:4022/udp/239.254.2.75:1234?7
+http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2008.png" group-title="Познавательные",Авто24
 http://128.0.27.41:8080/239.211.211.13/mpegts
 #EXTINF:-1 group-title="Познавательные",Авто Плюс
@@ -184,11 +182,11 @@ http://46.174.83.66/Drive/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Техно 24
 https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая природа
-http://91.185.3.218:8000/play/324
+https://stream-msk-13.ott.tricolor.tv:443/dtv/id796_MSKSG-PVR-1--Zhivaya_Priroda-HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzODA0MDkwMjMxNjA2NyIsImV4cCI6MTY3MDIyOTk4MiwiaHdpZCI6IjQ0ZDgyYTNhZGExNmFhNjU2OTljODFjNzEyMGM3MjZmNDIwOWUxNzJlYjBiY2VhMTQ0ZGI5ZWVkZDQyZGRhMWIiLCJsYXN0X3JlcV9kYXRlIjoxNjU1NTAwMjQ4LCJzZXNzaW9uX2lkIjoiNzc2NTM0YzUyZWYxNTVhNmI0NzY4ZGYwODU2YjdlYTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QdOqNt03KOwAV8oAEEwfwymya93yzPmtMxYnFMiZRsU
 #EXTINF:-1 group-title="Познавательные",Бобер
 http://91.185.3.218:8000/play/622
-#EXTINF:-1 group-title="Познавательные",Поехали
-http://91.185.3.218:8000/play/308
+#EXTINF:-1 group-title="Познавательные" tvg-id="poehali",Поехали
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5561
 #EXTINF:-1 group-title="Познавательные",Психология 21
 http://46.174.83.66/Psihologiya21/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Усадьба
@@ -197,8 +195,6 @@ http://46.174.83.66/Usadba/index.m3u8
 http://46.174.83.66/Zoopark/index.m3u8
 #EXTINF:-1 group-title="Познавательные",English Club TV
 http://91.185.3.218:8000/play/407
-#EXTINF:-1 group-title="Познавательные",Кухня TV
-http://91.185.3.218:8000/play/38
 #EXTINF:-1 group-title="Познавательные",Тонус
 http://37.195.6.136:81/udp/239.1.21.17:1234
 #EXTINF:-1 group-title="Познавательные",Театр
@@ -225,16 +221,10 @@ http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 http://82.209.197.187:8080/udp/239.0.100.138:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/930.png" group-title="Познавательные",ЕДА Премиум
 https://sc.id-tv.kz/EdaHD_34_35.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/614.png" group-title="Познавательные",Кухня ТВ HD
-https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные",Психология
-http://37.17.12.119:8907/play/a00a
+#EXTINF:-1 group-title="Познавательные" tvg-id="kuhnya-tv",Кухня TV
+http://128.0.27.41:8080/239.211.200.130/mpegts
 #EXTINF:-1 group-title="Познавательные",Univer TV
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Поехали!
-https://sc.id-tv.kz/poehali_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные",Зоопарк
-http://46.174.83.66/Zoopark/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая Планета
 http://37.195.6.136:81/udp/239.1.5.23:1234
 #EXTINF:-1 group-title="Познавательные",Зоо ТВ
@@ -318,8 +308,6 @@ http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="Россия",8 Канал Европа
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 group-title="Россия",Ю
-http://46.174.83.66/U/mpegts
 #EXTINF:-1 group-title="Россия",ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
@@ -331,9 +319,6 @@ http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/varian
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngQ3MBk-1noku5P-oU6dLqNnB_Lh0pFp9zOSwSa=s200-c-k-c0x00ffffff-no-rj?.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/c0cb246f51fa7550e4826435804082fc.png" tvg-id="2na2",2x2 HD
 https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="http://epg.it999.ru/img/323.png",2x2
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/yu.png",Ю
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2

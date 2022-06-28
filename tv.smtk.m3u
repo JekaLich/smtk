@@ -67,9 +67,9 @@ http://109.200.130.124:15500/nst
 #EXTINF:-1 group-title="Кино" tvg-id="super",Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Феникс+Кино
-http://82.209.197.187:8080/udp/239.0.100.101:1234
+http://128.0.27.41:8080/239.211.211.72/mpegts
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/ntv-serial.png" group-title="Кино",НТВ Сериал
-http://82.209.197.187:8080/udp/239.0.100.139:1234
+http://188.227.44.167:8080/ntv-serial/index.m3u8
 #EXTINF:-1 group-title="Кино",НТВ Хит
 https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair14.smil/playlist.m3u8
 #EXTINF:-1 group-title="Кино",FilmBox
@@ -83,11 +83,11 @@ http://109.200.130.124:15500/lubimoekino
 #EXTINF:-1 group-title="Кино",Родное кино
 http://128.0.27.41:8080/239.211.211.144/mpegts
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
-http://195.2.74.99/channel/2bac7f96/index.m3u8?q=c6bd4fd8e668d857fa7eb47815d54064
+http://188.227.44.167:8080/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино
 http://109.200.130.124:15500/domkino
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" group-title="Кино",Русский роман
-http://109.171.45.109:81/udp/239.54.5.87:1224
+http://188.227.44.167:8080/russkiy_roman/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png" group-title="Кино",Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Твоё ТВ HD
@@ -170,7 +170,7 @@ http://109.200.130.124:15500/dikiy
 #EXTINF:-1 group-title="Познавательные",Дикая охота HD
 http://195.2.74.99/channel/6ca7ba28/index.m3u8?q=c6bd4fd8e668d857fa7eb47815d54064
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
-http://195.2.74.99/channel/n6c785a9a/index.m3u8?q=c6bd4fd8e668d857fa7eb47815d54064
+http://195.161.68.177:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2444.png" group-title="Познавательные",Мужской
 http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2008.png" group-title="Познавательные",Авто24
@@ -242,7 +242,7 @@ https://cdnv-ru.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Россия",Россия К
 https://a1311337617-s27836.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",НТВ HD
-https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/chunklist_b6128000.m3u8?md5=HRYdw19sOMiXhfFYewOkCw&e=1648480910&hls_proxy_host=pub3.rtmp.s01.l.ntv
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2

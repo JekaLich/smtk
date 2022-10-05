@@ -238,7 +238,7 @@ https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Россия 1 HD
-https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=9czc2MlyS2uOn-_p84GyoA&e=1664971080
+http://195.2.74.99/channel/n92f61fd/index.m3u8?q=4ebaf090fec49a8dd843e0ee0ac69a5c
 #EXTINF:-1 group-title="Россия",Россия К
 https://a1311337617-s27836.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",НТВ HD
@@ -287,11 +287,11 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия",ТВ3 HD
 https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Россия 24
-https://a1311337617-s27836.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+http://78.25.155.47:1309/channel/Ros_24.ts
 #EXTINF:-1 group-title="Россия",Известия
 https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://jekalich.github.io/smtk/logo/rbk.png" tvg-id="rbk",РБК HD
-https://live-rbc.gcdn.co/gcore/rbctvhd_1080p/index.m3u8
+https://e3-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Россия",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="Россия",Настоящее время
@@ -406,21 +406,21 @@ https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер HD
 http://84.17.61.200:8085/udp/238.2.16.250:1234
 #EXTINF:-1 group-title="Спорт",Матч! Арена HD
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5459
+https://de2.tprk.tv/live/ru_match_arena_hd/playlist.m3u8?login=804183524&sl=J1zzU1VH_KqSOzpXr6IN9w&exp=1664995754
 #EXTINF:-1 group-title="Спорт",Матч! Планета
 https://sc.id-tv.kz:443/MatchPlaneta_36_37.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Игра HD
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5460
+https://de2.tprk.tv/live/ru_match_igra_hd/playlist.m3u8?login=804183524&sl=J1zzU1VH_KqSOzpXr6IN9w&exp=1664995754
 #EXTINF:-1 group-title="Спорт",Матч! Страна HD
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
+https://de2.tprk.tv/live/ru_match_futbol1_hd/playlist.m3u8?login=804183524&sl=J1zzU1VH_KqSOzpXr6IN9w&exp=1664995754
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5461
+https://de2.tprk.tv/live/ru_match_futbol2_hd/playlist.m3u8?login=804183524&sl=J1zzU1VH_KqSOzpXr6IN9w&exp=1664995754
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
+https://de2.tprk.tv/live/ru_match_futbol3_hd/playlist.m3u8?login=804183524&sl=J1zzU1VH_KqSOzpXr6IN9w&exp=1664995754
 #EXTINF:-1 group-title="Спорт",Матч! Боец
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5466
+https://de2.tprk.tv/live/ru_boec/playlist.m3u8?login=804183524&sl=J1zzU1VH_KqSOzpXr6IN9w&exp=1664995754
 #EXTINF:-1 group-title="Спорт",КХЛ
 https://sc.id-tv.kz:443/FHD_KHL_34_35.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/d2360201b7ecc3975c3982437a50c0c5.png" tvg-id="kxl-hd",KHL Prime

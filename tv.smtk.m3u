@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.site/epg.xml.gz,http://epg.openboxfan.com/xmltv-t-sd.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
+#EXTM3U url-tvg="http://epgtut.tk/epg.xml.gz,http://epg.openboxfan.com/xmltv-t-sd.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2136.png" group-title="Кино",Amedia 1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3590.png" group-title="Кино",Amedia 2 HD
@@ -20,7 +20,7 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2168.png" group-title="Кино",TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3319.png" group-title="Кино",TV1000 Русское Кино HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tv1000ruskino
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw20000000/variant.m3u8
@@ -47,13 +47,15 @@ https://sc.id-tv.kz:443/Kinoseriya_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" group-title="Кино",Индийское кино
 http://46.174.83.66/Indiiskoe_kino/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="Кино",Киноужас
-https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
+http://109.171.45.109:81/udp/239.54.5.208:1224
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+
 https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",FOX HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=fox
+http://193.233.9.49/streams/media/FOX_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" group-title="Кино",FOX HD
+http://193.233.9.49/streams/media/Fox_Life_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2405.png" group-title="Кино",Paramount Channel
 https://livetv.mylifeisgood.ml/channels/paramount_channel
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" group-title="Кино",Paramount Comedy
@@ -118,13 +120,13 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 http://94.230.240.17:8080/fan/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" group-title="Познавательные",Discovery Channel HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
+https://livetv.mylifeisgood.ml/channels/discovery
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" group-title="Познавательные",Discovery Science
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
+https://livetv.mylifeisgood.ml/channels/discoveryscience
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2507.png" group-title="Познавательные",ID Xtra HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryxtra
+https://livetv.mylifeisgood.ml/channels/discoveryxtra
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2485.png" group-title="Познавательные",DTX HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
+https://livetv.mylifeisgood.ml/channels/discoverydtx
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png" group-title="Познавательные",History HD
 https://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png" group-title="Познавательные",History 2 HD
@@ -140,7 +142,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1261.png",Viasat Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
-http://128.0.27.41:8080/239.211.200.7/mpegts
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel Channel HD
 http://84.17.61.200:8085/udp/238.2.16.190:1234
 #EXTINF:-1 group-title="Познавательные",Love Nature
@@ -168,21 +170,21 @@ http://195.2.74.99/channel/5ddf1954/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c
 #EXTINF:-1 group-title="Познавательные",Дикий
 http://109.200.130.124:15500/dikiy
 #EXTINF:-1 group-title="Познавательные",Дикая охота HD
-http://37.1.205.171:777/op/WlRNeU5XTjZiVUJwYm1KdmVDNXlkUT09/386..m3u8
+http://212.73.75.200:8000/play/DikayaOxotaHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
 http://195.161.68.177:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2444.png" group-title="Познавательные",Мужской
-http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
+http://91.202.44.196/iptv_ch_57
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2008.png" group-title="Познавательные",Авто24
-http://128.0.27.41:8080/239.211.211.13/mpegts
+http://95.217.196.109:8081/russia/avto24/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто Плюс
 http://193.233.9.49/streams/media/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Драйв
-http://46.174.83.66/Drive/index.m3u8
+http://193.233.9.49/streams/media/Draiv/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Техно 24
 https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая природа
-http://128.0.27.41:8080/239.211.211.105/mpegts
+https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 #EXTINF:-1 group-title="Познавательные",Бобер
 http://91.185.3.218:8000/play/622
 #EXTINF:-1 group-title="Познавательные" tvg-id="poehali",Поехали
@@ -242,7 +244,7 @@ http://195.2.74.99/channel/n92f61fd/index.m3u8?q=4ebaf090fec49a8dd843e0ee0ac69a5
 #EXTINF:-1 group-title="Россия",Россия К
 https://a1311337617-s27836.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",НТВ HD
-https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
 #EXTINF:-1 group-title="Россия",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2

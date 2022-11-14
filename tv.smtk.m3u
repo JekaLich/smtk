@@ -1973,8 +1973,8 @@ http://85.14.32.3:8801/udp/224.100.1.133:56000
 http://85.14.32.3:8801/udp/224.100.1.139:56000
 #EXTINF:-1 group-title="XXX",Brazzers TV
 http://85.14.32.3:8801/udp/224.100.1.135:56000
-#EXTINF:-1 group-title="XXX",Hustler
-http://85.14.32.3:8801/udp/224.100.1.136:56000
+#EXTINF:-1 group-title="XXX",Hustler TV
+http://78.83.191.18:8000/play/a078
 #EXTINF:-1 group-title="XXX",Redlight HD
 http://85.14.32.3:8801/udp/224.100.1.138:56000
 #EXTINF:-1 group-title="XXX",Redlight HD
@@ -2097,3 +2097,25 @@ http://live.redtraffic.xyz/milf.m3u8
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 group-title="XXX",POV HD 720
 http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 group-title="XXX",Babes TV HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BABESTVHD/variant.m3u8?version=2
+#EXTINF:-1 group-title="XXX",Brazzers TV Europe
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRAZZERSTV/variant.m3u8?version=2
+#EXTINF:-1 group-title="XXX" tvg-id="nuart-tv",Ню Арт
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NUART/variant.m3u8?version=2
+#EXTINF:-1 group-title="XXX",O-la-la
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1 group-title="XXX",Русская ночь
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1 group-title="XXX",Шалун HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHALUNTVHD/variant.m3u8?version=2
+#EXTINF:-1 group-title="XXX",Exxxotica HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/variant.m3u8?version=2

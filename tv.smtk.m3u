@@ -45,7 +45,7 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" group-title="Кино",Киносерия
 http://109.197.192.121:8080/kinoseria/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" group-title="Кино",Индийское кино
-http://212.73.75.200:8000/play/IndiskoeKino/index.m3u8
+http://91.202.44.196/iptv_ch_69
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="Кино",Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
@@ -61,9 +61,11 @@ https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" group-title="Кино",Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" group-title="Кино",.black
-http://212.73.75.200:8000/play/Black/index.m3u8
+http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2Njg1NDIwOTgsImlhdCI6MTY2ODQ1NTY5OCwiY2lkIjo2LCJ1aWQiOjU0MTUzNTA2OSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.suZtFbTdt9Q3293XuDUH-FSQHePoWLX-cVpY797togA&offset=10
 #EXTINF:-1 group-title="Кино",.red
-http://212.73.75.200:8000/play/Red/index.m3u8
+http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2Njg1NDIwOTgsImlhdCI6MTY2ODQ1NTY5OCwiY2lkIjo2LCJ1aWQiOjU0MTUzNTA2OSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.suZtFbTdt9Q3293XuDUH-FSQHePoWLX-cVpY797togA&offset=10
+#EXTINF:-1 group-title="Кино",.sci-fi
+http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2Njg1NDIwOTgsImlhdCI6MTY2ODQ1NTY5OCwiY2lkIjo2LCJ1aWQiOjU0MTUzNTA2OSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.suZtFbTdt9Q3293XuDUH-FSQHePoWLX-cVpY797togA&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2549.png" group-title="Кино",Cinema
 http://193.233.9.49/streams/media/Cinema/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Кино",НСТ
@@ -93,7 +95,7 @@ http://109.197.192.121:8080/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино
 http://95.217.196.109:8081/russia/dom_kino_sd_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" group-title="Кино",Русский роман
-http://212.73.75.200:8000/play/RusskiiRoman/index.m3u8
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2Njg1NDIwOTgsImlhdCI6MTY2ODQ1NTY5OCwiY2lkIjo2LCJ1aWQiOjU0MTUzNTA2OSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.suZtFbTdt9Q3293XuDUH-FSQHePoWLX-cVpY797togA&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png" group-title="Кино",Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/0335249fc600cbbeae7e446a1f96a1ff.png",Свежаки
@@ -176,7 +178,7 @@ http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ТВ Экстра
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Моя планета
-http://212.73.75.200:8000/play/MoyaPlaneta/index.m3u8
+http://95.217.196.109:8081/russia/moya_planeta/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Охота и рыбалка
 https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
 #EXTINF:-1 group-title="Познавательные",Охотник и рыболов
@@ -276,7 +278,7 @@ https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Россия 1 HD
-https://mhd116.iptv2022.com/p/T2HVdPPOJl6Xw-vwjW6Fdg,1668456182/streaming/rossia1ott/324/1/index.m3u8
+https://live-mirror-12.ott.tricolor.tv:443/dtv/id839_MSKSG-PVR-1--rossia1_0_hd/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZDFlY2ZhNTkzYjhlMWM0ZjMxN2ZlMWJhYjM5ZGRjYWMiLCJleHAiOjE2Njg4MDkzMjMsImh3aWQiOiI4NmFlMWY4ODQxZWIyZDAxMDU1MWNmMjI2NGQyMTIyYjYwMGM2MDQ0NDI1ZDhjMjUzMmM5MmVjNGExZTI1NjI3IiwibGFzdF9yZXFfZGF0ZSI6MTY2ODIwNDUyMywic2Vzc2lvbl9pZCI6ImM1MWVkOTY4Mzg0MTRmNGE3MTM1ODcwNTEwNzQ1OTE0IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.DfuJG_hWwp7G-xHMcsK2zrvKRO-JzBfPeDZ2TE2OykU
 #EXTINF:-1 group-title="Россия",Россия К
 https://livetv.mylifeisgood.ml/channels/russiak.m3u8
 #EXTINF:-1 group-title="Россия",НТВ HD
@@ -285,7 +287,7 @@ https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",ТВ Центр
-https://mhd116.iptv2022.com/p/Hkz4knKB6rqj_TRfutCkpA,1668456186/streaming/tvc/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/q4JdfbAbV1j6tS_WL3ZtOA,1668542042/streaming/tvc/324/1/index.m3u8
 #EXTINF:-1 group-title="Россия",Пятый канал
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2

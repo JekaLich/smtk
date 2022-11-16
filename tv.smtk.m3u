@@ -61,11 +61,11 @@ https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" group-title="Кино",Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" group-title="Кино",.black
-http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2Njg1NDIwOTgsImlhdCI6MTY2ODQ1NTY5OCwiY2lkIjo2LCJ1aWQiOjU0MTUzNTA2OSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.suZtFbTdt9Q3293XuDUH-FSQHePoWLX-cVpY797togA&offset=10
+http://212.73.75.200:8000/play/Black/index.m3u8
 #EXTINF:-1 group-title="Кино",.red
-http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2Njg1NDIwOTgsImlhdCI6MTY2ODQ1NTY5OCwiY2lkIjo2LCJ1aWQiOjU0MTUzNTA2OSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.suZtFbTdt9Q3293XuDUH-FSQHePoWLX-cVpY797togA&offset=10
+http://212.73.75.200:8000/play/Red/index.m3u8
 #EXTINF:-1 group-title="Кино",.sci-fi
-http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2Njg1NDIwOTgsImlhdCI6MTY2ODQ1NTY5OCwiY2lkIjo2LCJ1aWQiOjU0MTUzNTA2OSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.suZtFbTdt9Q3293XuDUH-FSQHePoWLX-cVpY797togA&offset=10
+http://95.217.196.109:8081/russia/sci_fi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2549.png" group-title="Кино",Cinema
 http://193.233.9.49/streams/media/Cinema/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Кино",НСТ
@@ -95,7 +95,7 @@ http://109.197.192.121:8080/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино
 http://95.217.196.109:8081/russia/dom_kino_sd_new/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" group-title="Кино",Русский роман
-http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2Njg1NDIwOTgsImlhdCI6MTY2ODQ1NTY5OCwiY2lkIjo2LCJ1aWQiOjU0MTUzNTA2OSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.suZtFbTdt9Q3293XuDUH-FSQHePoWLX-cVpY797togA&offset=10
+http://109.200.135.130:8080/russki_roman_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png" group-title="Кино",Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/0335249fc600cbbeae7e446a1f96a1ff.png",Свежаки
@@ -232,7 +232,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные",Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2423.png" group-title="Познавательные",365 дней ТВ
-http://82.209.197.187:8080/udp/239.0.100.138:1234
+http://91.202.44.196/iptv_ch_47
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/930.png" group-title="Познавательные",ЕДА Премиум
 https://sc.id-tv.kz/EdaHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="kuhnya-tv",Кухня TV

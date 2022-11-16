@@ -372,19 +372,21 @@ https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
 #EXTINF:-1 group-title="Новости",RTVi
 http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Дождь
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tvrainhd
+http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Новости",Euronews
-http://84.17.61.200:8085/udp/238.2.0.17:1234
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Новости",Bloomberg TV Europe
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Униан ТВ
-http://saveukraine.only4.tv/7698/video.m3u8?token=saveUkrain
 #EXTINF:-1 group-title="Новости",France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/03.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 group-title="Новости",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 group-title="Новости",Униан ТВ
+http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="Новости",Freeдом
+http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 
 #EXTINF:-1 group-title="Детские",Disney
 https://livetv.mylifeisgood.ml/channels/disney.m3u8

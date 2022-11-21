@@ -280,7 +280,7 @@ https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Россия 1 HD
-http://er-cdn.ertelecom.ru/os/video/hls/2a5b96d449203de99d6daeda339dcb0e31822d81c01084ae91457ac1b98794da4a80060bbcfeadbfc88c868a4acbf9cc577e2898d6bcb3410163e58d47cceda59f6b68b55cbdc1358f3935a46f466ac49e403f39f4a5419230ce845bea3247f04541a5664c9bd257a9120af86364da17dd7e70c421ecc4f965a4e97eef7568de3a3a7acff51024f0fb7b86f188609c9ff06a4805c9956405ccbe6e59bee456a2778652ee93f8f8b58888203cfbd1662b3a3684ab073333f4169db1539625a67d118b6cdb1de4b7e356ddf822d8beac6eb7075cc1faaf540d8f391ff61ae812eb5d68cfba377e29afc654cefc84c8986299fca440c8587df295baaff8be5eea66f234d3975de14a156572b38fb4070ad3b68c2d51450ea7ed5096e1082685f353901ee4f983ba25814ee0aedbf287ed5b2a4ce036e107f87b30f66ca520ca92bb9eaf36a26b131a00abdbf710195e10b75de31eefd922cf92e97284c45ea3d275/playlist.m3u8
+https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 #EXTINF:-1 group-title="Россия",Россия К
 https://livetv.mylifeisgood.ml/channels/russiak.m3u8
 #EXTINF:-1 group-title="Россия",НТВ HD

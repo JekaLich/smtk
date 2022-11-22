@@ -69,7 +69,7 @@ http://95.217.196.109:8081/russia/sci_fi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2549.png" group-title="Кино",Cinema
 http://193.233.9.49/streams/media/Cinema/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Кино",НСТ
-http://95.183.43.237:8080/118/index.m3u8
+http://109.200.135.130:8080/nstv/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="super",Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Феникс+Кино
@@ -162,7 +162,7 @@ https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
 http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel Channel HD
-http://84.17.61.200:8085/udp/238.2.16.190:1234
+http://178.159.112.198:80/travel/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat History
@@ -455,6 +455,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://livetv.mylifeisgood.ml/channels/startlive.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол HD
 http://109.200.135.130:8080/football/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Футбольный HD
+http://31.210.208.167:80/football/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Моторспорт ТВ
 http://109.200.135.130:8080/motorsport/tracks-v1a1/index.m3u8
 

@@ -2022,82 +2022,94 @@ http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-logo="https://dvb.by/sources/logos/1609.png",Белрос
 http://uiptv.do.am/1ufc/116316122/playlist.m3u8
 
-#EXTINF:-1 group-title="XXX",Русская ночь
+#EXTINF:-1 group-title="XXX" tvg-id="russkaya-noch",Русская ночь
 http://46.174.83.66/Russkaya_Noch/video.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="sholk",Шёлк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
-#EXTINF:-1 group-title="XXX",Nuart
-http://212.18.115.177:3169/play/nuart/index.m3u8
-#EXTINF:-1 group-title="XXX",Extasy 4K
-http://213.81.133.133:8080/extasy4k/index.m3u8
-#EXTINF:-1 group-title="XXX",Dorcel TV
-http://50.7.120.164:8081/dorcel/index.m3u8?wmsAuthSign=578c634600823de3a0776268cf2092ac-1669163881-321i85i04i77
-#EXTINF:-1 group-title="XXX",Dorcel TV HD
-http://85.14.32.3:8801/udp/224.100.1.137:56000
-#EXTINF:-1 group-title="XXX",Dorcel XXX
-http://85.14.32.3:8801/udp/224.100.1.133:56000
-#EXTINF:-1 group-title="XXX",Dorcel XXX HD
-http://85.14.32.3:8801/udp/224.100.1.139:56000
-#EXTINF:-1 group-title="XXX",Brazzers TV
-http://85.14.32.3:8801/udp/224.100.1.135:56000
-#EXTINF:-1 group-title="XXX",Hustler TV
-http://78.83.191.18:8000/play/a078
-#EXTINF:-1 group-title="XXX",Redlight HD
-http://85.14.32.3:8801/udp/224.100.1.138:56000
-#EXTINF:-1 group-title="XXX",Redlight HD
-http://109.200.130.123:7032/play/353
-#EXTINF:-1 group-title="XXX",Redlight
-http://93.152.174.144:4000/play/privatetv1/index.m3u8
-#EXTINF:-1 group-title="XXX",Fantazzy TV
-http://85.14.32.3:8801/udp/224.100.1.143:56000
-#EXTINF:-1 group-title="XXX",Fantazzy TV HD
-http://85.14.32.3:8801/udp/224.100.1.142:56000
-#EXTINF:-1 group-title="XXX",Erox HD
-http://85.14.32.3:8801/udp/224.100.1.140:56000
-#EXTINF:-1 group-title="XXX",Erox
-http://94.229.250.73:8008/play/a002
-#EXTINF:-1 group-title="XXX",Eroxxx HD
-http://50.7.120.164:8081/erox/index.m3u8?wmsAuthSign=208b834b429ebf653863d2fe737052f3-1669163981-321i85i04i77
-#EXTINF:-1 group-title="XXX",Vixen HD
-http://85.14.32.3:8801/udp/224.100.1.144:56000
-#EXTINF:-1 group-title="XXX",Vixen TV
-http://85.14.32.3:8801/udp/224.100.1.145:56000
-#EXTINF:-1 group-title="XXX",SCT Pink O TV
-http://85.14.32.3:8801/udp/224.100.1.152:56000
-#EXTINF:-1 group-title="XXX",XXL
-http://85.14.32.3:8801/udp/224.100.1.151:56000
-#EXTINF:-1 group-title="XXX",XXL
-http://85.14.32.3:8801/udp/224.100.1.157:56000
-#EXTINF:-1 group-title="XXX",XXL HD
-http://85.14.32.3:8801/udp/224.100.1.186:56000
-#EXTINF:-1 group-title="XXX",XY Plus HD
-http://85.14.32.3:8801/udp/224.100.1.185:56000
-#EXTINF:-1 group-title="XXX",XY Plus
-http://85.14.32.3:8801/udp/224.100.1.159:56000
-#EXTINF:-1 group-title="XXX",PinkoTV
-http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic 1
-http://54.36.123.36:8080/PinkErotic1/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic 2
-http://54.36.123.36:8080/PinkErotic2/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic 3
-http://54.36.123.36:8080/PinkErotic3/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic 4
-http://54.36.123.36:8080/PinkErotic4/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic 5
-http://54.36.123.36:8080/PinkErotic5/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic 6
-http://54.36.123.36:8080/PinkErotic6/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic 7
-http://54.36.123.36:8080/PinkErotic7/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic 8
-http://54.36.123.36:8080/PinkErotic8/index.m3u8
-#EXTINF:-1 group-title="XXX",Vivid Red HD
-http://109.200.130.123:7032/play/a00g
-#EXTINF:-1 group-title="XXX",Penthouse Quickies HD
-http://80.24.75.92:5555/udp/239.111.4.2:1234
-#EXTINF:-1 group-title="XXX",Hustler TV
-http://78.83.191.18:8000/play/a078
+#EXTINF:-1 group-title="XXX" tvg-id="brazzers-tv-europe",Brazzers TV Europe
+http://195.154.185.179/xx_xxl/index.m3u8
+#EXTINF:-1 group-title="XXX",Dusk
+http://195.154.185.179/xx_xy_mix_hd/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="vivid-red",Vivid Red HD
+http://195.154.185.179/xx_vivid_red_hd/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="vivid-touch",Vivid Touch
+http://195.154.185.179/xx_xy_max_hd/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic
+http://195.154.185.179/xx_brazzers_tv_europe/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic3
+http://195.154.185.179/xx_hot_tv/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic4
+http://195.154.185.179/xx_venus_tv/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic5
+http://195.154.185.179/xx_sextreme/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic6
+http://195.154.185.179/xx_sexy_hot/index.m3u8
+#EXTINF:-1 group-title="XXX",PinkErotic8
+http://195.154.185.179/xx_x1/index.m3u8
+#EXTINF:-1 group-title="XXX",PassieXXX Tieners
+http://195.154.185.179/xx_vivid_tv_europe/index.m3u8
+#EXTINF:-1 group-title="XXX",PassionXXX TeenClub
+http://195.154.185.179/xx_dusk/index.m3u8
+#EXTINF:-1 group-title="XXX",Vixen
+http://195.154.185.179/xx_stars_xxx_hd/index.m3u8
+#EXTINF:-1 group-title="XXX",Bunga Bunga
+http://195.154.185.179/xx_russian_night/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="redlight-hd",Redlight HD
+http://195.154.185.179/xx_redlight_hd/index.m3u8
+#EXTINF:-1 group-title="XXX",SeXtreme
+http://195.154.185.179/xx_prive_tv/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="private-tv",Private HD
+http://195.154.185.179/xx_private_tv_hd/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="blue-hustler",Blue Hustler
+http://195.154.185.179/xx_pink_erotic_4/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="playboy-tv",Playboy TV
+http://195.154.185.179/xx_pink_erotic_3/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="penthouse-gold",Penthouse Gold HD
+http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="penthouse-quickies",Penthouse Quickies HD
+http://195.154.185.179/xx_penthouse_quickies_hd/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="exxxotica",Exxxotica HD
+http://195.154.185.179/xx_oldtimer/index.m3u8
+#EXTINF:-1 group-title="XXX",Balkan Erotic
+http://195.154.185.179/xx_o_la_la_tv/index.m3u8
+#EXTINF:-1 group-title="XXX",Legal
+http://195.154.185.179/xx_nuart_tv_hd/index.m3u8
+#EXTINF:-1 group-title="XXX",Naughty
+http://195.154.185.179/xx_nuart_tv/index.m3u8
+#EXTINF:-1 group-title="XXX",Hot Pleasure
+http://195.154.185.179/xx_leo_tv/index.m3u8
+#EXTINF:-1 group-title="XXX",ЯК TV
+http://195.154.185.179/xx_hustler_tv/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="hustler-hd",Hustler HD
+http://195.154.185.179/xx_hustler_hd/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="hustler-tv",Hustler TV
+http://195.154.185.179/xx_extasy_hd/index.m3u8
+#EXTINF:-1 group-title="XXX",Pure Babes
+http://195.154.185.179/xx_hot_pleasure/index.m3u8
+#EXTINF:-1 group-title="XXX",DP
+http://195.154.185.179/xx_extreme/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="erox",Erox
+http://195.154.185.179/xx_erox_hd/index.m3u8
+#EXTINF:-1 group-title="XXX",Evil Angel
+http://195.154.185.179/xx_brazzers_tv/index.m3u8
+#EXTINF:-1 group-title="XXX",LeoTV HD
+http://195.154.185.179/xx_blue_hustler_hd/index.m3u8
+#EXTINF:-1 group-title="XXX",XBizarre
+http://195.154.185.179/xx_blue_hustler_europe/index.m3u8
+#EXTINF:-1 group-title="XXX",HotXXL
+http://195.154.185.179/xx_barely_legal_tv/index.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="french-lover",French Lover
+http://195.154.185.179/xx_balkan_erotic/index.m3u8
+#EXTINF:-1 group-title="XXX",XY Mix
+http://195.154.185.179/xx_babes_tv_hd/index.m3u8
+#EXTINF:-1 group-title="XXX",UnnamedID
+http://195.154.185.179/xx_playboy_tv_hd/index.m3u8
+#EXTINF:-1 group-title="XXX",UnnamedID2
+http://195.154.185.179/xx_playboy_tv/index.m3u8
+#EXTINF:-1 group-title="XXX",UnnamedID3
+http://195.154.185.179/xx_blue_hustler/index.m3u8
+#EXTINF:-1 group-title="XXX",UnnamedID4
+http://195.154.185.179/xx_bangerz/index.m3u8
 #EXTINF:-1 group-title="XXX",Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="XXX",Rough
@@ -2164,3 +2176,15 @@ http://live.redtraffic.xyz/milf.m3u8
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 group-title="XXX",POV HD 720
 http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="XXX",Dorcel TV
+http://50.7.120.164:8081/dorcel/index.m3u8?wmsAuthSign=578c634600823de3a0776268cf2092ac-1669163881-321i85i04i77
+#EXTINF:-1 group-title="XXX",Eroxxx HD
+http://50.7.120.164:8081/erox/index.m3u8?wmsAuthSign=208b834b429ebf653863d2fe737052f3-1669163981-321i85i04i77
+#EXTINF:-1 group-title="XXX",Hustler TV
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1 group-title="XXX",Redlight
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 group-title="XXX",Erox
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1 group-title="XXX",PinkoClub
+http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8

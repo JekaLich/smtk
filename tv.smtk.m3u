@@ -1,41 +1,41 @@
 #EXTM3U url-tvg="http://epgtut.tk/epg.xml.gz,http://epg.openboxfan.com/xmltv-t-sd.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
 
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-action",BCU Action HD
-http://str20.gudauta.net:8117/6274/video.m3u8
+http://ip1.orgip.net/1600/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-catastrophe",BCU Catastrophe HD
 http://str20.gudauta.net:8117/6275/video.m3u8
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-cinema",BCU Cinema HD
-http://str20.gudauta.net:8117/6276/video.m3u8
+http://ip1.orgip.net/1602/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-cinemaplus",BCU Cinema+ HD
-http://str20.gudauta.net:8117/6310/video.m3u8
+http://ip1.orgip.net/1603/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-comedy",BCU Comedy HD
-http://str20.gudauta.net:8117/6277/video.m3u8
+http://ip1.orgip.net/1604/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-criminal",BCU Criminal HD
 http://ip1.orgip.net/1605/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-fantastic",BCU Fantastic HD
-http://str20.gudauta.net:8117/6278/video.m3u8
+http://ip1.orgip.net/1606/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-filmystic",BCU FilMystic HD
-http://str20.gudauta.net:8117/6294/video.m3u8
+http://ip1.orgip.net/1607/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-history",BCU History HD
-http://str20.gudauta.net:8117/6279/video.m3u8
+http://ip1.orgip.net/1608/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-kids",BCU Kids HD
-http://str20.gudauta.net:8117/6291/video.m3u8
+http://ip1.orgip.net/1610/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-kids-plus",BCU Kids+ HD
 http://ip1.orgip.net/1609/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-kinorating",BCU Kinorating HD
-http://str20.gudauta.net:8117/6280/video.m3u8
+http://ip1.orgip.net/1611/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-marvel",BCU Marvel HD
-http://str20.gudauta.net:8117/6281/video.m3u8
+http://ip1.orgip.net/1612/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-premiere",BCU Premiere HD
 http://ip1.orgip.net/1614/video.m3u8?token=C7e7f66b17
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-XXXXXXXX",BCU RUSerial HD
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-ruserial",BCU RUSerial HD
 http://ip1.orgip.net/1615/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-reality",BCU Reality HD
 http://ip1.orgip.net/1624/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-russian",BCU Russian HD
 http://ip1.orgip.net/1617/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-stars",BCU Stars HD
-http://str20.gudauta.net:8117/6311/video.m3u8
+http://ip1.orgip.net/1618/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-ultra4k",BCU Ultra 4K
 http://ip1.orgip.net/1619/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-vhs",BCU VHS HD
@@ -47,7 +47,7 @@ http://ip1.orgip.net/1622/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-kinozal-prem-3",BCU Кинозал Premiere 3 HD
 http://ip1.orgip.net/1623/video.m3u8?token=C7e7f66b17
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-multserial",BCU Мультсериал HD
-http://str20.gudauta.net:8117/6290/video.m3u8
+http://ip1.orgip.net/1631/video.m3u8?token=C7e7f66b17
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2136.png" group-title="Кино",Amedia 1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
@@ -184,9 +184,9 @@ http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
 http://193.233.9.49/streams/media/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино",Душевное
 http://95.217.196.109:8081/russia/dushevnoe/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Star Cinema HD
+#EXTINF:-1 group-title="Кино" tvg-id="star-cinema",Star Cinema HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кино",Star Family HD
+#EXTINF:-1 group-title="Кино" tvg-id="star-family",Star Family HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" group-title="Познавательные",Discovery Channel HD
@@ -217,7 +217,7 @@ https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8
 http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel Channel HD
 http://178.159.112.198:80/travel/index.m3u8?token=test
-#EXTINF:-1 group-title="Познавательные",Love Nature
+#EXTINF:-1 group-title="Познавательные" tvg-id="love-nature-4k",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat History
 https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
@@ -269,7 +269,7 @@ http://94.230.240.17:8080/usadba/index.m3u8
 http://193.233.9.49/streams/media/ZOOPARK/index.m3u8
 #EXTINF:-1 group-title="Познавательные",English Club TV
 http://91.185.3.218:8000/play/407
-#EXTINF:-1 group-title="Познавательные",Тонус
+#EXTINF:-1 group-title="Познавательные" tvg-id="tonus-tv",Тонус
 http://109.200.135.130:8080/tonus/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Театр
 http://185.123.187.5:80/teatr/index.m3u8?token=test

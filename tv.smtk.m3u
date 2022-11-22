@@ -275,15 +275,12 @@ http://109.200.135.130:8080/tonus/tracks-v1a1/index.m3u8
 http://185.123.187.5:80/teatr/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Время
 https://sc.id-tv.kz:443/Vremya_36_37.m3u8
-#EXTINF:-1 group-title="Познавательные",Love Nature 4K
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Познавательные" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
+#EXTINF:-1 group-title="Познавательные" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные",Nano TV
+#EXTINF:-1 group-title="Познавательные" tvg-id="nano-tv",Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2423.png" group-title="Познавательные",365 дней ТВ
 http://31.210.208.167:80/365day/index.m3u8?token=test
@@ -2027,14 +2024,14 @@ http://uiptv.do.am/1ufc/116316122/playlist.m3u8
 
 #EXTINF:-1 group-title="XXX",Русская ночь
 http://46.174.83.66/Russkaya_Noch/video.m3u8
-#EXTINF:-1 group-title="XXX",Babes TV
-http://50.7.120.164:8081/babes/index.m3u8?wmsAuthSign=8072ff5baacf3538e248329c1a71e8ab-1668628983-321i85i04i77
+#EXTINF:-1 group-title="XXX" tvg-id="sholk",Шёлк
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 group-title="XXX",Nuart
 http://212.18.115.177:3169/play/nuart/index.m3u8
 #EXTINF:-1 group-title="XXX",Extasy 4K
 http://213.81.133.133:8080/extasy4k/index.m3u8
 #EXTINF:-1 group-title="XXX",Dorcel TV
-http://85.14.32.3:8801/udp/224.100.1.132:56000
+http://50.7.120.164:8081/dorcel/index.m3u8?wmsAuthSign=578c634600823de3a0776268cf2092ac-1669163881-321i85i04i77
 #EXTINF:-1 group-title="XXX",Dorcel TV HD
 http://85.14.32.3:8801/udp/224.100.1.137:56000
 #EXTINF:-1 group-title="XXX",Dorcel XXX
@@ -2060,7 +2057,7 @@ http://85.14.32.3:8801/udp/224.100.1.140:56000
 #EXTINF:-1 group-title="XXX",Erox
 http://94.229.250.73:8008/play/a002
 #EXTINF:-1 group-title="XXX",Eroxxx HD
-http://85.14.32.3:8801/udp/224.100.1.141:56000
+http://50.7.120.164:8081/erox/index.m3u8?wmsAuthSign=208b834b429ebf653863d2fe737052f3-1669163981-321i85i04i77
 #EXTINF:-1 group-title="XXX",Vixen HD
 http://85.14.32.3:8801/udp/224.100.1.144:56000
 #EXTINF:-1 group-title="XXX",Vixen TV

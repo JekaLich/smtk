@@ -214,7 +214,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature/History HD
 https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
-http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
+http://ott.101film.org:3000/101film/101test/307
 #EXTINF:-1 group-title="Познавательные",Travel Channel HD
 http://178.159.112.198:80/travel/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="love-nature-4k",Love Nature
@@ -509,7 +509,7 @@ http://ott.101film.org:3000/101film/101test/364
 #EXTINF:-1 group-title="Спорт",Футбольный HD
 http://31.210.208.167:80/football/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Моторспорт ТВ
-http://109.200.135.130:8080/motorsport/tracks-v1a1/index.m3u8
+http://ott.101film.org:3000/101film/101test/370
 
 #EXTINF:-1 group-title="Музыка",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8

@@ -96,7 +96,6 @@ https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",ДОРАМА HD
 http://31.210.208.167:80/dorama/index.m3u8?token=test
-
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
@@ -121,6 +120,26 @@ http://185.123.187.5:80/indijskoe_kino/index.m3u8?token=test
 http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="blokbaster",Блокбастер
+http://185.23.80.28:8080/Blockbaster/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kamedi",Камеди
+http://185.23.80.28:8080/Camedi/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz",Кинопоказ
+http://185.23.80.28:8080/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="nash-kinopokaz",Наш Кинопоказ
+http://185.23.80.28:8080/NashKinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="nashe-muzhskoe",Наше Мужское
+http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="premialnoe",Премиальное
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="pro-lyubov",Про Любовь
+http://185.23.80.28:8080/ProLyubov/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="khit",Хит
+http://185.23.80.28:8080/Xit/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="dushevnoe",Душевное
+http://95.217.196.109:8081/russia/dushevnoe/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe",Остросюжетное
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+
 http://178.159.112.198/illuzion_plus/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",FOX HD
@@ -199,12 +218,8 @@ https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
 http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино",Zee TV
 http://185.23.80.28:8080/ZeeTV/index.m3u8
-#EXTINF:-1 group-title="Кино",Кинопоказ
-http://178.159.112.198/kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино",Комедия
 http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Кино",Душевное
-http://95.217.196.109:8081/russia/dushevnoe/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-cinema",Star Cinema HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-family",Star Family HD

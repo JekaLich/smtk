@@ -96,26 +96,31 @@ https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",ДОРАМА HD
 http://31.210.208.167:80/dorama/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
+
+#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит HD
+#EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
 http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" group-title="Кино",Киносемья HD
+#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
 http://109.197.192.121:8080/kinosemya/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png" group-title="Кино",Киносвидание HD
-https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" group-title="Кино",Кинокомедия HD
-https://livetv.mylifeisgood.ml/channels/kinokomedia.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="Кино",Мужское Кино HD
-http://178.159.112.198:80/muzhskoe_kino/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" group-title="Кино",Киносерия HD
-http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" group-title="Кино",Индийское кино
-http://185.123.187.5:80/indijskoe_kino/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="Кино",Киноужас HD
-http://109.197.192.121:8080/kinouzhas/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс HD
+#EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
+http://178.159.112.198:80/muzhskoe_kino/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
+http://31.210.208.167:80/nashe_novoe_kino/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
+http://31.148.48.15:80/Rodnoe_kino/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
+https://livetv.mylifeisgood.ml/channels/kinokomedia.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
+http://185.123.187.5:80/indijskoe_kino/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
+http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
+http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+
 http://178.159.112.198/illuzion_plus/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",FOX HD
@@ -154,8 +159,6 @@ http://flu.ttk.mx:9090/Retro/index.m3u8?token=orh6o
 http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино",Любимое Кино
 http://ott.101film.org:3000/101film/101test/192
-#EXTINF:-1 group-title="Кино",Родное кино
-http://31.148.48.15:80/Rodnoe_kino/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
 http://109.197.192.121:8080/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино

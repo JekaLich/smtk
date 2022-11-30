@@ -72,7 +72,7 @@ https://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3645.png" group-title="Кино",Amedia Hit HD
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3678.png" group-title="Кино",Amedia Premium HD
-http://ott.101film.org:3000/101film/101test/291
+http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3520.png" group-title="Кино",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3505.png" group-title="Кино",VIP Premiere
@@ -97,25 +97,25 @@ https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",ДОРАМА HD
 http://31.210.208.167:80/dorama/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино",Кинопремьера HD
-http://ott.101film.org:3000/101film/101test/137
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит HD
-http://ott.101film.org:3000/101film/101test/46
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" group-title="Кино",Киносемья HD
-http://ott.101film.org:3000/101film/101test/55
+http://109.197.192.121:8080/kinosemya/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png" group-title="Кино",Киносвидание HD
-http://ott.101film.org:3000/101film/101test/57
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" group-title="Кино",Кинокомедия HD
 https://livetv.mylifeisgood.ml/channels/kinokomedia.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="Кино",Мужское Кино HD
-http://ott.101film.org:3000/101film/101test/63
+http://178.159.112.198:80/muzhskoe_kino/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" group-title="Кино",Киносерия HD
-http://ott.101film.org:3000/101film/101test/48
+http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" group-title="Кино",Индийское кино
 http://185.123.187.5:80/indijskoe_kino/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="Кино",Киноужас HD
-http://ott.101film.org:3000/101film/101test/124
+http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс HD
-http://ott.101film.org:3000/101film/101test/59
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+
 http://178.159.112.198/illuzion_plus/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",FOX HD
@@ -135,7 +135,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2549.png" group-title="Кино",Cinema
 http://178.159.112.198/cinema/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Кино",НСТ
-http://ott.101film.org:3000/101film/101test/121
+http://178.159.112.198/nst/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="super",Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Феникс+Кино
@@ -149,21 +149,23 @@ https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
 #EXTINF:-1 group-title="Кино",FilmBox
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
-http://ott.101film.org:3000/101film/101test/278
+http://flu.ttk.mx:9090/Retro/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино",Еврокино
-http://ott.101film.org:3000/101film/101test/302
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино",Любимое Кино
 http://ott.101film.org:3000/101film/101test/192
 #EXTINF:-1 group-title="Кино",Родное кино
-http://ott.101film.org:3000/101film/101test/285
+http://31.148.48.15:80/Rodnoe_kino/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
 http://109.197.192.121:8080/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино
-http://95.217.196.109:8081/russia/dom_kino_sd_new/playlist.m3u8
+http://178.159.112.198/dom_kino/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом кино Премиум HD
+http://178.159.112.198:80/dom_kino_premium_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" group-title="Кино",Русский роман
 http://109.200.135.130:8080/russki_roman_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png" group-title="Кино",Русский иллюзион
-http://ott.101film.org:3000/101film/101test/78
+http://185.23.80.28:8080/RusIlluzion/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/0335249fc600cbbeae7e446a1f96a1ff.png",Свежаки
 https://edge-01.kino.watch/fresh/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/a2440b87618da2fea4a2003f1f92e204.png",Уже видел
@@ -191,13 +193,13 @@ https://livetv.mylifeisgood.ml/channels/fox.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
 https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
 #EXTINF:-1 group-title="Кино",TV XXI
-http://ott.101film.org:3000/101film/101test/207
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино",Zee TV
 http://185.23.80.28:8080/ZeeTV/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://178.159.112.198/kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино",Комедия
-http://ott.101film.org:3000/101film/101test/131
+http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино",Душевное
 http://95.217.196.109:8081/russia/dushevnoe/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-cinema",Star Cinema HD
@@ -214,13 +216,13 @@ https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2485.png" group-title="Познавательные",DTX HD
 https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png" group-title="Познавательные",History HD
-http://ott.101film.org:3000/101film/101test/101
+http://95.217.196.109:8081/russia/history/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png" group-title="Познавательные",History 2 HD
 http://ott.101film.org:3000/101film/101test/102
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/223.png" group-title="Познавательные",Nat Geo Wild HD
-http://ott.101film.org:3000/101film/101test/86
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png"  group-title="Познавательные",National Geographic HD
-http://ott.101film.org:3000/101film/101test/88
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1014.png",Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3236.png",Viasat History HD
@@ -230,7 +232,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature/History HD
 https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
-http://ott.101film.org:3000/101film/101test/307
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel Channel HD
 http://178.159.112.198:80/travel/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="love-nature-4k",Love Nature
@@ -248,15 +250,15 @@ http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Моя планета
 http://95.217.196.109:8081/russia/moya_planeta/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Охота и рыбалка
-http://ott.101film.org:3000/101film/101test/316
+http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные",Охотник и рыболов
 http://195.2.74.99/channel/5ddf1954/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 #EXTINF:-1 group-title="Познавательные",Дикий
 http://185.23.80.28:8080/Dikiy/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Дикая охота HD
-http://ott.101film.org:3000/101film/101test/90
+http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
-http://ott.101film.org:3000/101film/101test/108
+http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Диалоги о Рыбалке
 https://livetv.mylifeisgood.ml/channels/dialogiorybalke.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2444.png" group-title="Познавательные",Мужской
@@ -266,7 +268,7 @@ http://109.197.192.121:8080/auto24/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто Плюс
 http://185.123.187.5:80/avtoplus/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Драйв
-http://ott.101film.org:3000/101film/101test/98
+http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные",Техно 24
 https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая природа
@@ -329,7 +331,7 @@ https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 #EXTINF:-1 group-title="Познавательные",Ocean TV
 http://185.123.187.5:80/oceantv/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Домашние животные
-http://ott.101film.org:3000/101film/101test/309
+http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные",История
 http://31.148.48.15:80/Istoriya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Моя стихия
@@ -476,7 +478,7 @@ http://31.210.208.167:80/ani/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://ott.101film.org:3000/101film/101test/153
 #EXTINF:-1 group-title="Детские",Детский мир
-http://95.217.196.109:8081/russia/detskiy_mir_sd_new/playlist.m3u8
+http://178.159.112.198:80/detskij_mir/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 
@@ -491,23 +493,23 @@ https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! HD
 https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://ott.101film.org:3000/101film/101test/41
+https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Арена HD
-http://ott.101film.org:3000/101film/101test/32
+http://31.148.48.15:80/Match_Arena_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Матч! Планета
 https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Игра
-http://ott.101film.org:3000/101film/101test/30
+http://31.148.48.15:80/Match_Igra/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Матч! Страна HD
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://ott.101film.org:3000/101film/101test/34
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-http://ott.101film.org:3000/101film/101test/36
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-http://ott.101film.org:3000/101film/101test/38
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Матч! Боец
-http://ott.101film.org:3000/101film/101test/39
+http://flu.ttk.mx:9090/Boets/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Спорт",КХЛ HD
 http://31.210.208.167:80/khl/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/d2360201b7ecc3975c3982437a50c0c5.png" tvg-id="kxl-hd",KHL Prime
@@ -521,11 +523,11 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт",Старт HD
 https://livetv.mylifeisgood.ml/channels/startlive.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол HD
-http://ott.101film.org:3000/101film/101test/364
+http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Спорт",Футбольный HD
 http://31.210.208.167:80/football/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт",Моторспорт ТВ
-http://ott.101film.org:3000/101film/101test/370
+http://31.210.208.167:80/motorsport/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Музыка",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8

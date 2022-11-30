@@ -236,7 +236,7 @@ https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png" group-title="Познавательные",History HD
 http://95.217.196.109:8081/russia/history/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png" group-title="Познавательные",History 2 HD
-http://ott.101film.org:3000/101film/101test/102
+https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/223.png" group-title="Познавательные",Nat Geo Wild HD
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png"  group-title="Познавательные",National Geographic HD

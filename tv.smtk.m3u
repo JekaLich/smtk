@@ -115,7 +115,7 @@ http://31.148.48.15:80/Rodnoe_kino/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
 https://livetv.mylifeisgood.ml/channels/kinokomedia.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
-http://185.123.187.5:80/indijskoe_kino/index.m3u8?token=test
+http://78.25.155.47:1309/channel/India.ts
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
 http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
@@ -143,7 +143,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино",Иллюзион+
 http://178.159.112.198/illuzion_plus/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино",FOX HD
-http://ott.101film.org:3000/101film/101test/132
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" group-title="Кино",FOX Life HD
 http://ott.101film.org:3000/101film/101test/304
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2405.png" group-title="Кино",Paramount Channel
@@ -280,11 +280,11 @@ http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Диалоги о Рыбалке
 https://livetv.mylifeisgood.ml/channels/dialogiorybalke.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2444.png" group-title="Познавательные",Мужской
-http://185.123.187.5:80/muzhskoy/index.m3u8?token=test
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2008.png" group-title="Познавательные",Авто24
 http://109.197.192.121:8080/auto24/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто Плюс
-http://185.123.187.5:80/avtoplus/index.m3u8?token=test
+http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Драйв
 http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные",Техно 24
@@ -292,7 +292,7 @@ https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая природа
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 #EXTINF:-1 group-title="Познавательные",Бобер
-http://185.123.187.5:80/bober/index.m3u8?token=test
+http://flu.ttk.mx:9090/Bober/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные" tvg-id="poehali",Поехали
 http://95.217.196.109:8081/russia/poehali/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Психология 21
@@ -306,9 +306,9 @@ http://ott.101film.org:3000/101film/101test/338
 #EXTINF:-1 group-title="Познавательные" tvg-id="tonus-tv",Тонус
 http://185.23.80.28:8080/Zdorove/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Театр
-http://185.123.187.5:80/teatr/index.m3u8?token=test
+http://178.159.112.198/teatr/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Время
-http://185.123.187.5:80/vremya/index.m3u8?token=test
+http://31.148.48.15:80/Vremya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
@@ -357,7 +357,7 @@ http://185.123.187.5:80/nautical/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Телепутешествия
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Сарафан
-http://109.200.135.130:8080/sarafan/tracks-v1a1/index.m3u8
+http://31.148.48.15:80/Sarafan/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Россия",Первый канал HD
 https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
@@ -461,7 +461,7 @@ http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Дождь
 http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Новости",Euronews
-http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+https://sc.id-tv.kz:443/Euronews_34_35.m3u8
 #EXTINF:-1 group-title="Новости",Bloomberg TV Europe
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Новости",France 24 English

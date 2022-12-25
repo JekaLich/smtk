@@ -378,7 +378,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",ТВ Центр
 https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
 #EXTINF:-1 group-title="Россия",Пятый канал
-https://livetv.mylifeisgood.ml/channels/5tv.m3u8
+http://185.23.80.28:8080/Pyatyj/index.m3u8
 #EXTINF:-1 group-title="Россия",Рен ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="Россия",РЕН ТВ

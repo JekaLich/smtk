@@ -41,7 +41,7 @@ http://50.7.149.34:8001/play/bcu_reality_hd
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-romantic",BCU Romantic HD
 http://50.7.149.34:8001/play/bcu_romantic_hd
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-ruserial",BCU RUSerial HD
-http://ip1.orgip.net/1615/video.m3u8?token=C7e7f66b17
+http://50.7.149.34:8001/play/bcu_ruserial_hd
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-russian",BCU Russian HD
 http://50.7.149.34:8001/play/bcu_russian_hd
 #EXTINF:-1 group-title="BCU" tvg-id="bcu-stars",BCU Stars HD

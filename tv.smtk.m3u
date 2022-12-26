@@ -318,8 +318,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2423.png" group-title="Познавательные",365 дней ТВ
 http://31.210.208.167:80/365day/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/930.png" group-title="Познавательные",ЕДА Премиум
-https://sc.id-tv.kz/EdaHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные",Univer TV
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая Планета

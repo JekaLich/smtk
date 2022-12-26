@@ -371,7 +371,7 @@ http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=orh6o
 http://178.217.72.66:8080/food_network/video.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
 http://185.23.80.28:8080/Eda/index.m3u8
-#EXTINF:-1 group-title="Женские", tvg-id="eda-hd",FoodTime
+#EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
 http://192.162.212.60:4880/eda_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zdorovoe-tv",Здоровое ТВ
 http://109.197.192.121:8080/zdorovoe/index.m3u8

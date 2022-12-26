@@ -93,7 +93,7 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw20000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ HD
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png" group-title="Кино",Bollywood HD
@@ -365,7 +365,7 @@ http://31.148.48.15:80/Sarafan/index.m3u8?token=test
 https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="Россия",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Россия 1 HD
 https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 #EXTINF:-1 group-title="Россия",Россия К
@@ -374,7 +374,7 @@ https://livetv.mylifeisgood.ml/channels/russiak.m3u8
 https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
 #EXTINF:-1 group-title="Россия",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",ТВ Центр
 https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
 #EXTINF:-1 group-title="Россия",Пятый канал
@@ -383,12 +383,12 @@ http://185.23.80.28:8080/Pyatyj/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="Россия",РЕН ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="Россия",СТС
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",СТС International
 https://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 group-title="Россия",СТС Love
@@ -397,14 +397,14 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
 https://bl.uma.media/live/410338/HLS/6307840_7/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",ТНТ International
 https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3/1647494495/6f25a13cb69de84821901352d0815304/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",ТНТ4 International
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
 #EXTINF:-1 group-title="Россия",Пятница HD
@@ -439,21 +439,21 @@ http://v4.proofix.ru:80/8tv-russia/index.m3u8
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
 #EXTINF:-1 group-title="Россия",ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Рифей-ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-logo="http://epg.it999.ru/img/2141.png",Спас
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngQ3MBk-1noku5P-oU6dLqNnB_Lh0pFp9zOSwSa=s200-c-k-c0x00ffffff-no-rj?.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/c0cb246f51fa7550e4826435804082fc.png" tvg-id="2na2",2x2 HD
 https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/yu.png",Ю
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-logo="https://iptvx.one/icn/che.png",Че
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия",Телекафе
 http://iptv.mega.net.ru:8888/TVRU2/Telekafe/index.m3u8
 
@@ -649,6 +649,9 @@ https://stirr.ott-channels.stingray.com/155/master.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Exitos Del Momento HD
 https://stirr.ott-channels.stingray.com/190/master.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-id="metr",МЭТР
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региональные",Вечерняя Москва HD
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-1 group-title="Региональные",Башкортостан 24
@@ -906,9 +909,6 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m
 #EXTINF:-1 group-title="Региональные" tvg-id="my-i-gorod",Мы и город
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8?version=2
-#EXTINF:-1 group-title="Региональные" tvg-id="metr",МЭТР
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8?version=2
 #EXTINF:-1 group-title="Региональные" tvg-id="ntm" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1490273937894.png",Народное телевидение Мордовии
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8?version=2
@@ -1138,192 +1138,166 @@ https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8?version=2
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
 
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/disney_channel.png",Disney Channel (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/karusel.png",Карусель (+3)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/karusel.png",Карусель (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a00000165d1e32e88bb204e67a2a23f4758/orig",Муз ТВ (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a00000165d1e32e88bb204e67a2a23f4758/orig",Муз ТВ (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a00000165d1e32e88bb204e67a2a23f4758/orig",Муз ТВ (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="http://epg.it999.ru/img/323.png",2x2 (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="http://epg.it999.ru/img/323.png",2x2 (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="http://epg.it999.ru/img/323.png",2x2 (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+",Пятница! (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+",Пятница! (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+",Пятница! (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/sts.png",СТС (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/sts.png",СТС (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/sts-love.png",СТС Love (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/sts-love.png",СТС Love (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/super.png",Суббота! (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/super.png",Суббота! (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/super.png",Суббота! (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/tnt4.png",ТНТ4 (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/che.png",Че (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/che.png",Че (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/yu.png",Ю (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/yu.png",Ю (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/yu.png",Ю (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",ТВ 3 (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/domashny.png",Домашний (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/domashny.png",Домашний (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/mir.png",Мир (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/mir.png",Мир (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/mir.png",Мир (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+1)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/ntv-white.png",НТВ (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (+1)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (+3)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/pervyj.png",Первый канал (+8)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/5kanal-ru.png",Пятый канал (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (+1)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+#EXTINF:-1 group-title="Time+" tvg-id="2na2-pl2",2x2 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="2na2-pl4",2x2 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="2na2-pl7",2x2 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="domashny-pl2",Домашний (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="domashny-pl4",Домашний (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="domashny-pl7",Домашний (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="zvezda-pl2",Звезда (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="zvezda-pl4",Звезда (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="zvezda-pl7",Звезда (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="karusel-pl2",Карусель (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="karusel-pl4",Карусель (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="karusel-pl7",Карусель (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="mir-pl2",Мир (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="mir-pl4",Мир (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="mir-pl7",Мир (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="muztv-pl2",Муз ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="muztv-pl4",Муз ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="muztv-pl7",Муз ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="ntv-pl2",НТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="ntv-pl4",НТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="ntv-pl7",НТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="pervy-pl1",Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="pervy-pl2",Первый канал (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="pervy-pl3",Первый канал (+3)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="pervy-pl4",Первый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="pervy-pl5",Первый канал (+5)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="pervy-pl6",Первый канал (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="pervy-pl7",Первый канал (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="pervy-pl8",Первый канал (+8)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="pervy-pl9",Первый канал (+9)
+http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="piatnica-pl2",Пятница (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="piatnica-pl4",Пятница (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="piatnica-pl7",Пятница (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="5kanal-ru-pl2",Пятый канал (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="5kanal-ru-pl4",Пятый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="5kanal-ru-pl7",Пятый канал (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rentv-pl2",Рен ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rentv-pl4",Рен ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rentv-pl7",Рен ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rossia1-pl1",Россия 1 (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (+3)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+#EXTINF:-1 group-title="Time+" tvg-id="rossia1-pl2",Россия 1 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rossia1-pl3",Россия 1 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (+6)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (+8)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8
-#EXTINF:-1 group-title="Time+" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (-1)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_k.png",Россия К (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://tvoetv.online/img/ch_icons/rossiya_k.png",Россия К (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time+" tvg-logo="https://iptvx.one/icn/tvcentr.png",ТВ Центр (+4)
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rossia1-pl4",Россия 1 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rossia1-pl5",Россия 1 (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rossia1-pl6",Россия 1 (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rossia1-pl7",Россия 1 (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rossia1-pl8",Россия 1 (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="rossia1-pl9",Россия 1 (+9)
+http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="kultura-pl2",Россия К (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="kultura-pl4",Россия К (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="kultura-pl7",Россия К (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="solnce-pl2",Солнце (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="solnce-pl4",Солнце (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="solnce-pl7",Солнце (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="sts-pl2",СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="sts-pl4",СТС (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="sts-pl7",СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="sts-love-pl2",СТС Love (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="sts-love-pl7",СТС Love (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="super-pl2",Суббота (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="super-pl4",Суббота (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="super-pl7",Суббота (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tvcentr-pl2",ТВ Центр (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tvcentr-pl4",ТВ Центр (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tvcentr-pl7",ТВ Центр (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tv3-ru-pl2",ТВ3 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tv3-ru-pl4",ТВ3 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tv3-ru-pl7",ТВ3 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tnt-pl2",ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tnt-pl4",ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tnt-pl7",ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tnt4-pl2",ТНТ4 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tnt4-pl4",ТНТ4 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="tnt4-pl7",ТНТ4 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="che-pl2",Че (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="che-pl4",Че (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="che-pl7",Че (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="yu-pl2",Ю (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="yu-pl4",Ю (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Time+" tvg-id="yu-pl7",Ю (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer

@@ -1310,9 +1310,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2
 #EXTINF:-1 group-title="Time+" tvg-id="yu-pl7",Ю (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
 
-#EXTINF:-1 group-title="Time-" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}",Первый канал (test)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Time-" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}",Первый канал (test2)
+#EXTINF:-1 group-title="Time-" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="pervy",Первый канал (test archive)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Time-" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1575982291875.png",Первый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer

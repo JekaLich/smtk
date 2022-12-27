@@ -34,3 +34,51 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/RFE-TVMC05_1080/chunkli
 
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
+
+
+
+
+Мужские (заглушка, без стримов)
+#EXTINF:-1 group-title="Мужские" tvg-id="trofey",Трофей
+
+#EXTINF:-1 group-title="Мужские" tvg-id="rybalka",Рыбалка
+
+#EXTINF:-1 group-title="Мужские" tvg-id="oxota-i-rybalka",Охота и рыбалка
+
+#EXTINF:-1 group-title="Мужские" tvg-id="oxotnik-i-rybolov-hd",Охотник и рыболов HD
+
+#EXTINF:-1 group-title="Мужские" tvg-id="oxotnik-i-rybolov",Рыболов
+
+#EXTINF:-1 group-title="Мужские" tvg-id="dialogi-o-rybalke",Диалоги о рыбалке
+
+#EXTINF:-1 group-title="Мужские" tvg-id="nasha-tema",Наша тема
+
+#EXTINF:-1 group-title="Мужские" tvg-id="dikiy",Дикий
+
+#EXTINF:-1 group-title="Мужские" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
+
+#EXTINF:-1 group-title="Мужские" tvg-id="dikaya-oxota-hd",Дикая охота HD
+
+#EXTINF:-1 group-title="Мужские" tvg-id="?????",555hf.TV HD
+
+#EXTINF:-1 group-title="Мужские" tvg-id="oruzhie",Оружие
+
+#EXTINF:-1 group-title="Мужские" tvg-id="muzhskoy",Мужской
+
+#EXTINF:-1 group-title="Мужские" tvg-id="avto-plus",Авто Плюс
+
+#EXTINF:-1 group-title="Мужские" tvg-id="avto24",Авто24
+
+#EXTINF:-1 group-title="Мужские" tvg-id="1auto",Первый автомобильный
+
+#EXTINF:-1 group-title="Мужские" tvg-id="dtx",DTX HD
+
+#EXTINF:-1 group-title="Мужские" tvg-id="drive",Драйв
+
+#EXTINF:-1 group-title="Мужские" tvg-id="?????",Prosto Drive HD
+
+#EXTINF:-1 group-title="Мужские" tvg-id="?????",Cars & Stars TV HD
+
+#EXTINF:-1 group-title="Мужские" tvg-id="e-tv",E TV
+
+#EXTINF:-1 group-title="Мужские" tvg-id="gametoon",Gametoon

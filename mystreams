@@ -39,46 +39,33 @@ https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
 
 
 Мужские (заглушка, без стримов)
-#EXTINF:-1 group-title="Мужские" tvg-id="trofey",Трофей
-
-#EXTINF:-1 group-title="Мужские" tvg-id="rybalka",Рыбалка
-
 #EXTINF:-1 group-title="Мужские" tvg-id="oxota-i-rybalka",Охота и рыбалка
-
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/OHOTAIRIBALKA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="oxotnik-i-rybolov-hd",Охотник и рыболов HD
-
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/ohotnik_rybolov_hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="oxotnik-i-rybolov",Рыболов
-
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/rybolov/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="dialogi-o-rybalke",Диалоги о рыбалке
-
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/dialogi/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="nasha-tema",Наша тема
-
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/nAshA_temA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="dikiy",Дикий
-
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/dikiy/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
-
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/DIKAYARYBALKA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="dikaya-oxota-hd",Дикая охота HD
-
-#EXTINF:-1 group-title="Мужские" tvg-id="?????",555hf.TV HD
-
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/DIKAYAOHOTA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="oruzhie",Оружие
-
+http://cdn.ottiptv.fun:8880/bal_c1l8u2d4f9l1a3r7e1/oruzhie/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="muzhskoy",Мужской
-
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/muzhskoy/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="avto-plus",Авто Плюс
-
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Avto_plyus_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="avto24",Авто24
-
-#EXTINF:-1 group-title="Мужские" tvg-id="1auto",Первый автомобильный
-
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/AVTO24/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="dtx",DTX HD
-
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/dtx/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="drive",Драйв
-
-#EXTINF:-1 group-title="Мужские" tvg-id="?????",Prosto Drive HD
-
-#EXTINF:-1 group-title="Мужские" tvg-id="?????",Cars & Stars TV HD
-
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/DRIVE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Мужские" tvg-id="e-tv",E TV
-
-#EXTINF:-1 group-title="Мужские" tvg-id="gametoon",Gametoon
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/EGSL/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==

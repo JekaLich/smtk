@@ -108,7 +108,7 @@ http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/KINOSEMYA/video.m3u8?token=Ym
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/KINOMIKS/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
-http://192.162.212.60:4880/muzhskoe-kino_hd/tracks-v1a1/playlist.m3u8
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/muzhskoekino/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
 http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/KINOSVIDANIE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
@@ -372,7 +372,7 @@ http://178.217.72.66:8080/food_network/video.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
 http://185.23.80.28:8080/Eda/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
-http://192.162.212.60:4880/eda_hd/tracks-v1a1/playlist.m3u8
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/EDAPREMIUM/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Женские" tvg-id="zdorovoe-tv",Здоровое ТВ
 http://109.197.192.121:8080/zdorovoe/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="psixologia-21",Психология 21

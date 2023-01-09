@@ -96,25 +96,25 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
-http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/BOLLYWOOD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://50.7.222.58:80/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 http://31.210.208.167:80/dorama/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
-http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/KINOPREMIERA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
-http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/kinohit/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/KINOSEMYA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://89.104.114.18:8080/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
-http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/KINOMIKS/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://89.104.114.18:8080/kinomix/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
-http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/muzhskoekino/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://109.200.135.130:8080/muzhskoe-kino_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
-http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/KINOSVIDANIE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://89.104.114.18:8080/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
 http://cdn.ottiptv.fun:8880/bal_c3l8u2d4f9l1a3r7e3/nashenovoekino/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
-http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/rodnoe_kino/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://31.134.132.249:8080/nashe-kino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
 https://livetv.mylifeisgood.ml/channels/kinokomedia.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
@@ -146,7 +146,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
 https://stream01.fishka.ws:443/illuzion_plus/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="fox",Fox HD
-http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/FOXHD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://live2.tvg.ge:8082/tv/FOX_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="foxlife",Fox Life HD
 http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/FOXLIFE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-channel",Paramount Channel
@@ -160,7 +160,7 @@ http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/cinema_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://91.207.180.142:80/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nst",НСТ
 https://stream01.fishka.ws:443/nst/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="super",Суббота
@@ -180,9 +180,9 @@ http://flu.ttk.mx:9090/Retro/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
 http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
-http://iptv.mega.net.ru:8888/TVRU2/Lubimoe_kino/index.m3u8
+http://79.141.211.254:8000/LubimoeKino
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
-http://109.197.192.121:8080/mosfilm/index.m3u8
+http://109.200.135.130:8080/mosfilm/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="domkino",Дом кино
 https://stream01.fishka.ws:443/dom_kino/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом кино Премиум HD
@@ -222,7 +222,7 @@ https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tvxxi",TV XXI
 http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv",Zee-TV
-http://185.23.80.28:8080/ZeeTV/index.m3u8
+http://31.134.132.249:8080/zee-tv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia",Комедия
 http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино" tvg-id="star-cinema",Star Cinema
@@ -259,7 +259,7 @@ http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
 https://stream01.fishka.ws:443/travel/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="love-nature-4k",Love Nature
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Love_Nature_4K/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" tvg-id="da-vinci",Da Vinci
 https://livetv.mylifeisgood.ml/channels/davinci.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd",Приключения HD
@@ -285,7 +285,7 @@ http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
 https://livetv.mylifeisgood.ml/channels/dialogiorybalke.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy",Мужской
-http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/muzhskoy/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto24",Авто24
 http://109.197.192.121:8080/auto24/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto-plus",Авто Плюс
@@ -293,7 +293,7 @@ http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="drive",Драйв
 http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные" tvg-id="texno-24",Техно 24
-http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/tehno24/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://31.134.132.249:8080/t24/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda",Живая природа
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="bobior",Бобер
@@ -303,11 +303,11 @@ http://95.217.196.109:8081/russia/poehali/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="usadba",Усадьба
 http://94.230.240.17:8080/usadba/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zoopark",Zooпарк
-http://iptv.mega.net.ru:8888/TVRU2/Zoopark/index.m3u8
+http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные" tvg-id="tonus-tv",Тонус ТВ
 http://185.23.80.28:8080/Zdorove/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teatr",Театр
-http://iptv.mega.net.ru:8888/TVRU2/Teatr/index.m3u8
+http://31.134.132.249/strk_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="vremia",Время
 http://31.148.48.15:80/Vremya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id=,WORLD HD
@@ -343,13 +343,13 @@ https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oruzhie",Оружие
 https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv",Ocean TV
-http://178.217.72.66:8080/Ocean_TV/video.m3u8
+http://146.158.0.56:80/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
 http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
 http://31.148.48.15:80/Istoriya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy",Моя стихия
-http://185.123.187.5:80/nautical/index.m3u8?token=test
+http://91.207.180.142:80/Morskoy/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="sarafan",Сарафан
@@ -361,14 +361,12 @@ http://flu.ttk.mx:9090/Mama/index.m3u8?token=orh6o
 https://stream01.fishka.ws:443/tlc/index.m3u8?token=test
 #EXTINF:-1 group-title="Женские" tvg-id="ntv-style",НТВ Стиль
 https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
-#EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd116.iptv2022.com/p/_5OXP15tEC7PUASmdfDzbQ,1672222019/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="kuxnia-tv",Кухня ТВ
 http://109.197.192.121:8080/kuhnia/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Женские" tvg-id="food-network",Food Network
-http://178.217.72.66:8080/food_network/video.m3u8
+http://live2.tvg.ge:8082/tv/foodnetwork_SD/playlist.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
 http://185.23.80.28:8080/Eda/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
@@ -477,11 +475,11 @@ http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B35
 http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 
 #EXTINF:-1 group-title="Детские" tvg-id="solnce",Солнце
-http://iptv.mega.net.ru:8888/TVRU2/Disney_Channel/index.m3u8
+https://livetv.mylifeisgood.ml/channels/disney.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon HD
 https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Nicktoons/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://89.254.128.5:22280/nicktoons/video.m3u8
 #EXTINF:-1 group-title="Детские",Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
 #EXTINF:-1 group-title="Детские",Рыжий
@@ -495,13 +493,13 @@ https://livetv.mylifeisgood.ml/channels/mult.m3u8
 #EXTINF:-1 group-title="Детские",Ani
 http://31.210.208.167:80/ani/index.m3u8?token=test
 #EXTINF:-1 group-title="Детские",Cartoon Network
-http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/CARTOONNETWORK/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://89.254.128.5:22280/cartoon_network/video.m3u8
 #EXTINF:-1 group-title="Детские",Детский мир
 http://212.95.49.209:8081/andr/dmir.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детские",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="gulli-girl",Gulli Girl
-http://iptv.mega.net.ru:8888/TVRU2/Gulli_Girl/index.m3u8
+https://livetv.mylifeisgood.ml/channels/gulli.m3u8
 #EXTINF:-1 group-title="Детские",Мультиландия
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimuzyka",Мульт и музыка
@@ -1408,164 +1406,62 @@ http://live.adultiptv.net/blonde.m3u8
 http://live.adultiptv.net/gay.m3u8
 #EXTINF:-1 group-title="XXX",Asian
 http://live.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="XXX",Playboy
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/645
-#EXTINF:-1 group-title="XXX",BangBros Vids 1
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/743
-#EXTINF:-1 group-title="XXX",BangBros Vids 2
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/744
-#EXTINF:-1 group-title="XXX",BangBros Vids 3
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/745
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 1
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/746
-#EXTINF:-1 group-title="XXX",BangBros Vids 4
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/747
-#EXTINF:-1 group-title="XXX",Holed Vids 1
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/748
-#EXTINF:-1 group-title="XXX",Holed Vids 2
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/749
-#EXTINF:-1 group-title="XXX",Holed Vids 3
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/750
-#EXTINF:-1 group-title="XXX",Holed Vids 4
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/752
-#EXTINF:-1 group-title="XXX",Holed Vids 5
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/753
-#EXTINF:-1 group-title="XXX",Holed Vids 6
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/754
-#EXTINF:-1 group-title="XXX",Holed Vids 7
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/755
-#EXTINF:-1 group-title="XXX",Holed Vids 8
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/756
-#EXTINF:-1 group-title="XXX",Holed Vids 9
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/757
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 2
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/758
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 3
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/759
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 4
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/760
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 5
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/761
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/762
-#EXTINF:-1 group-title="XXX",TED
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/763
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 6
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/764
-#EXTINF:-1 group-title="XXX",BangBros Vids 5
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/765
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 7
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/766
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/767
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 8
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/768
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 9
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/769
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 10
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/770
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 11
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/771
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/772
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/773
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/774
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/775
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/776
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/777
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/778
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/779
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/780
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/781
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/782
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/783
-#EXTINF:-1 group-title="XXX",Brazzers Vids 1
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/784
-#EXTINF:-1 group-title="XXX",Brazzers Vids 2
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/785
-#EXTINF:-1 group-title="XXX",Brazzers Vids 3
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/786
-#EXTINF:-1 group-title="XXX",Brazzers Vids 4
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/787
-#EXTINF:-1 group-title="XXX",Brazzers Vids 5
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/788
-#EXTINF:-1 group-title="XXX",Brazzers Vids 6
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/789
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 12
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/790
-#EXTINF:-1 group-title="XXX",Unnamed
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/791
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 13
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/792
-#EXTINF:-1 group-title="XXX",Brasileirinhas Vids 14
-http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/793
 #EXTINF:-1 group-title="XXX" tvg-id="russkaya-noch",Русская ночь
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/147/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/147/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="sholk",Шелк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="brazzers-tv-europe",Brazzers TV Europe
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/910/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/910/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="vivid-red",Vivid Red HD
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/2162/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/2162/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="vivid-touch",Vivid Touch
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6198/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/6198/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic1
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12146/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/12146/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic2
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12147/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/12147/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic3
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12148/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/12148/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic4
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12149/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/12149/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic5
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12150/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/12150/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic6
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12151/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/12151/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic7
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12152/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/12152/index.m3u8
 #EXTINF:-1 group-title="XXX",PinkErotic8
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12153/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/12153/index.m3u8
 #EXTINF:-1 group-title="XXX",Vixen
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6265/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/6265/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="redlight-hd",Redlight HD
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/9066/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/9066/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="private-tv",Private HD
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6245/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/6245/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="blue-hustler",Blue Hustler
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/1064/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/1064/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="playboy-tv",Playboy TV
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12135/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/12135/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="penthouse-gold",Penthouse Gold HD
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/5011/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/5011/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="penthouse-quickies",Penthouse Quickies HD
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/5013/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/5013/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="exxxotica",Exxxotica HD
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/2397/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/2397/index.m3u8
 #EXTINF:-1 group-title="XXX",Balkan Erotic
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6270/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/6270/index.m3u8
 #EXTINF:-1 group-title="XXX",Barely Legal
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/871/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/871/index.m3u8
 #EXTINF:-1 group-title="XXX",Naughty America
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6237/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/6237/index.m3u8
 #EXTINF:-1 group-title="XXX",Hot Pleasure
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6277/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/6277/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="hustler-hd",Hustler HD
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/9065/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/9065/index.m3u8
 #EXTINF:-1 group-title="XXX",Pure Babes
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12112/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/12112/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="erox",Erox
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6296/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/6296/index.m3u8
 #EXTINF:-1 group-title="XXX",Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="XXX",Erox

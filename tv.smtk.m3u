@@ -1,74 +1,5 @@
 #EXTM3U url-tvg="http://epgtut.tk/epg.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
 
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-action",BCU Action HD
-http://50.7.149.34:8001/play/bcu_action_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-catastrophe",BCU Catastrophe HD
-http://50.7.149.34:8001/play/bcu_catastrophe_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-cinema",BCU Cinema HD
-http://50.7.149.34:8001/play/bcu_cinema_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-cinemaplus",BCU Cinema+ HD
-http://50.7.149.34:8001/play/bcu_cinema_plus_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-comedy",BCU Comedy HD
-http://50.7.149.34:8001/play/bcu_comedy_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-cosmo",BCU Cosmo HD
-http://50.7.149.34:8001/play/bcu_cosmo_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-criminal",BCU Criminal HD
-http://50.7.149.34:8001/play/bcu_criminal_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-fantastic",BCU Fantastic HD
-http://50.7.149.34:8001/play/bcu_fantastic_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-filmystic",BCU FilMystic HD
-http://50.7.149.34:8001/play/bcu_filmystic_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-history",BCU History HD
-http://50.7.149.34:8001/play/bcu_history_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-kids",BCU Kids HD
-http://50.7.149.34:8001/play/bcu_kids_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-kids-plus",BCU Kids+ HD
-http://50.7.149.34:8001/play/bcu_kids_plus_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-kids-4k",BCU Kids 4K
-http://50.7.149.34:8001/play/bcu_kids_4k
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinorating",BCU Kinorating HD
-http://50.7.149.34:8001/play/bcu_kinorating_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-little",BCU Little HD
-http://50.7.149.34:8001/play/bcu_little_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-marvel",BCU Marvel HD
-http://50.7.149.34:8001/play/bcu_marvel_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-premiere",BCU Premiere HD
-http://50.7.149.34:8001/play/bcu_premiere_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-premiere-4k",BCU Premiere Ultra 4K
-http://50.7.149.34:8001/play/bcu_premiere_ultra_4K
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-reality",BCU Reality HD
-http://50.7.149.34:8001/play/bcu_reality_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-romantic",BCU Romantic HD
-http://50.7.149.34:8001/play/bcu_romantic_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-ruserial",BCU RUSerial HD
-http://50.7.149.34:8001/play/bcu_ruserial_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-russian",BCU Russian HD
-http://50.7.149.34:8001/play/bcu_russian_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-stars",BCU Stars HD
-http://50.7.149.34:8001/play/bcu_stars_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-survival",BCU Survival HD
-http://50.7.149.34:8001/play/bcu_survival_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-trumotion",BCU TruMotion HD
-http://50.7.149.34:8001/play/bcu_trumotion_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-ultra4k",BCU Ultra 4K
-http://50.7.149.34:8001/play/bcu_ultra_4k
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-vhs",BCU VHS HD
-http://50.7.149.34:8001/play/bcu_vhs_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinozal-prem-1",BCU Кинозал Premiere 1 HD
-http://50.7.149.34:8001/play/bcu_kinozal_premiere_1_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinozal-prem-2",BCU Кинозал Premiere 2 HD
-http://50.7.149.34:8001/play/bcu_kinozal_premiere_2_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinozal-prem-3",BCU Кинозал Premiere 3 HD
-http://50.7.149.34:8001/play/bcu_kinozal_premiere_3_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-multserial",BCU Мультсериал HD
-http://50.7.149.34:8001/play/bcu_multserial_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-sssr",BCU СССР HD
-http://50.7.149.34:8001/play/bcu_sssr_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-svaty",BCU Сваты HD
-http://50.7.149.34:8001/play/bcu_svaty_hd
-#EXTINF:-1 group-title="BCU" tvg-id="bcu-media",BCU Media HD
-http://50.7.149.34:8001/play/bcu_media_hd
-
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
@@ -76,7 +7,7 @@ https://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
-http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
+http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",VIP Premiere
@@ -104,17 +35,17 @@ http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
 http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://89.104.114.18:8080/kinosemya/index.m3u8
+http://109.200.135.130:8080/kinosemya/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
-http://89.104.114.18:8080/kinomix/index.m3u8
+http://109.197.192.121:8080/kinoplus/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
 http://109.200.135.130:8080/muzhskoe-kino_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
-http://89.104.114.18:8080/kinosvidanie/index.m3u8
+http://109.197.192.121:8080/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
 http://cdn.ottiptv.fun:8880/bal_c3l8u2d4f9l1a3r7e3/nashenovoekino/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
-http://31.134.132.249:8080/nashe-kino/index.m3u8
+http://89.223.46.189:8080/nashe-kino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
 https://livetv.mylifeisgood.ml/channels/kinokomedia.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
@@ -146,9 +77,9 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
 https://stream01.fishka.ws:443/illuzion_plus/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="fox",Fox HD
-http://live2.tvg.ge:8082/tv/FOX_HD/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="foxlife",Fox Life HD
-http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/FOXLIFE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="foxlife",Fox Life
+http://193.111.244.35:8001/foxlife/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-channel",Paramount Channel
 https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Paramount Comedy
@@ -160,7 +91,7 @@ http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
-http://91.207.180.142:80/cinema/index.m3u8
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино" tvg-id="nst",НСТ
 https://stream01.fishka.ws:443/nst/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="super",Суббота
@@ -182,7 +113,7 @@ http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
 http://79.141.211.254:8000/LubimoeKino
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
-http://109.200.135.130:8080/mosfilm/index.m3u8?token=test
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино" tvg-id="domkino",Дом кино
 https://stream01.fishka.ws:443/dom_kino/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом кино Премиум HD
@@ -222,13 +153,25 @@ https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tvxxi",TV XXI
 http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv",Zee-TV
-http://31.134.132.249:8080/zee-tv/index.m3u8
+http://89.223.46.189:8080/zee-tv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia",Комедия
 http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="Кино" tvg-id="russky-bestseller",Русский бестселлер
+http://138.201.67.145:8081/russkiybestseller/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="russky-detektiv",Русский детектив
+http://185.23.80.28:8080/RusskijDetektiv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-cinema",Star Cinema
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-family",Star Family
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="bolt",Bolt
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="hollywood-hd",Hollywood HD
+http://50.7.222.58:80/Hollywood_HD/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="mir-seriala",Мир сериала
+http://91.220.135.165:81/72/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="pobeda",Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
 https://livetv.mylifeisgood.ml/channels/discovery.m3u8
@@ -293,7 +236,7 @@ http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="drive",Драйв
 http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные" tvg-id="texno-24",Техно 24
-http://31.134.132.249:8080/t24/index.m3u8
+http://185.23.80.28:8080/T24/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda",Живая природа
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="bobior",Бобер
@@ -307,7 +250,7 @@ http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные" tvg-id="tonus-tv",Тонус ТВ
 http://185.23.80.28:8080/Zdorove/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teatr",Театр
-http://31.134.132.249/strk_hd/index.m3u8
+http://flu.ttk.mx:9090/Teatr/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные" tvg-id="vremia",Время
 http://31.148.48.15:80/Vremya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id=,WORLD HD
@@ -349,7 +292,7 @@ http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
 http://31.148.48.15:80/Istoriya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy",Моя стихия
-http://91.207.180.142:80/Morskoy/index.m3u8
+http://79.141.211.254:8000/Morskoy
 #EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="sarafan",Сарафан
@@ -366,11 +309,11 @@ http://109.197.192.121:8080/kuhnia/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Женские" tvg-id="food-network",Food Network
-http://live2.tvg.ge:8082/tv/foodnetwork_SD/playlist.m3u8
+http://193.111.244.35:8001/food/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
 http://185.23.80.28:8080/Eda/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
-http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/EDAPREMIUM/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zdorovoe-tv",Здоровое ТВ
 http://109.197.192.121:8080/zdorovoe/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="psixologia-21",Психология 21
@@ -460,15 +403,11 @@ http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Дождь
 http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Новости",Euronews
-http://cdn.ottiptv.fun:8880/bal_c3l8u2d4f9l1a3r7e3/euronews/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://193.111.244.35:8001/euronews/index.m3u8
 #EXTINF:-1 group-title="Новости",Bloomberg TV Europe
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Новости",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/03.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 group-title="Новости",Meteonews
-https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 group-title="Новости",Униан ТВ
 http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Новости",Freeдом
@@ -518,33 +457,33 @@ https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Арена HD
-http://31.148.48.15:80/Match_Arena_HD/index.m3u8?token=test
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Планета
 https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Игра
-http://31.148.48.15:80/Match_Igra/index.m3u8?token=test
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна HD
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Боец
-http://flu.ttk.mx:9090/Boets/index.m3u8?token=orh6o
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",КХЛ HD
-http://31.210.208.167:80/khl/index.m3u8?token=test
+http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/d2360201b7ecc3975c3982437a50c0c5.png" tvg-id="kxl-hd",KHL Prime
-http://31.148.48.15:80/KHL_TV_HD/index.m3u8?token=test
+https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
 #EXTINF:-1 group-title="Спорт",Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Спорт",Старт HD
+#EXTINF:-1 group-title="Спорт" tvg-id="start",Старт
 https://livetv.mylifeisgood.ml/channels/startlive.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="start-triumf",Старт Триумф
+https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
 #EXTINF:-1 group-title="Спорт",Футбол HD
 http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Спорт",Футбольный HD

@@ -363,8 +363,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="piatnica",Пятница! HD
 https://bl.uma.media/live/410336/HLS/6307840_7/1646116465/edbb91a8adf1c5e2c3f65d361ee7722f/playlist.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда HD
+#EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="zvezda-plus",Звезда Плюс
+http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tv3-ru",ТВ3 HD
 https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rossia-24",Россия 24

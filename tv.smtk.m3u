@@ -257,6 +257,7 @@ http://95.217.196.109:8081/russia/history/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2 HD
 http://46.8.210.62:80/H2/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 http://193.111.244.35:8001/natgeowild/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
 http://31.210.208.167:80/nat_geo/index.m3u8?token=test

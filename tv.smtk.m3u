@@ -477,7 +477,7 @@ http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Дождь
 http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Новости",Euronews
-http://193.111.244.35:8001/euronews/index.m3u8
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Новости",Bloomberg TV Europe
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский

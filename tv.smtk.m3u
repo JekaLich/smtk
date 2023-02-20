@@ -1302,6 +1302,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
 #EXTINF:-1 group-title="Архив" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="rossia-24",Россия 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1 group-title="Архив" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="mir",Мир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
 
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus1",Беларусь 1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_w1055522310_b5160000_sleng.m3u8

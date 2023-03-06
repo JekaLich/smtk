@@ -25,9 +25,9 @@ https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
-https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
+http://109.200.135.130:8001/kino_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
-http://50.7.222.58:80/Bollywood_HD/index.m3u8
+http://176.222.190.76/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 http://31.210.208.167:80/dorama/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
@@ -39,40 +39,40 @@ http://109.197.192.121:8080/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 http://109.197.192.121:8080/kinoplus/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
-https://edge02.smart.az/o2/muzskoekino/playlist.m3u8
+http://217.107.34.114:8002/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
 http://109.197.192.121:8080/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
-http://cdn.ottiptv.fun:8880/bal_c3l8u2d4f9l1a3r7e3/nashenovoekino/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+http://185.32.44.154/nashenovoekino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
-http://89.223.46.189:8080/nashe-kino/index.m3u8
+http://109.200.135.130:8001/nashe-kino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
-https://livetv.mylifeisgood.ml/channels/kinokomedia.m3u8
+http://109.200.135.130:8001/kinokomediya_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
 http://78.25.155.47:1309/channel/India.ts
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
 http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="blokbaster",Блокбастер
+#EXTINF:-1 group-title="Кино" tvg-id="blokbaster" tvg-shift="-3",Блокбастер
 http://185.23.80.28:8080/Blockbaster/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kamedi",Камеди
+#EXTINF:-1 group-title="Кино" tvg-id="kamedi" tvg-shift="-3",Камеди
 http://185.23.80.28:8080/Camedi/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz",Кинопоказ
+#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz" tvg-shift="-3",Кинопоказ
 http://185.23.80.28:8080/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="nash-kinopokaz",Наш Кинопоказ
+#EXTINF:-1 group-title="Кино" tvg-id="nash-kinopokaz" tvg-shift="-3",Наш Кинопоказ
 http://185.23.80.28:8080/NashKinopokaz/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="nashe-muzhskoe",Наше Мужское
+#EXTINF:-1 group-title="Кино" tvg-id="nashe-muzhskoe" tvg-shift="-3",Наше Мужское
 http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="premialnoe",Премиальное
+#EXTINF:-1 group-title="Кино" tvg-id="premialnoe" tvg-shift="-3",Премиальное
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="pro-lyubov",Про Любовь
+#EXTINF:-1 group-title="Кино" tvg-id="pro-lyubov" tvg-shift="-3",Про Любовь
 http://185.23.80.28:8080/ProLyubov/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="khit",Хит
+#EXTINF:-1 group-title="Кино" tvg-id="khit" tvg-shift="-3",Хит
 http://185.23.80.28:8080/Xit/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dushevnoe",Душевное
 http://95.217.196.109:8081/russia/dushevnoe/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe",Остросюжетное
+#EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe" tvg-shift="-3",Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
 http://138.201.67.145:8081/Illusion_plus/index.m3u8
@@ -82,8 +82,8 @@ http://176.222.190.76/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
 http://176.222.190.76/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-channel",Paramount Channel
 https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Paramount Comedy
-https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Comedy Central
+http://176.222.190.76/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",.black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-tv",.red
@@ -141,13 +141,13 @@ https://livetv.mylifeisgood.ml/channels/fox.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sapfir",Сапфир
 https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tvxxi",TV XXI
-http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Кино" tvg-id="zee-tv",Zee-TV
-http://89.223.46.189:8080/zee-tv/index.m3u8
+http://185.32.44.154/tv21/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="zee-tv",Индия
+http://109.200.130.123:7526/play/a00v
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia",Комедия
-http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
+http://79.141.211.254:8000/Komedia
 #EXTINF:-1 group-title="Кино" tvg-id="russky-bestseller",Русский бестселлер
-http://138.201.67.145:8081/russkiybestseller/index.m3u8
+http://109.200.135.130:8001/rus-bestseller/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russky-detektiv",Русский детектив
 http://185.23.80.28:8080/RusskijDetektiv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-cinema",Star Cinema
@@ -157,9 +157,9 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bolt",Bolt
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood-hd",Hollywood HD
-http://50.7.222.58:80/Hollywood_HD/index.m3u8
+http://185.32.44.154/hollywood/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mir-seriala",Мир сериала
-http://91.220.135.165:81/72/index.m3u8
+http://176.222.190.76/btv/SWM/mir_seriala/mir_seriala_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda",Победа
 http://185.23.80.28:8080/Pobeda/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="arsenaltv",Арсенал

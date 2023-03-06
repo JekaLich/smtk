@@ -156,8 +156,10 @@ https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bolt",Bolt
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="hollywood",Hollywood HD
+#EXTINF:-1 group-title="Кино" tvg-id="hollywood",Hollywood
 http://185.32.44.154/hollywood/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="hollywood-hd",Hollywood HD
+http://80.251.49.103:8003/play/82
 #EXTINF:-1 group-title="Кино" tvg-id="mir-seriala",Мир сериала
 http://176.222.190.76/btv/SWM/mir_seriala/mir_seriala_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda",Победа

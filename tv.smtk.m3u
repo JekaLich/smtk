@@ -161,7 +161,7 @@ http://50.7.222.58:80/Hollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mir-seriala",Мир сериала
 http://91.220.135.165:81/72/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda",Победа
-http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+http://185.23.80.28:8080/Pobeda/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="arsenaltv",Арсенал
 http://45.143.108.104:80/arsenal/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tayna",Тайна
@@ -284,7 +284,7 @@ https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv",Ocean TV
 http://146.158.0.56:80/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
-http://91.220.135.165:81/46/index.m3u8
+http://176.222.190.76/btv/SWM/Dom_Jivotnye_SWM/Dom_Jivotnye_SWM_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
 http://31.148.48.15:80/Istoriya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy",Моя стихия
@@ -309,11 +309,11 @@ http://193.111.244.35:8001/food/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
 http://185.23.80.28:8080/Eda/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
-https://sc.id-tv.kz/EdaHD_34_35.m3u8
+http://176.222.190.76/btv/SWM/eda_premium_hd/eda_premium_hd_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zdorovoe-tv",Здоровое ТВ
 http://109.197.192.121:8080/zdorovoe/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="psixologia-21",Психология 21
-http://91.220.135.165:81/31/index.m3u8
+http://176.222.190.76/btv/SWM/Psychology21_SWM/Psychology21_SWM_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zhivi",Живи
 http://185.32.44.154/jivi/index.m3u8
 

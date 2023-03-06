@@ -77,9 +77,9 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
 http://138.201.67.145:8081/Illusion_plus/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fox",Fox HD
-https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+http://176.222.190.76/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="foxlife",Fox Life
-http://193.111.244.35:8001/foxlife/index.m3u8
+http://176.222.190.76/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-channel",Paramount Channel
 https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Paramount Comedy
@@ -122,16 +122,6 @@ http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
 http://185.23.80.28:8080/RusskijRoman/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion",Русский иллюзион
 http://185.23.80.28:8080/RusIlluzion/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/0335249fc600cbbeae7e446a1f96a1ff.png",Kino.Watch Свежаки
-https://edge-01.kino.watch/fresh/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/a2440b87618da2fea4a2003f1f92e204.png",Kino.Watch Уже видел
-https://edge-01.kino.watch/hit/index.m3u8
-#EXTINF:-1 group-title="Кино",Kino.Watch Комедия
-https://edge-01.kino.watch/comedy/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/4dc2fb6dbd552246e33e3618fc580642.jpg",Kino.Watch Ужастик
-https://edge-01.kino.watch/horror/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/e56340fe96b85aa2d1962ac326e03934.png",Kino.Watch Доку
-https://edge-01.kino.watch/docu/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/01/c76878f07cc565dc157c7b789473a880.png",LAVA HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
 #EXTINF:-1 group-title="Кино" tvg-id="backustv",BackusTV Original
@@ -178,7 +168,7 @@ http://45.143.108.104:80/arsenal/index.m3u8
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
-https://livetv.mylifeisgood.ml/channels/discovery.m3u8
+http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-science",Discovery Science HD
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-eu",Investigation Discovery HD
@@ -190,8 +180,7 @@ https://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2 HD
 http://46.8.210.62:80/H2/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-http://193.111.244.35:8001/natgeowild/index.m3u8
+http://176.222.190.76/btv/SWM/NatGeo_Wild/NatGeo_Wild_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
 http://31.210.208.167:80/nat_geo/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viasat Explore HD
@@ -274,8 +263,10 @@ http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8?token=test
 http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet HD
-https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet
+http://176.222.190.76/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="big-planet",Big Planet
+http://176.222.190.76/btv/SWM/big_planet_hd/big_planet_hd_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="hd-life",HD Life
 https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivi-aktivno",Живи Активно HD
@@ -351,7 +342,7 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="sts",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="sts-int",СТС International
-https://sc.id-tv.kz/STS_34_35.m3u8
+http://176.222.190.76/btv/icon/CTC_International/CTC_International_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="sts-love",СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ HD
@@ -359,13 +350,13 @@ https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tnt-int-cis",ТНТ-International
-https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
+http://176.222.190.76/btv/SWM/TNT_HD_RUS/TNT_HD_RUS_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3/1647494495/6f25a13cb69de84821901352d0815304/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4-international",ТНТ4 International
-https://sc.id-tv.kz:443/tnt4_34_35.m3u8
+http://176.222.190.76/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="piatnica",Пятница! HD
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда
@@ -464,7 +455,7 @@ https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
 https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
-http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+https://federaltv-migra.cdnvideo.ru/marena/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
 https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-igra",Матч! Игра

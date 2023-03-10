@@ -328,7 +328,7 @@ https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="kultura",Россия К
 https://livetv.mylifeisgood.ml/channels/russiak.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ HD
-https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tvcentr",ТВ Центр

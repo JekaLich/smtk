@@ -413,26 +413,26 @@ http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 
 #EXTINF:-1 group-title="Детские" tvg-id="solnce",Солнце
 https://livetv.mylifeisgood.ml/channels/disney.m3u8
-#EXTINF:-1 group-title="Детские",Nickelodeon HD
-https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-ru",Nickelodeon
+http://176.222.190.76/btv/SWM/Nikelodeon_RU/Nikelodeon_RU_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons
 http://89.254.128.5:22280/nicktoons/video.m3u8
 #EXTINF:-1 group-title="Детские",Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
 #EXTINF:-1 group-title="Детские",Рыжий
-https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
+http://176.222.190.76/btv/SWM/Ryzhyi/Ryzhyi_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик ТВ
 https://livetv.mylifeisgood.ml/channels/smile.m3u8
 #EXTINF:-1 group-title="Детские",Tiji
-https://livetv.mylifeisgood.ml/channels/tiji.m3u8
+http://178.160.249.210:8000/play/a2tz/index.m3u8
 #EXTINF:-1 group-title="Детские",Мульт HD
-https://livetv.mylifeisgood.ml/channels/mult.m3u8
+http://178.160.249.210:8000/play/a3cu/index.m3u8
 #EXTINF:-1 group-title="Детские",Ani
-http://31.210.208.167:80/ani/index.m3u8?token=test
+http://178.160.249.210:8000/play/a2tx/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://89.254.128.5:22280/cartoon_network/video.m3u8
 #EXTINF:-1 group-title="Детские",Детский мир
-http://185.32.44.154/detskiymir/index.m3u8
+http://176.222.190.76/btv/SWM/DetskyMir/DetskyMir_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Детские",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="gulli-girl",Gulli Girl
@@ -443,9 +443,9 @@ https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 http://185.23.80.28:8080/Multimuzyka/index.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
-https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
+http://176.222.190.76/btv/SWM/Eurosport/Eurosport_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
-https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
+http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
 http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
@@ -457,7 +457,7 @@ https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
 https://federaltv-migra.cdnvideo.ru/marena/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
-https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
+http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-igra",Матч! Игра
 http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-nash-sport",Матч! Страна
@@ -474,7 +474,7 @@ http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd",KHL Prime
 http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viasat Sport
+#EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -495,11 +495,11 @@ https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim",Русский экстрим
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="q-sport-int",Q Sport International
-https://livetv.mylifeisgood.ml/channels/kazsport.m3u8
+http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="motorsportv-tv",Моторспорт ТВ
-http://31.210.208.167:80/motorsport/index.m3u8?token=test
+http://178.160.249.210:8000/play/a3d4/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports
-http://50.7.222.58:80/Extreme_Sports/index.m3u8
+http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox
 http://176.74.80.162:8099/FightBox/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global",M-1 Global

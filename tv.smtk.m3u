@@ -8,19 +8,19 @@ https://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
 http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
-#EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",VIP Megahit
+#EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",VIP Premiere
+#EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",Viju+ Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="vip-comedy",VIP Comedy
+#EXTINF:-1 group-title="Кино" tvg-id="vip-comedy",Viju+ Comedy
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="vip-serial",VIP Serial
+#EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000",TV1000
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000",Viju TV1000
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",TV1000 Action
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",Viju TV1000 Action
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino",Viju TV1000 Русское
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
@@ -88,6 +88,8 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="plan-b",Plan B
+http://176.222.190.76/btv/SWM/plan_b/plan_b_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
 http://176.74.80.162:8099/Cinema/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nst",НСТ
@@ -291,6 +293,10 @@ http://178.160.249.210:8000/play/a2va/index.m3u8
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="sarafan",Сарафан
 http://31.148.48.15:80/Sarafan/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные" tvg-id="anekdottv",Анекдот ТВ
+http://176.222.190.76/btv/SWM/anekdot_tv/anekdot_tv_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="perec-int",Перец
+http://176.222.190.76/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
 
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
 http://flu.ttk.mx:9090/Mama/index.m3u8?token=orh6o
@@ -415,6 +421,8 @@ http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 https://livetv.mylifeisgood.ml/channels/disney.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-ru",Nickelodeon
 http://176.222.190.76/btv/SWM/Nikelodeon_RU/Nikelodeon_RU_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="nick-jr",Nick Jr
+http://176.222.190.76/btv/icon/Nick_Jr/Nick_Jr_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons
 http://89.254.128.5:22280/nicktoons/video.m3u8
 #EXTINF:-1 group-title="Детские",Карусель
@@ -424,7 +432,7 @@ http://176.222.190.76/btv/SWM/Ryzhyi/Ryzhyi_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик ТВ
 https://livetv.mylifeisgood.ml/channels/smile.m3u8
 #EXTINF:-1 group-title="Детские",Tiji
-http://178.160.249.210:8000/play/a2tz/index.m3u8
+http://176.222.190.76/btv/SWM/TiJi_Alt_SWM/TiJi_Alt_SWM_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Детские",Мульт HD
 http://178.160.249.210:8000/play/a3cu/index.m3u8
 #EXTINF:-1 group-title="Детские",Ani
@@ -441,6 +449,12 @@ https://livetv.mylifeisgood.ml/channels/gulli.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimuzyka",Мульт и музыка
 http://185.23.80.28:8080/Multimuzyka/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="boomerang",Cartoonito
+http://176.222.190.76/btv/SWM/Boomerang/Boomerang_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ginger-hd",Капитан Фантастика
+http://176.222.190.76/btv/SWM/Fantastica_HD/Fantastica_HD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="detsky",Уникум
+http://176.222.190.76/btv/SWM/Detsky_SWM/Detsky_SWM_576p_2000kbps.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
 http://176.222.190.76/btv/SWM/Eurosport/Eurosport_1080p_5000kbps.m3u8

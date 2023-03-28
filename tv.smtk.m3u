@@ -428,29 +428,29 @@ https://livetv.mylifeisgood.ml/channels/disney.m3u8
 http://176.222.190.76/btv/SWM/Nikelodeon_RU/Nikelodeon_RU_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="nick-jr",Nick Jr
 http://176.222.190.76/btv/icon/Nick_Jr/Nick_Jr_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Детские",Nicktoons
+#EXTINF:-1 group-title="Детские" tvg-id="nicktoons",Nicktoons
 http://89.254.128.5:22280/nicktoons/video.m3u8
-#EXTINF:-1 group-title="Детские",Карусель
+#EXTINF:-1 group-title="Детские" tvg-id="Карусель",Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
-#EXTINF:-1 group-title="Детские",Рыжий
+#EXTINF:-1 group-title="Детские" tvg-id="ryzhy",Рыжий
 http://176.222.190.76/btv/SWM/Ryzhyi/Ryzhyi_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Детские",Смайлик ТВ
+#EXTINF:-1 group-title="Детские" tvg-id="smaylik-tv",Смайлик ТВ
 https://livetv.mylifeisgood.ml/channels/smile.m3u8
-#EXTINF:-1 group-title="Детские",Tiji
+#EXTINF:-1 group-title="Детские" tvg-id="tiji",Tiji
 http://176.222.190.76/btv/SWM/TiJi_Alt_SWM/TiJi_Alt_SWM_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Детские",Мульт HD
+#EXTINF:-1 group-title="Детские" tvg-id="mult",Мульт
 http://178.160.249.210:8000/play/a3cu/index.m3u8
-#EXTINF:-1 group-title="Детские",Ani
+#EXTINF:-1 group-title="Детские" tvg-id="ani",Ani
 http://178.160.249.210:8000/play/a2tx/index.m3u8
-#EXTINF:-1 group-title="Детские",Cartoon Network
+#EXTINF:-1 group-title="Детские" tvg-id="cartoon-network",Cartoon Network
 http://89.254.128.5:22280/cartoon_network/video.m3u8
-#EXTINF:-1 group-title="Детские",Детский мир
+#EXTINF:-1 group-title="Детские" tvg-id="detsky-mir",Детский мир
 http://176.222.190.76/btv/SWM/DetskyMir/DetskyMir_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Детские",СТС Kids HD
+#EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="gulli-girl",Gulli Girl
 https://livetv.mylifeisgood.ml/channels/gulli.m3u8
-#EXTINF:-1 group-title="Детские",Мультиландия
+#EXTINF:-1 group-title="Детские" tvg-id="multimania",Мультиландия
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimuzyka",Мульт и музыка
 http://185.23.80.28:8080/Multimuzyka/index.m3u8

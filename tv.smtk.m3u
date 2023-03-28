@@ -530,37 +530,43 @@ http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
 http://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 group-title="Музыка",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Музыка",Страна FM HD
+#EXTINF:-1 group-title="Музыка" tvg-id="radio-strana-fm-tv",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Музыка",MTV Live HD
-http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd",MTV Live HD
+http://176.222.190.76/btv/SWM/MTV_Russia/MTV_Russia_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="vh1-european",MTV 00s
+http://176.222.190.76/btv/SWM/mtv_00/mtv_00_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Музыка",MTV Biggest Pop HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 group-title="Музыка",MTV Block Party HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="Музыка",ТНТ Music HD
+#EXTINF:-1 group-title="Музыка",MTV Spanking New HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Yo
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="tnt-music",ТНТ Music HD
 https://livetv.mylifeisgood.ml/channels/tntmusicru.m3u8
-#EXTINF:-1 group-title="Музыка",Муз ТВ
+#EXTINF:-1 group-title="Музыка" tvg-id="muztv",Муз ТВ
 https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge TV
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv",Bridge TV
 https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge Classic
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-classic",Bridge Classic
 https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge TV Deluxe
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd",Bridge TV Deluxe
 https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge TV Hits
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-dance",Bridge TV Hits
 https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge TV Русский хит
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-ruxit",Bridge TV Русский хит
 https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge TV Фрэш
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-fresh",Bridge TV Фрэш
 https://livetv.mylifeisgood.ml/channels/bridgefreshya.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge Шлягер
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-shlager",Bridge Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 group-title="Музыка",Russian Music Box
+#EXTINF:-1 group-title="Музыка" tvg-id="russian-musicbox",Russian Music Box
 https://livetv.mylifeisgood.ml/channels/rusmusicbox.m3u8
 #EXTINF:-1 group-title="Музыка",Европа Плюс ТВ
 https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8

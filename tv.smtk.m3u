@@ -25,7 +25,7 @@ https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
-http://78.58.133.179:27941/play/a00r/index.m3u8
+http://188.190.222.52/Kino_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
 http://176.222.190.76/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
@@ -196,7 +196,7 @@ http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
 http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
-http://212.0.213.132:9000/Travel+Adventure/index.m3u8
+http://88.216.83.245/travel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="da-vinci",Da Vinci
 https://livetv.mylifeisgood.ml/channels/davinci.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd",Приключения HD
@@ -299,12 +299,12 @@ http://46.19.99.11:4000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="anekdottv",Анекдот ТВ
 http://176.222.190.76/btv/SWM/anekdot_tv/anekdot_tv_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
-http://212.0.213.132:9000/Anekdot_TV/index.m3u8
+http://146.158.0.56:80/KVN/index.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="perec-int",Перец
 http://176.222.190.76/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
 
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
-http://flu.ttk.mx:9090/Mama/index.m3u8?token=orh6o
+http://188.190.222.52/Mama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="tlc",TLC
 http://176.222.190.76/btv/SWM/tlc_hd/tlc_hd_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="ntv-style",НТВ Стиль
@@ -504,11 +504,11 @@ https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
 #EXTINF:-1 group-title="Спорт" tvg-id="football-ru",Футбол
 http://185.23.80.28:8080/Football/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sportivny",Спортивный
-http://31.210.208.167:80/sports/index.m3u8?token=test
+http://mhd.iptv2022.com/p/peY0GV2mUR57P0SMp1dqTA,1680167416/streaming/sportivniyhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="footbolny",Футбольный
-http://31.210.208.167:80/football/index.m3u8?token=test
+http://mhd.iptv2022.com/p/y7cANVPDPEHw_uBh00tODg,1680167424/streaming/footbolniyhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккейный
-http://31.210.208.167:80/hockey/index.m3u8?token=test
+http://mhd.iptv2022.com/p/8GY-8Bq8sOmCQwNJIfO49g,1680167454/streaming/hokkeyniy/324/1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="konny-mir",Конный мир
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim",Русский экстрим
@@ -579,7 +579,7 @@ https://sc.id-tv.kz:443/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1 group-title="Музыка",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
 #EXTINF:-1 group-title="Музыка",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="Музыка",Ocko Star
@@ -588,20 +588,12 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="Музыка",Ocko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",MUSIC PLUS
-http://79.172.214.45:10190/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Ecnulo
-http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8?version=2
 #EXTINF:-1 group-title="Музыка",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Zerouno TV
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",V2Beat HD
-https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Xite HD
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 group-title="Музыка",M6Music HD
-http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:-1 group-title="Музыка",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Clubbing TV

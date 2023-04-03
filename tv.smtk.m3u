@@ -297,9 +297,9 @@ http://31.148.48.15:80/Sarafan/index.m3u8?token=test
 #EXTINF:-1 group-title="Юмор" tvg-id="gags-network",Gags Network
 http://46.19.99.11:4000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="anekdottv",Анекдот ТВ
-http://176.222.190.76/btv/SWM/anekdot_tv/anekdot_tv_576p_2000kbps.m3u8
+http://176.222.190.76/btv/SWM/anekdot_tv/anekdot_tv.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
-http://146.158.0.56:80/KVN/index.m3u8
+http://hlstv.kem.211.ru/239.211.211.17/stream.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="perec-int",Перец
 http://176.222.190.76/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
 

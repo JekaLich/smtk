@@ -449,7 +449,7 @@ http://213.172.73.170:8081/nimble_live/1097__Detskiy_Mir/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="gulli-girl",Gulli Girl
-https://livetv.mylifeisgood.ml/channels/gulli.m3u8
+http://176.222.190.76/btv/SWM/Guilli/Guilli.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimania",Мультиландия
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimuzyka",Мульт и музыка

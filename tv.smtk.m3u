@@ -25,7 +25,7 @@ https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
-http://188.190.222.52/Kino_TV_HD/tracks-v1a1/mono.m3u8
+http://194.113.234.110:6056
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
 http://176.222.190.76/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
@@ -111,7 +111,7 @@ http://138.201.67.145:8081/retro/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
 http://176.222.190.76/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
-http://176.222.190.76/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+http://213.172.73.170:8081/nimble_live/1049__Lyubimoye_Kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
 http://109.197.192.121:8080/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino",Дом кино
@@ -208,7 +208,7 @@ http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ТВ Экстра
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя планета
-http://178.160.249.210:8000/play/a3cv/index.m3u8
+http://hlstv.kem.211.ru/239.211.200.19/stream.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxota-i-rybalka",Охота и рыбалка
 http://213.172.73.170:8081/nimble_live/1040__Oxota_i_Ribalka/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxotnik-i-rybolov",Охотник и рыболов
@@ -304,7 +304,7 @@ http://146.158.0.56:80/KVN/index.m3u8
 http://176.222.190.76/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
 
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
-http://188.190.222.52/Mama/tracks-v1a1/mono.m3u8
+http://hlstv.kem.211.ru/239.211.211.7/stream.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="tlc",TLC
 http://176.222.190.76/btv/SWM/tlc_hd/tlc_hd_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="ntv-style",НТВ Стиль
@@ -316,7 +316,7 @@ http://176.222.190.76/btv/icon/Telecafe/Telecafe_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="food-network",Food Network
 http://193.111.244.35:8001/food/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-http://212.0.213.132:9000/Joy_Cook/index.m3u8
+https://mhd116.iptv2022.com/p/IL8Yq0rTRjkA0bDEWNfI6g,1680548552/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
 http://185.23.80.28:8080/Eda/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",Еда Премиум
@@ -439,13 +439,13 @@ https://livetv.mylifeisgood.ml/channels/smile.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="tiji",Tiji
 http://176.222.190.76/btv/SWM/TiJi_Alt_SWM/TiJi_Alt_SWM_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="mult",Мульт
-http://178.160.249.210:8000/play/a3cu/index.m3u8
+http://176.222.190.76/btv/SWM/SWM_Mult/SWM_Mult.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ani",Ani
 http://178.160.249.210:8000/play/a2tx/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="cartoon-network",Cartoon Network
 http://89.254.128.5:22280/cartoon_network/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="detsky-mir",Детский мир
-http://176.222.190.76/btv/SWM/DetskyMir/DetskyMir_576p_2000kbps.m3u8
+http://213.172.73.170:8081/nimble_live/1097__Detskiy_Mir/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="gulli-girl",Gulli Girl
@@ -516,7 +516,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="q-sport-int",Q Sport International
 http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="motorsportv-tv",Моторспорт ТВ
-http://178.160.249.210:8000/play/a3d4/index.m3u8
+http://79.141.211.254:8000/Motosport
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports
 http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox

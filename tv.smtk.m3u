@@ -314,9 +314,9 @@ http://31.148.48.15:80/Kuhnya_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 http://176.222.190.76/btv/icon/Telecafe/Telecafe_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="food-network",Food Network
-http://193.111.244.35:8001/food/index.m3u8
+http://hlstv.kem.211.ru/239.211.200.14/stream.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd116.iptv2022.com/p/dMIORT3B2dxYeR1VBhooPw,1681153070/streaming/joycook/324/1/index.m3u8
+http://212.0.213.132:9091/Joy_Cook/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
 http://185.23.80.28:8080/Eda/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",Еда Премиум
@@ -474,7 +474,7 @@ https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
 https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
-http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
 http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-igra",Матч! Игра
@@ -516,7 +516,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="q-sport-int",Q Sport International
 http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="motorsportv-tv",Моторспорт ТВ
-http://79.141.211.254:8000/Motosport
+http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports
 http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox

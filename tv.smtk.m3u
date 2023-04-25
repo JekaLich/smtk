@@ -25,7 +25,7 @@ https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
-http://193.33.88.172/kino_tv_hd/tracks-v1a1/mono.m3u8
+https://s25617.cdn.ngenix.net/mdrm/CH_KINOTVHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
 http://176.222.190.76/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
@@ -33,15 +33,15 @@ http://176.222.190.76/btv/SWM/Dorama/Dorama_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
 http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
-http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8
+https://s25617.cdn.ngenix.net/mdrm/CH_KINOHITHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://109.197.192.121:8080/kinosemya/index.m3u8
+https://s25617.cdn.ngenix.net/mdrm/CH_KINOFAMILYHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 http://109.197.192.121:8080/kinoplus/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
 http://217.107.34.114:8002/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
-http://109.197.192.121:8080/kinosvidanie/index.m3u8
+https://s25617.cdn.ngenix.net/mdrm/CH_KINODATEHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
 http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
@@ -53,7 +53,7 @@ http://hlstv.kem.211.ru/239.211.211.154/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
 http://hlstv.kem.211.ru/239.211.200.44/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
-http://109.197.192.121:8080/kinouzhas/index.m3u8
+https://s25617.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster" tvg-shift="-3",Блокбастер
 http://193.33.88.172/blokbaster_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kamedi" tvg-shift="-3",Камеди
@@ -85,6 +85,7 @@ http://176.222.190.76/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",.black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-tv",.red
+https://s25617.cdn.ngenix.net/mdrm/CH_C02_SETHD/video_1920x1080_avc1/variant.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
@@ -113,11 +114,11 @@ http://176.222.190.76/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
 http://hlstv.kem.211.ru/239.211.211.187/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
-http://109.197.192.121:8080/mosfilm/index.m3u8
+https://s25617.cdn.ngenix.net/mdrm/CH_MOSFILMHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino",Дом кино
-http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
+https://s25617.cdn.ngenix.net/mdrm/CH_DOMKINO/video_720x540_avc1/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом кино Премиум HD
-http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
+https://s25617.cdn.ngenix.net/mdrm/CH_DOMKINOPREMIUMHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russky-roman",Русский роман
 http://193.33.88.172/russki_roman_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion",Русский иллюзион
@@ -129,7 +130,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="backustv-horror",BackusTV Dark
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fanhd",FAN
-http://94.230.240.17:8080/fan/index.m3u8
+https://s25617.cdn.ngenix.net/mdrm/CH_FANHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="trashtv",Trash
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="start-air",Start Air
@@ -143,7 +144,7 @@ https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tvxxi",TV XXI
 http://176.222.190.76/btv/SWM/tv21/tv21_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv",Индия
-http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8
+https://s25617.cdn.ngenix.net/mdrm/CH_ZEETVHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia",Комедия
 https://s25617.cdn.ngenix.net/mdrm/CH_KOMEDIA/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russky-bestseller",Русский бестселлер
@@ -168,6 +169,8 @@ http://193.33.88.172/pobeda_hd/tracks-v1a1/mono.m3u8
 http://45.143.108.104:80/arsenal/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tayna",Тайна
 http://hlstv.kem.211.ru/239.211.211.124/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="strashnoe-hd",Страшное HD
+https://s25617.cdn.ngenix.net/mdrm/CH_C01_STRASHNOEHD/video_1920x1080_avc1/variant.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
 http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
@@ -194,7 +197,9 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viju+ Planet
 http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
-http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
+https://s25617.cdn.ngenix.net/mdrm/CH_TRAVELANDADVENTUREHD/video_1920x1080_avc1/variant.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-xp-hd",TravelXP HD
+https://s25617.cdn.ngenix.net/mdrm/CH_TRAVELXPHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
 http://88.216.83.245/travel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="da-vinci",Da Vinci
@@ -236,7 +241,7 @@ https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="bobior",Бобер
 http://193.33.88.172/bober/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="poexali",Поехали!
-http://31.148.48.15:80/Poehali/index.m3u8?token=test
+https://s25617.cdn.ngenix.net/mdrm/CH_POEHALIHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="usadba",Усадьба
 http://94.230.240.17:8080/usadba/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zoopark",Zooпарк
@@ -291,6 +296,16 @@ http://31.148.48.15:80/Istoriya/index.m3u8?token=test
 http://93.125.34.51:30002/Morskoy/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные" tvg-id="bolshaya-azia",Большая Азия
+https://s25617.cdn.ngenix.net/mdrm/CH_BIGASIAHD/video_1920x1080_avc1/variant.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="museum-hd",Museum HD
+https://s25617.cdn.ngenix.net/mdrm/CH_MUSEUMHD/video_1920x1080_avc1/variant.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="rtd-ru",RT Д Русский
+https://s25617.cdn.ngenix.net/mdrm/CH_RTDHD/video_1920x1080_avc1/variant.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd",RTG HD
+https://s25617.cdn.ngenix.net/mdrm/CH_RTGHD/video_1920x1080_avc1/variant.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="nasa4k",NASA 4K
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
 #EXTINF:-1 group-title="Юмор" tvg-id="sarafan",Сарафан
 http://31.148.48.15:80/Sarafan/index.m3u8?token=test
@@ -517,8 +532,10 @@ https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="q-sport-int",Q Sport International
 http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola",Мир баскетбола
+https://s25617.cdn.ngenix.net/mdrm/CH_MIRBASKETBOLA/video_800x450_avc1/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="motorsportv-tv",Моторспорт ТВ
-http://146.158.0.56:80/Motosport/index.m3u8
+https://s25617.cdn.ngenix.net/mdrm/CH_MOTORSPORTTVHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports
 http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox
@@ -576,8 +593,14 @@ https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV
 https://okkotv-live.cdnvideo.ru/channel/RUTV_HD/1080p.m3u8
-#EXTINF:-1 group-title="Музыка",Mezzo Live HD
-https://sc.id-tv.kz:443/mezzo_life_hd_34_35.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="song-tv-ru",Song TV Russia
+https://s25617.cdn.ngenix.net/mdrm/CH_SONGTVRUSHD/video_1920x1080_avc1/variant.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="zhara",Жара
+https://s25617.cdn.ngenix.net/mdrm/CH_JARAHD/video_1920x1080_avc1/variant.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="mezzo",Mezzo
+https://s25617.cdn.ngenix.net/mdrm/CH_MEZZOHD/video_1920x1080_avc1/variant.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="mezzo-live-hd",Mezzo Live HD
+https://s25617.cdn.ngenix.net/mdrm/CH_C05_MEZZOLIVEHD/video_1920x1080_avc1/variant.m3u8
 #EXTINF:-1 group-title="Музыка",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Fashion TV Midnite Secrets

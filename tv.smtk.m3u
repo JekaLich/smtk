@@ -326,14 +326,12 @@ https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
 http://31.148.48.15:80/Kuhnya_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 http://176.222.190.76/btv/icon/Telecafe/Telecafe_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Женские" tvg-id="food-network",Food Network
-http://hlstv.kem.211.ru/239.211.200.14/stream.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd116.iptv2022.com/p/_inYrOnw-B9hlvXUN8VGpA,1683140226/streaming/joycook/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/iF57gV0Sb5xZpuf93o3VSQ,1683744867/streaming/joycook/324/1/index.m3u8
+#EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
+http://hlstv.kem.211.ru/239.211.200.14/stream.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
 http://185.23.80.26:8080/lb/Eda/index.m3u8
-#EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
-http://hez1-flu.iptvstream.site/37/tracks-v1a1/mono.m3u8?token=361702%2C%2C%2C7286203277
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd-int",Еда Премиум Международный
 http://176.222.190.76/btv/SWM/eda_premium_hd/eda_premium_hd_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zdorovoe-tv",Здоровое ТВ
@@ -518,12 +516,6 @@ https://livetv.mylifeisgood.ml/channels/startlive.m3u8
 https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
 #EXTINF:-1 group-title="Спорт" tvg-id="football-ru",Футбол
 http://185.23.80.26:8080/lb/Football/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="sportivny",Спортивный
-http://mhd.iptv2022.com/p/peY0GV2mUR57P0SMp1dqTA,1680167416/streaming/sportivniyhd/324/1/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="footbolny",Футбольный
-http://mhd.iptv2022.com/p/y7cANVPDPEHw_uBh00tODg,1680167424/streaming/footbolniyhd/324/1/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккейный
-http://mhd.iptv2022.com/p/8GY-8Bq8sOmCQwNJIfO49g,1680167454/streaming/hokkeyniy/324/1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="konny-mir",Конный мир
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim",Русский экстрим

@@ -35,13 +35,13 @@ http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
 http://5.153.190.251:8001/play/a0ai
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://31.184.193.25:30001/play/p166
+http://5.153.190.251:8001/play/a0ah
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 http://109.197.192.121:8080/kinoplus/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
-http://31.184.193.25:30001/play/p169
+http://hlstv.kem.211.ru/239.211.200.31/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
-http://31.184.193.25:30001/play/p165
+http://hlstv.kem.211.ru/239.211.211.141/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
 http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
@@ -71,7 +71,7 @@ http://185.23.80.26:8080/lb/ProLyubov/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="khit" tvg-shift="-3",Хит
 http://185.23.80.26:8080/lb/Xit/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dushevnoe",Душевное
-http://streamer1.ruslanatv.ru/russia/dushevnoe_2023/playlist.m3u8
+http://5.153.190.251:8001/play/a061
 #EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe" tvg-shift="-3",Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+

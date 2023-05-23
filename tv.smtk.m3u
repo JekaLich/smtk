@@ -1,5 +1,66 @@
 #EXTM3U url-tvg="http://epgtut.tk/epg_lite.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
 
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-action",BCU Action HD
+https://stream1.servers.chd-tv.tk/bcu-action/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-catastrophe",BCU Catastrophe HD
+https://stream1.servers.chd-tv.tk/bcu-catastrophe/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-charm",BCU Charm HD
+http://hez1-flu.iptvstream.site/351/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-cinema",BCU Cinema HD
+https://stream1.servers.chd-tv.tk/bcu-cinema/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-cinemaplus",BCU Cinema+ HD
+http://hez1-flu.iptvstream.site/335/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-comedy",BCU Comedy HD
+https://stream1.servers.chd-tv.tk/bcu-comedy/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-cosmo",BCU Cosmo HD
+http://hez1-flu.iptvstream.site/349/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-criminal",BCU Criminal HD
+http://hez1-flu.iptvstream.site/346/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-fantastic",BCU Fantastic HD
+https://stream1.servers.chd-tv.tk/bcu-fantastic/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-filmystic",BCU FilMystic HD
+https://stream1.servers.chd-tv.tk/bcu-filmystic/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-history",BCU History HD
+https://stream1.servers.chd-tv.tk/bcu-history/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kids",BCU Kids HD
+https://stream1.servers.chd-tv.tk/bcu-kids/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kids-plus",BCU Kids+ HD
+http://hez1-flu.iptvstream.site/310/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinorating",BCU Kinorating HD
+https://stream1.servers.chd-tv.tk/bcu-kinorating/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-marvel",BCU Marvel HD
+https://stream1.servers.chd-tv.tk/bcu-marvel/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-premiere",BCU Premiere HD
+https://stream1.servers.chd-tv.tk/bcu-premiere/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-reality",BCU Reality HD
+https://stream1.servers.chd-tv.tk/bcu-reality/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-romantic",BCU Romantic HD
+https://stream1.servers.chd-tv.tk/bcu-romantic/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-ruserial",BCU RUSerial HD
+https://stream1.servers.chd-tv.tk/bcu-ruserial/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-russian",BCU Russian HD
+https://stream1.servers.chd-tv.tk/bcu-russian/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-stars",BCU Stars HD
+https://stream1.servers.chd-tv.tk/bcu-stars/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-survival",BCU Survival HD
+http://hez1-flu.iptvstream.site/348/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-trumotion",BCU TruMotion HD
+http://hez1-flu.iptvstream.site/350/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-vhs",BCU VHS HD
+https://stream1.servers.chd-tv.tk/bcu-vhs/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinozal-prem-1",BCU Кинозал Premiere 1 HD
+https://stream1.servers.chd-tv.tk/bcu-kinozal-premiere-1/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinozal-prem-2",BCU Кинозал Premiere 2 HD
+https://stream1.servers.chd-tv.tk/bcu-kinozal-premiere-2/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinozal-prem-3",BCU Кинозал Premiere 3 HD
+https://stream1.servers.chd-tv.tk/bcu-kinozal-premiere-3/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-multserial",BCU Мультсериал HD
+https://stream1.servers.chd-tv.tk/bcu-multserial/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-sssr",BCU СССР HD
+https://stream1.servers.chd-tv.tk/bcu-sssr/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-svaty",BCU Сваты HD
+http://hez1-flu.iptvstream.site/345/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2

@@ -89,6 +89,14 @@ rtmp://5.182.231.251//2062
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinojam1",Kinojam 1
+http://hlstv.kem.211.ru/239.211.200.87/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinojam2",Kinojam 2
+http://hlstv.kem.211.ru/239.211.200.88/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="detectivejam",DetectiveJam
+http://hlstv.kem.211.ru/239.211.200.89/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="familyjam",FamilyJam
+http://hlstv.kem.211.ru/239.211.200.90/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b",Plan B
 http://hlstv.kem.211.ru/239.211.200.50/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
@@ -221,7 +229,7 @@ http://185.23.80.26:8080/lb/Dikaya_Ohota/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
 http://185.23.80.26:8080/lb/Dikaya_Rybalka/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
-http://176.107.250.4:8001/ch162
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy",Мужской
 http://edge05.beetv.kz:80/btv/SWM/Muzhskoy/Muzhskoy_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto24",Авто24
@@ -248,6 +256,8 @@ http://185.23.80.26:8080/lb/Zdorove/index.m3u8
 http://146.158.0.56:80/Teatr/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="vremia",Время
 http://31.148.48.15:80/Vremya/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные" tvg-id="nostalgia",Ностальгия
+http://hlstv.kem.211.ru/239.211.211.16/stream.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id=,WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
@@ -286,6 +296,8 @@ https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 http://146.158.0.56:80/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
 http://edge05.beetv.kz:80/btv/SWM/Dom_Jivotnye_SWM/Dom_Jivotnye_SWM_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
+http://hlstv.kem.211.ru/239.211.200.9/stream.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
 http://31.148.48.15:80/Istoriya/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy",Моя стихия
@@ -308,7 +320,7 @@ http://hlstv.kem.211.ru/239.211.200.62/stream.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="sarafan",Сарафан
 http://31.148.48.15:80/Sarafan/index.m3u8?token=test
 #EXTINF:-1 group-title="Юмор" tvg-id="gags-network",Gags Network
-http://5.153.190.251:8000/play/a08u
+http://178.160.249.210:8006/play/a02w/index.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="anekdottv",Анекдот ТВ
 http://edge05.beetv.kz:80/btv/SWM/anekdot_tv/anekdot_tv.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
@@ -386,7 +398,7 @@ https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda-plus",Звезда Плюс
-http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+http://178.160.249.210:8006/play/a02l/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tv3-ru",ТВ3 HD
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rossia-24",Россия 24
@@ -516,8 +528,6 @@ https://livetv.mylifeisgood.ml/channels/startlive.m3u8
 https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
 #EXTINF:-1 group-title="Спорт" tvg-id="football-ru",Футбол
 http://185.23.80.26:8080/lb/Football/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="sportivny",Спортивный
-http://5.153.190.251:8003/play/a079
 #EXTINF:-1 group-title="Спорт" tvg-id="konny-mir",Конный мир
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim",Русский экстрим
@@ -525,7 +535,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="q-sport-int",Q Sport International
 http://edge05.beetv.kz:80/btv/SWM/Qsport_international/Qsport_international_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola",Мир баскетбола
-http://5.153.190.251:8003/play/a03m
+http://hez1-flu.iptvstream.site/149/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
 #EXTINF:-1 group-title="Спорт" tvg-id="motorsportv-tv",Моторспорт ТВ
 http://185.23.80.26:8080/lb/Motorsport_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports

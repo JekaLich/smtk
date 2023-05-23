@@ -33,9 +33,9 @@ http://edge05.beetv.kz:80/btv/SWM/Dorama/Dorama_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
 http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
-http://5.153.190.251:8001/play/a0ai
+http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://5.153.190.251:8001/play/a0ah
+http://hlstv.kem.211.ru/239.211.211.140/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 http://109.197.192.121:8080/kinoplus/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
@@ -71,7 +71,7 @@ http://185.23.80.26:8080/lb/ProLyubov/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="khit" tvg-shift="-3",Хит
 http://185.23.80.26:8080/lb/Xit/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dushevnoe",Душевное
-http://5.153.190.251:8001/play/a061
+http://hez1-flu.iptvstream.site/84/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
 #EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe" tvg-shift="-3",Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
@@ -146,7 +146,7 @@ http://edge05.beetv.kz:80/btv/SWM/tv21/tv21_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv",Индия
 http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia",Комедия
-http://176.107.250.4:8003/ch108
+http://178.160.249.210:8006/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russky-bestseller",Русский бестселлер
 http://hlstv.kem.211.ru/239.211.211.137/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russky-detektiv",Русский детектив

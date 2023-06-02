@@ -487,9 +487,9 @@ http://edge05.beetv.kz:80/btv/SWM/Fantastica_HD/Fantastica_HD_1080p_5000kbps.m3u
 http://edge05.beetv.kz:80/btv/SWM/Detsky_SWM/Detsky_SWM_576p_2000kbps.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/77
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
-https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/78
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
 http://94.158.54.107/94/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD

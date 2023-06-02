@@ -487,13 +487,13 @@ http://edge05.beetv.kz:80/btv/SWM/Fantastica_HD/Fantastica_HD_1080p_5000kbps.m3u
 http://edge05.beetv.kz:80/btv/SWM/Detsky_SWM/Detsky_SWM_576p_2000kbps.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
-http://edge05.beetv.kz:80/btv/SWM/Eurosport/Eurosport_1080p_5000kbps.m3u8
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
-http://edge05.beetv.kz:80/btv/SWM/Eurosport2/Eurosport2_1080p_5000kbps.m3u8
+https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
-http://edge05.beetv.kz:80/btv/SWM/SetantaSport_HD/SetantaSport_HD_1080p_5000kbps.m3u8
+http://94.158.54.107/94/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
-http://edge05.beetv.kz:80/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD_1080p_5000kbps.m3u8
+http://94.158.54.107/95/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер

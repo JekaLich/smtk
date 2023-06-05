@@ -448,15 +448,15 @@ http://89.254.128.5:22280/nicktoons/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="Карусель",Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ryzhy",Рыжий
-http://edge05.beetv.kz:80/btv/SWM/Ryzhyi/Ryzhyi_576p_2000kbps.m3u8
+http://185.23.80.26:8080/lb/Ryzhij/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="smaylik-tv",Смайлик ТВ
 https://livetv.mylifeisgood.ml/channels/smile.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="tiji",Tiji
-http://edge05.beetv.kz:80/btv/SWM/TiJi_Alt_SWM/TiJi_Alt_SWM_576p_2000kbps.m3u8
+http://185.23.80.26:8080/lb/TiJi/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="mult",Мульт
-http://edge05.beetv.kz:80/btv/SWM/SWM_Mult/SWM_Mult.m3u8
+http://185.23.80.26:8080/lb/Mult/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ani",Ani
-http://hlstv.kem.211.ru/239.211.211.98/stream.m3u8
+http://185.23.80.26:8080/lb/Ani/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="cartoon-network",Cartoon Network
 http://89.254.128.5:22280/cartoon_network/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="detsky-mir",Детский мир
@@ -468,13 +468,13 @@ http://edge05.beetv.kz:80/btv/SWM/Guilli/Guilli.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimania",Мультиландия
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimuzyka",Мульт и музыка
-http://hlstv.kem.211.ru/239.211.211.12/stream.m3u8
+http://185.23.80.26:8080/lb/Multimuzyka/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="boomerang",Cartoonito
 http://edge05.beetv.kz:80/btv/SWM/Boomerang/Boomerang_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ginger-hd",Капитан Фантастика
 http://edge05.beetv.kz:80/btv/SWM/Fantastica_HD/Fantastica_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="detsky",Уникум
-http://edge05.beetv.kz:80/btv/SWM/Detsky_SWM/Detsky_SWM_576p_2000kbps.m3u8
+http://185.23.80.26:8080/lb/Unikum/index.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
 http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8
@@ -586,7 +586,7 @@ https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV
 https://okkotv-live.cdnvideo.ru/channel/RUTV_HD/1080p.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="zhara",Жара
-http://hlstv.kem.211.ru/239.211.211.113/stream.m3u8
+http://185.23.80.26:8080/lb/ZhARA/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="mezzo",Mezzo
 http://edge05.beetv.kz:80/btv/SWM/Mezzo_Alt_SWM/Mezzo_Alt_SWM.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="mezzo-live-hd",Mezzo Live HD

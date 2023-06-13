@@ -71,7 +71,7 @@ http://185.23.80.26:8080/lb/ProLyubov/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="khit" tvg-shift="-3",Хит
 http://185.23.80.26:8080/lb/Xit/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dushevnoe",Душевное
-http://hez1-flu.iptvstream.site/84/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
+http://hez1-flu.iptvstream.site/84/tracks-v1a1/mono.m3u8?token=610666%2C%2C%2C4924337693
 #EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe" tvg-shift="-3",Остросюжетное
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
@@ -90,7 +90,7 @@ http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b",Plan B
-http://77.240.45.106:8888/play/a01r
+http://192.162.64.99:5100/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
 http://176.74.80.162:8099/Cinema/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nst",НСТ
@@ -150,7 +150,7 @@ rtmp://178.159.112.198//komedija
 #EXTINF:-1 group-title="Кино" tvg-id="russky-bestseller",Русский бестселлер
 http://139.28.255.251:8000/play/a00b
 #EXTINF:-1 group-title="Кино" tvg-id="russky-detektiv",Русский детектив
-http://185.23.80.26:8080/lb/RusskijDetektiv/index.m3u8
+http://192.162.64.99:5100/play/a021/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-cinema",Star Cinema
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-family",Star Family
@@ -166,7 +166,7 @@ http://93.125.34.51:30002/Mir_seriala/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda",Победа
 rtmp://5.182.231.251//2003
 #EXTINF:-1 group-title="Кино" tvg-id="arsenaltv",Арсенал
-http://185.23.80.26:8080/lb/Arsenal_HD/index.m3u8
+https://livetv.mylifeisgood.ml/channels/1c5442c0461e5186126aaba26edd6857.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tayna",Тайна
 http://185.23.80.26:8080/lb/Tayna/index.m3u8
 
@@ -183,9 +183,9 @@ https://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2 HD
 http://88.216.83.245/history/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
-http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
-http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+https://sc.id-tv.kz:443/NatGeogHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viju Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viju History
@@ -195,7 +195,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viju+ Planet
 http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
-http://hez1-flu.iptvstream.site/194/tracks-v1a1/mono.m3u8?token=725240%2C%2C%2C3953470934
+http://hez1-flu.iptvstream.site/194/tracks-v1a1/mono.m3u8?token=610666%2C%2C%2C4924337693
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
 http://88.216.83.245/travel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="da-vinci",Da Vinci
@@ -205,7 +205,7 @@ https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="eureka-hd",Первый Космический HD
 https://livetv.mylifeisgood.ml/channels/firstspace.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="tochka-tv",Точка ТВ
-http://185.23.80.26:8080/lb/TochkaTV/index.m3u8
+rtmp://5.182.231.251//2053
 #EXTINF:-1 group-title="Познавательные",ТВ Экстра
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя планета

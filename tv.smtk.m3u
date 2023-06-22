@@ -364,7 +364,7 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="sts",СТС HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+https://livetv.mylifeisgood.ml/channels/sts.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="sts",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="sts-int",СТС International

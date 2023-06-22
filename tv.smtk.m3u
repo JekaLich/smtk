@@ -482,7 +482,7 @@ http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/78
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://est5.varcdn.top/setanta1/tracks-v1a1/mono.m3u8
+https://bal.varcdn.top/lb/setanta1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
 https://bal.varcdn.top/lb/setanta2/index.m3u8

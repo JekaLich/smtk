@@ -9,7 +9,7 @@ https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
 http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",Viju+ Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-comedy",Viju+ Comedy
@@ -17,9 +17,9 @@ https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000",Viju TV1000
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",Viju TV1000 Action
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino",Viju TV1000 Русское
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
@@ -33,25 +33,25 @@ rtmp://5.182.231.251//2131
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
 http://178.68.215.18:81/play/a08i
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
-http://93.125.34.51:30002/Kinohit/index.m3u8
+http://192.162.64.99:5100/play/a027/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
 http://93.125.34.51:30002/Kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
-http://93.125.34.51:30002/Kinomix/index.m3u8
+http://88.216.83.245/kinomix/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
 http://178.68.215.18:82/play/a05b
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
-http://93.125.34.51:30002/Kinosvidanie/index.m3u8
+http://192.162.64.99:5100/play/a029/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
 http://178.68.215.18:81/play/a01l
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
 http://178.68.215.18:81/play/a093
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
-http://93.125.34.51:30002/Kinokomedia/index.m3u8
+http://192.162.64.99:5200/play/a02o/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
 http://178.68.215.18:81/play/a01b
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
-http://93.125.34.51:30002/MnogoTV/index.m3u8
+http://192.162.64.99:5200/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
 rtmp://5.182.231.251//2056
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster" tvg-shift="-3",Блокбастер
@@ -110,7 +110,7 @@ http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро
 http://138.201.67.145:8081/retro/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
-http://93.125.34.51:30002/Evrokino/index.m3u8
+http://192.162.64.99:5100/play/a02s/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
@@ -360,7 +360,7 @@ https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал
 http://192.162.64.222:4000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ HD
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="sts",СТС HD
@@ -370,29 +370,29 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="sts-int",СТС International
 http://192.162.64.99:4000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="sts-love",СТС Love
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
+https://livetv.mylifeisgood.ml/channels/stslove.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ HD
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tnt-int-cis",ТНТ-International
 https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4 HD
-https://bl.uma.media/live/317849/HLS/4614144_3/1647494495/6f25a13cb69de84821901352d0815304/playlist.m3u8
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4-international",ТНТ4 International
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="piatnica",Пятница! HD
-https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda-plus",Звезда Плюс
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tv3-ru",ТВ3 HD
-https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rossia-24",Россия 24
-https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="izvestia",Известия
 https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rbk",РБК
@@ -406,7 +406,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="vmeste-rf",Вместе-РФ
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="domashny",Домашний HD
-http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+http://91.233.215.250:7272/CGGe9lr8Dx9PZy1
 #EXTINF:-1 group-title="Россия" tvg-id="8kanal-ru",8 канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="8kanal-eu",8 канал International
@@ -511,7 +511,7 @@ http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd",KHL Prime
 http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
+https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="start",Старт

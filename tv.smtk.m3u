@@ -28,29 +28,29 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
 rtmp://5.182.231.251//2097
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
-http://178.68.215.18:81/play/a05e
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 rtmp://5.182.231.251//2131
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
-http://178.68.215.18:81/play/a08i
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
 http://192.162.64.99:5100/play/a027/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
-http://88.216.83.245/kinomix/index.m3u8
+http://80.251.49.103:8002/play/136
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
-http://178.68.215.18:82/play/a05b
+http://192.162.64.99:5100/play/a028/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
 http://192.162.64.99:5100/play/a029/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
-http://178.68.215.18:81/play/a01l
+http://192.162.64.99:5100/play/a02z/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
-http://178.68.215.18:81/play/a093
+http://192.162.64.99:5100/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
 http://192.162.64.99:5200/play/a02o/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
-http://178.68.215.18:81/play/a01b
+http://192.162.64.99:5100/play/a02m/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
 http://192.162.64.99:5200/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас

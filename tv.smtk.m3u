@@ -28,7 +28,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
 rtmp://5.182.231.251//2097
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
-http://arbiter.bolshoe.tv/?path=abr1/BollywoodHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIzIDY6NTc6MTIgQU0maGFzaF92YWx1ZT1KdHB6WnNSL3RBRkhBSENCKytmOC9nPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://arbiter.bolshoe.tv/?path=abr1/BollywoodHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIzIDY6NTc6MjIgUE0maGFzaF92YWx1ZT1RUVJZQmphcU5QdTZQeWxxdGxQVzFnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 rtmp://5.182.231.251//2131
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
@@ -36,7 +36,7 @@ https://mhd116.iptv2022.com/p/tt5-SfzjLpPqwQTnyyWJaA,1687899611/streaming/film-p
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
 http://192.162.64.99:5100/play/a027/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZGJjOWNmZjUtYzE4OS00MjNmLTgxNmItMmUzMzU4ZWExNzc5IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTI3VDE4OjU4OjA1WiIsInN0cmVhbV9uYW1lIjoiNzIiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MCwCFB_U0qdVaKthKVixS1dP87KSWBljAhQtVNfLCuB1zHR7B6k862a2kjFYxw%3D%3D/ip_v5/72.m3u8
+https://mhd116.iptv2022.com/p/v7Usl0RjY-32r4MMTuJiqw,1687899611/streaming/film-families/324/1/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 http://80.251.49.103:8002/play/136
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
@@ -335,7 +335,7 @@ http://88.216.83.245/perec/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
 http://192.162.64.99:5200/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="tlc",TLC
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZGRlYTU5MDYtOTc0YS00Mzc0LWFlZTgtYzAyMjE4OWRlODg1IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTI3VDE4OjU4OjQzWiIsInN0cmVhbV9uYW1lIjoiNTExNyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFH2viFwa5eOFuWH5Bo6jXH0omS66AhQK5PFa8TKqwPuhyMYJkB6q0hRGOQ%3D%3D/ip_v5/5117.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZjNjZTFjNTAtMzBlOS00ZjlkLTkxZGYtYjUyZWQ4OTk2ODQwIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTI4VDE4OjU1OjQyWiIsInN0cmVhbV9uYW1lIjoiNTExNyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFAL_eYA9d1KlAjrcTI2y2kyabHznAhR_ypwj-US2zT-oJPfkfrHyJXJiZA%3D%3D/ip_v5/5117.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="ntv-style",НТВ Стиль
 https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="kuxnia-tv",Кухня ТВ
@@ -1469,7 +1469,7 @@ http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="tro",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="bobruysk360",Бобруйск 360
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiOTQyYzMxNWQtZGFjNi00ZjI0LTgyNWMtNmNiZGY1NjhjMGM0IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTI2VDE4OjU0OjIyWiIsInN0cmVhbV9uYW1lIjoiNjIzOSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MC0CFCVdLB0Uwbtl0grSQQC9KfLJIn8XAhUAhKXf4veVYKmAgsYcb8djm298Pxs%3D/ip_v5/6239.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiMjg3ZGE5YWMtNzQ0ZC00YWQxLWJkYzEtNmVmMmM4MTM4MjBhIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTI4VDE4OjU2OjA1WiIsInN0cmVhbV9uYW1lIjoiNjIzOSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFGehArwhO9RMbc4Dy0aYAEuKER18AhRSzttj75jbmMg4ib0R3iUzh5ANaQ%3D%3D/ip_v5/6239.m3u8
 
 #EXTINF:-1 group-title="XXX",Live Cams
 http://live.adultiptv.net/livecams.m3u8

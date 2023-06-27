@@ -28,15 +28,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
 rtmp://5.182.231.251//2097
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+http://arbiter.bolshoe.tv/?path=abr1/BollywoodHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIzIDY6NTc6MTIgQU0maGFzaF92YWx1ZT1KdHB6WnNSL3RBRkhBSENCKytmOC9nPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 rtmp://5.182.231.251//2131
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+https://mhd116.iptv2022.com/p/tt5-SfzjLpPqwQTnyyWJaA,1687899611/streaming/film-premiere/324/1/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
 http://192.162.64.99:5100/play/a027/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZGJjOWNmZjUtYzE4OS00MjNmLTgxNmItMmUzMzU4ZWExNzc5IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTI3VDE4OjU4OjA1WiIsInN0cmVhbV9uYW1lIjoiNzIiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MCwCFB_U0qdVaKthKVixS1dP87KSWBljAhQtVNfLCuB1zHR7B6k862a2kjFYxw%3D%3D/ip_v5/72.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 http://80.251.49.103:8002/play/136
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
@@ -138,7 +138,8 @@ https://hls.goodgame.ru/hls/202127.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fanhd",FAN
-http://94.230.240.17:8080/fan/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="trashtv",Trash
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="start-air",Start Air
@@ -215,7 +216,7 @@ rtmp://5.182.231.251//2155
 #EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd",Приключения HD
 http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="eureka-hd",Первый Космический HD
-https://livetv.mylifeisgood.ml/channels/firstspace.m3u8
+https://mhd116.iptv2022.com/p/zYxYF7fCHX45QgUvQl8I2A,1687899618/streaming/eurekahd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="tochka-tv",Точка ТВ
 rtmp://5.182.231.251//2053
 #EXTINF:-1 group-title="Познавательные",ТВ Экстра
@@ -267,8 +268,8 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные" tvg-id="nano-tv",Нано
-http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="nano-hd",Nano HD
+rtmp://5.182.231.251//2135
 #EXTINF:-1 group-title="Познавательные" tvg-id="365-dnej",365 дней ТВ
 rtmp://5.182.231.251//2040
 #EXTINF:-1 group-title="Познавательные" tvg-id="univer-tv",Univer TV
@@ -300,7 +301,7 @@ https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv",Ocean TV
 http://146.158.0.56:80/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
-http://192.162.64.99:5300/play/a027/index.m3u8
+https://mhd116.iptv2022.com/p/PZL0ciAnJrPnckFRONyrEQ,1687899617/streaming/homejivotnie/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
 rtmp://5.182.231.251//2089
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
@@ -334,7 +335,7 @@ http://88.216.83.245/perec/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
 http://192.162.64.99:5200/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="tlc",TLC
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZGRlYTU5MDYtOTc0YS00Mzc0LWFlZTgtYzAyMjE4OWRlODg1IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTI3VDE4OjU4OjQzWiIsInN0cmVhbV9uYW1lIjoiNTExNyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFH2viFwa5eOFuWH5Bo6jXH0omS66AhQK5PFa8TKqwPuhyMYJkB6q0hRGOQ%3D%3D/ip_v5/5117.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="ntv-style",НТВ Стиль
 https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="kuxnia-tv",Кухня ТВ
@@ -415,7 +416,7 @@ https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rbk",РБК
 https://e3-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="nastoyaschee-vremia",Настоящее время
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/RFE-TVMC05_1080/chunklist.m3u8
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="mir-24",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="mir",Мир
@@ -449,8 +450,6 @@ http://138.201.67.145:8081/rtvi/index.m3u8
 http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Новости",Euronews
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="Новости",Bloomberg TV Europe
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Новости",CGTN Русский
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 group-title="Новости",Униан ТВ

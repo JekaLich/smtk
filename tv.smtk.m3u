@@ -227,7 +227,7 @@ http://192.162.64.99:5000/play/a039/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy",Мужской
-https://mhd116.iptv2022.com/p/YXUwy-JJK5Euqu4O89xwEQ,1687813216/streaming/male/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/oJy4f7IPpA6sHXGh5RXzgA,1687899616/streaming/male/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto24",Авто24
 http://138.201.67.145:8081/Avto24/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto-plus",Авто Плюс
@@ -334,11 +334,11 @@ http://31.148.48.15:80/Kuhnya_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 http://88.216.83.245/telekafe/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd116.iptv2022.com/p/bYmFhTcilY6nXYXe1ScS7w,1687813216/streaming/joycook/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/2KuRSTIXhh48YuAaUU63SQ,1687899616/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
-https://mhd116.iptv2022.com/p/fl4_Q4RqLMQvicxcBdTxNQ,1687813217/streaming/edahd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/Jl8_frSBzP7q4ZsvC7jmsQ,1687899616/streaming/edahd/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
-https://mhd116.iptv2022.com/p/3vpFExxe0N_Q8gzSysRtqA,1687813216/streaming/eda/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/8pRacT4dhtUhy9saFoFW4A,1687899616/streaming/eda/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zdorovoe-tv",Здоровое ТВ
 http://109.197.192.121:8080/zdorovoe/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="psixologia-21",Психология 21

@@ -120,7 +120,7 @@ http://45.132.87.69:8080/nashelubimoe/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino",Дом кино
-http://46.151.151.245:10007/play/a00b
+http://92.100.39.32:2289/play/DomKino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Кино" tvg-id="russky-roman",Русский роман
@@ -250,7 +250,7 @@ rtmp://5.182.231.251//2023
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda",Живая природа
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="bobior",Бобер
-http://46.151.151.245:10007/play/a008
+http://92.100.39.32:2289/play/Bober/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="poexali",Поехали!
 http://46.151.151.245:10007/play/a004
 #EXTINF:-1 group-title="Познавательные" tvg-id="usadba",Усадьба

@@ -28,7 +28,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
 rtmp://5.182.231.251//2097
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
-http://arbiter.bolshoe.tv/?path=abr1/BollywoodHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIzIDY6NTQ6MDggUE0maGFzaF92YWx1ZT1xWXNsZjl0QlpVbE13dFNNbzRTb0x3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://arbiter.bolshoe.tv/?path=abr1/BollywoodHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIzIDY6NTU6NTYgQU0maGFzaF92YWx1ZT1hSVBaNEgyQWQ4MGQxOGsyaGVkb1FBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 rtmp://5.182.231.251//2131
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера

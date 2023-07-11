@@ -244,7 +244,7 @@ rtmp://5.182.231.251//2019
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxotnik-i-rybolov",Охотник и рыболов
 http://185.23.80.26:8080/lb/OxotnikIRybolov_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikiy",Дикий
-http://80.251.49.103:8003/play/38
+http://91.220.135.165:81/36/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-oxota-hd",Дикая охота HD
 rtmp://5.182.231.251//2004
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
@@ -301,7 +301,7 @@ http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="big-planet",Big Planet
 https://mhd116.iptv2022.com/p/Uc3ZtRpc8YGiwZKQTdr4dA,1689109218/streaming/big_planet/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="hd-life",HD Life
-http://80.251.49.103:8003/play/174
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id599_MSKSG-PVR-1--HDL/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTY4OTIyNjc0OCwiaHdpZCI6ImI2YjQ3YmM4NWZhNWJmZDI5Mzk3MTg2MzFmMzZiNzg3YzYwZGYwNzdhZmRhZDM5ZTZmZTQ5NWRhMTI0NTBlYjIiLCJsYXN0X3JlcV9kYXRlIjoxNjg4NjIxOTQ4LCJzZXNzaW9uX2lkIjoiNmQwODcxZTQzODI5MTVhYjRhZTI4NWZhMDZmMWFiMjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ASoXHk9y5MQmdqwPSP7JSubXjHe5M7NK1FSMz7VCZ-k
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivi-aktivno",Живи Активно HD
 https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="terra-ru",Terra

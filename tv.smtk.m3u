@@ -96,7 +96,7 @@ https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="foxlife",Fox Life
 https://livetv.mylifeisgood.ml/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Comedy Central
-http://138.201.67.145:8081/ParamountComedy/index.m3u8
+http://194.114.144.244:8001/play/paramountcomedy
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",.black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-tv",.red

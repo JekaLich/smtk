@@ -92,7 +92,7 @@ http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fox",Fox HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="foxlife",Fox Life
-https://livetv.mylifeisgood.ml/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
+https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Comedy Central
 http://194.114.144.244:8001/play/paramountcomedy
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",.black
@@ -130,7 +130,7 @@ http://91.220.135.165:81/30/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
 http://77.240.45.106:3333/play/a0ad
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
-http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MTc1NDUzMCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkxMTQ5NzMwLCJzZXNzaW9uX2lkIjoiN2U0YTFjYjY4NDBmNjQyN2Y4MGY5MDgzMzJlODg2ZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Pg6SSD3rPs1Nu3j4ZkJ8wdaBbaOyH6F_8Hb10kxupdk
 #EXTINF:-1 group-title="Кино" tvg-id="domkino",Дом кино
 https://stream-msk-13.ott.tricolor.tv:443/dtv/id176_MSKSG-PVR-1--D_Kino/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MTc1NDUzMCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkxMTQ5NzMwLCJzZXNzaW9uX2lkIjoiN2U0YTFjYjY4NDBmNjQyN2Y4MGY5MDgzMzJlODg2ZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Pg6SSD3rPs1Nu3j4ZkJ8wdaBbaOyH6F_8Hb10kxupdk
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом кино Премиум HD
@@ -229,7 +229,7 @@ https://tbs01-edge11.itdc.ge/davinci/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nauka-20",Наука 2.0
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id653_MSKSG-PVR-1--Nauka_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MTc1NDUzMCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkxMTQ5NzMwLCJzZXNzaW9uX2lkIjoiN2U0YTFjYjY4NDBmNjQyN2Y4MGY5MDgzMzJlODg2ZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Pg6SSD3rPs1Nu3j4ZkJ8wdaBbaOyH6F_8Hb10kxupdk
 #EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd",Приключения HD
-http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
+https://stream-msk-04.ott.tricolor.tv:443/dtv/id158_MSKSG-PVR-1--HD_Teletr/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MTc1NDUzMCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkxMTQ5NzMwLCJzZXNzaW9uX2lkIjoiN2U0YTFjYjY4NDBmNjQyN2Y4MGY5MDgzMzJlODg2ZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Pg6SSD3rPs1Nu3j4ZkJ8wdaBbaOyH6F_8Hb10kxupdk
 #EXTINF:-1 group-title="Познавательные" tvg-id="eureka-hd",Первый Космический HD
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id159_MSKSG-PVR-1--HD_Eureka/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY5MTc1NDUzMCwiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjkxMTQ5NzMwLCJzZXNzaW9uX2lkIjoiN2U0YTFjYjY4NDBmNjQyN2Y4MGY5MDgzMzJlODg2ZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Pg6SSD3rPs1Nu3j4ZkJ8wdaBbaOyH6F_8Hb10kxupdk
 #EXTINF:-1 group-title="Познавательные" tvg-id="tochka-tv",Точка ТВ
@@ -610,27 +610,27 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="tnt-music",ТНТ Music HD
 http://okko-media.cdnvideo.ru/live/okko/tntmusic/hls/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="muztv",Муз ТВ
-https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv",Bridge TV
-https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-classic",Bridge Classic
-https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd",Bridge TV Deluxe
-https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-dance",Bridge TV Hits
-https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-ruxit",Bridge TV Русский хит
-https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-fresh",Bridge TV Фрэш
-https://livetv.mylifeisgood.ml/channels/bridgefreshya.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-shlager",Bridge Шлягер
-https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="russian-musicbox",Russian Music Box
-https://livetv.mylifeisgood.ml/channels/rusmusicbox.m3u8
+https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 group-title="Музыка",Европа Плюс ТВ
-https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
+https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
 #EXTINF:-1 group-title="Музыка",1HD
-https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
+https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV
 https://okkotv-live.cdnvideo.ru/channel/RUTV_HD/1080p.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="zhara",Жара

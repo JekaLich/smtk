@@ -245,9 +245,9 @@ https://stream-msk-07.ott.tricolor.tv:443/dtv/id169_MSKSG-PVR-1--HD_Oh_Rbl/04/pl
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikiy",Дикий
 http://217.107.34.114:8007/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-oxota-hd",Дикая охота HD
-https://mhd116.iptv2022.com/p/MB7J0Oemnk05o-izv82Jvg,1694811613/streaming/ohotahd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/DwYLn-v_2tyaKfXdGri7vQ,1695070813/streaming/ohotahd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
-https://mhd116.iptv2022.com/p/faOP5EoOyEHKoIxhmr0mAg,1694811613/streaming/ribalkahd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/rZHO4YI_gDvZanz3FWA3zQ,1695070813/streaming/ribalkahd/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy",Мужской
@@ -351,7 +351,7 @@ https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o2/mamatv/playlist.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="tlc",TLC
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZjhjMWY4MjQtZWQzMi00YTY1LWJhMDItZmRiOTA1NTVkNmViIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA5LTE2VDE4OjU1OjEyWiIsInN0cmVhbV9uYW1lIjoiNTExNyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MC0CFAUNmyrDoXFSAfI336g0UTccXnQcAhUAhN43PG4puY9dsIducfe7jJf6f4A%3D/ip_v5/5117.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiNWJiNDZhNjktNzY4NS00ZTAyLTliNWItYTk5ZmI0ZWViZmQwIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA5LTE4VDE4OjU0OjUyWiIsInN0cmVhbV9uYW1lIjoiNTExNyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFAU1n__SvTatHwT19cS_qF2O_CakAhQxvPaAKSHrHwg6A4NmZbKWkGKAGg%3D%3D/ip_v5/5117.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="ntv-style",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="kuxnia-tv",Кухня ТВ
@@ -359,7 +359,7 @@ http://31.148.48.15:80/Kuhnya_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 https://stream-msk-02.ott.tricolor.tv:443/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTY5NTE4ODI5NiwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNjk0NTgzNDk2LCJzZXNzaW9uX2lkIjoiMDNmMmI5ZjdhNmRjODJiNzJmZjAzYmZhNWYzMDYyYzEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CKhbW1iCbw4mgnh_E-eSLWu5amHGrjJ-NKsz6g1PM34
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd116.iptv2022.com/p/huTvTLmxGakN1Nj6-Ma5ug,1694811613/streaming/joycook/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/wRINbHGkFfSznIwcj-vS2w,1695070813/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id170_MSKSG-PVR-1--HD_Eda/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTY5NTE4ODI5NiwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNjk0NTgzNDk2LCJzZXNzaW9uX2lkIjoiMDNmMmI5ZjdhNmRjODJiNzJmZjAzYmZhNWYzMDYyYzEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CKhbW1iCbw4mgnh_E-eSLWu5amHGrjJ-NKsz6g1PM34
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
@@ -1529,7 +1529,7 @@ http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="tro",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="bobruysk360",Бобруйск 360
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiYjM3YzMwYjYtODQ1ZC00NjY2LTk0NGUtMDY5ZWRjMzA4NmE3IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA5LTE2VDE4OjU1OjI2WiIsInN0cmVhbV9uYW1lIjoiNjIzOSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MC0CFBOKjhPWE5ujb-555g2Zl_YmmY6UAhUAhxskZWR67vhryMvsJBnWi9cxXDM%3D/ip_v5/6239.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiODQ3YjAzMWItNGU3Ny00NWFmLWI3YWYtNGI3YjIyYjdiZjJiIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA5LTE4VDE4OjU1OjA4WiIsInN0cmVhbV9uYW1lIjoiNjIzOSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFHymqd8IlwZs8HDbfVOk82wvd8ZgAhRi0DIkUmcAIR0aZrx4NtN-icOITA%3D%3D/ip_v5/6239.m3u8
 
 #EXTINF:-1 group-title="XXX",Live Cams
 http://live.adultiptv.net/livecams.m3u8

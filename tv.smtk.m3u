@@ -34,13 +34,13 @@ http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
 http://persik.by/stream/3191/499755//10240.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
-https://tbs01-edge17.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
+http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+http://95.217.196.109:8081/russia/kinosemya/chunks.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 http://95.217.196.109:8081/russia/kinomix/chunks.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
-https://tbs01-edge17.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
+http://95.217.196.109:8081/russia/mujskoe_kino/chunks.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
 http://95.217.196.109:8081/russia/kinosvidanie/chunks.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
@@ -83,12 +83,14 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/p
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwMTUxNzE2NSwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzAwOTEyMzY1LCJzZXNzaW9uX2lkIjoiMjRmZTE2YWQwYzRlMTJhNjk1ZTJkOTBiNmQ3NDgxNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ME4wXYCqTT_IvDgljT0xIWB67ps0JS9DJpGfXcGKuM8
 #EXTINF:-1 group-title="Кино" tvg-id="shokiruyushchee-hd" tvg-shift="-3",Шокирующее
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwMTUxNzE2NSwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzAwOTEyMzY1LCJzZXNzaW9uX2lkIjoiMjRmZTE2YWQwYzRlMTJhNjk1ZTJkOTBiNmQ3NDgxNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ME4wXYCqTT_IvDgljT0xIWB67ps0JS9DJpGfXcGKuM8
+#EXTINF:-1 group-title="Кино" tvg-id="kriminalnoe-hd" tvg-shift="-3",Криминальное
+http://stream-msk-12.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwMTUxNzE2NSwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzAwOTEyMzY1LCJzZXNzaW9uX2lkIjoiMjRmZTE2YWQwYzRlMTJhNjk1ZTJkOTBiNmQ3NDgxNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ME4wXYCqTT_IvDgljT0xIWB67ps0JS9DJpGfXcGKuM8
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd" tvg-shift="-3",Комедийное
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id513_MSKSG-PVR-1--Komediinoe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwMTUxNzE2NSwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzAwOTEyMzY1LCJzZXNzaW9uX2lkIjoiMjRmZTE2YWQwYzRlMTJhNjk1ZTJkOTBiNmQ3NDgxNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ME4wXYCqTT_IvDgljT0xIWB67ps0JS9DJpGfXcGKuM8
 #EXTINF:-1 group-title="Кино" tvg-id="denpobedy" tvg-shift="-3",День Победы
 https://stream-msk-07.ott.tricolor.tv:443/dtv/id666_MSKSG-PVR-1--Den_Pobedy/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwMTUxNzE2NSwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzAwOTEyMzY1LCJzZXNzaW9uX2lkIjoiMjRmZTE2YWQwYzRlMTJhNjk1ZTJkOTBiNmQ3NDgxNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ME4wXYCqTT_IvDgljT0xIWB67ps0JS9DJpGfXcGKuM8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
-https://tbs01-edge17.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
+http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fox",Fox HD
 https://livetv.mylifeisgood.net.ru/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="foxlife",Fox Life
@@ -102,7 +104,7 @@ http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b",Plan B
-http://e8f39cd4.cbilant.com/iptv/2Q9RKAV5RQ37W9/19249/index.m3u8
+http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
 https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nst",НСТ

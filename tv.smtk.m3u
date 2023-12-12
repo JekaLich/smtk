@@ -55,11 +55,11 @@ http://5.153.180.30:8000/play/a02g
 http://5.153.180.30:8000/play/a02s
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
 http://5.153.180.30:8000/play/a02t
-#EXTINF:-1 group-title="Кино" tvg-id="blokbaster" tvg-shift="-3",Блокбастер
+#EXTINF:-1 group-title="Кино" tvg-id="2832" tvg-shift="-3",Блокбастер
 https://stream-msk-01.ott.tricolor.tv:443/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwMjg0NDU2MCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzAyMjM5NzYwLCJzZXNzaW9uX2lkIjoiMGI5NzZlZTJkN2I2NzgzZDdhYWI3MGYxZDZjYjcxMjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RuPaMlsEL0m1Sy4-JgihC1uUnNVtAuf0zV8HjytUJKk
-#EXTINF:-1 group-title="Кино" tvg-id="kamedi" tvg-shift="-3",Камеди
+#EXTINF:-1 group-title="Кино" tvg-id="2836" tvg-shift="-3",Камеди
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id642_MSKSG-PVR-1--Kamedi_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwMjg0NDU2MCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzAyMjM5NzYwLCJzZXNzaW9uX2lkIjoiMGI5NzZlZTJkN2I2NzgzZDdhYWI3MGYxZDZjYjcxMjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RuPaMlsEL0m1Sy4-JgihC1uUnNVtAuf0zV8HjytUJKk
-#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz" tvg-shift="-3",Кинопоказ
+#EXTINF:-1 group-title="Кино" tvg-id="2834" tvg-shift="-3",Кинопоказ
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id652_MSKSG-PVR-1--Kinopokaz_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwMjg0NDU2MCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzAyMjM5NzYwLCJzZXNzaW9uX2lkIjoiMGI5NzZlZTJkN2I2NzgzZDdhYWI3MGYxZDZjYjcxMjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RuPaMlsEL0m1Sy4-JgihC1uUnNVtAuf0zV8HjytUJKk
 #EXTINF:-1 group-title="Кино" tvg-id="nash-kinopokaz" tvg-shift="-3",Наш Кинопоказ
 https://stream-msk-14.ott.tricolor.tv:443/dtv/id646_MSKSG-PVR-1--Nash_kinopokaz_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwMjg0NDU2MCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzAyMjM5NzYwLCJzZXNzaW9uX2lkIjoiMGI5NzZlZTJkN2I2NzgzZDdhYWI3MGYxZDZjYjcxMjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RuPaMlsEL0m1Sy4-JgihC1uUnNVtAuf0zV8HjytUJKk

@@ -32,29 +32,29 @@ https://stream-msk-10.ott.tricolor.tv:443/dtv/id640_MSKSG-PVR-1--Bollywood/04/pl
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
-http://persik.by/stream/3191/499755//10240.m3u8
+http://5.153.180.30:8001/play/a02p
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
-http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
+http://5.153.180.30:8000/play/a0ai
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://95.217.196.109:8081/russia/kinosemya/chunks.m3u8
+http://5.153.180.30:8000/play/a0ah
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
-http://95.217.196.109:8081/russia/kinomix/chunks.m3u8
+http://5.153.180.30:8000/play/a0ag
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
-http://95.217.196.109:8081/russia/mujskoe_kino/chunks.m3u8
+http://5.153.180.30:8000/play/a0au
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
-http://95.217.196.109:8081/russia/kinosvidanie/chunks.m3u8
+http://5.153.180.30:8000/play/a02q
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
-http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
+http://5.153.180.30:8000/play/a047
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
-http://persik.by/stream/3191/499755/312.m3u8
+http://5.153.180.30:8000/play/a04p
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
-http://95.217.196.109:8081/russia/kinokomediya/chunks.m3u8
+http://5.153.180.30:8000/play/a02v
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
-http://95.217.196.109:8081/russia/indijskoe_kino/chunks.m3u8
+http://5.153.180.30:8000/play/a02g
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
-https://tbs01-edge17.itdc.ge/kinoseria/tracks-v1a1/mono.m3u8
+http://5.153.180.30:8000/play/a02s
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
-https://tbs01-edge17.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
+http://5.153.180.30:8000/play/a02t
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster" tvg-shift="-3",Блокбастер
 https://stream-msk-01.ott.tricolor.tv:443/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwMjg0NDU2MCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzAyMjM5NzYwLCJzZXNzaW9uX2lkIjoiMGI5NzZlZTJkN2I2NzgzZDdhYWI3MGYxZDZjYjcxMjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RuPaMlsEL0m1Sy4-JgihC1uUnNVtAuf0zV8HjytUJKk
 #EXTINF:-1 group-title="Кино" tvg-id="kamedi" tvg-shift="-3",Камеди

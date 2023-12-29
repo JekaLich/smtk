@@ -15,7 +15,7 @@ http://185.26.157.3:8080/live/vip_premiere_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="1011",Viju+ Comedy
 http://185.26.157.3:8080/live/vip_comedy_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="2838",Viju+ Serial
-https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
+http://176.222.190.11/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="127",Viju TV1000
 http://185.26.157.3:8080/live/tv1000/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="125",Viju TV1000 Action
@@ -92,17 +92,17 @@ https://stream-msk-07.ott.tricolor.tv:443/dtv/id666_MSKSG-PVR-1--Den_Pobedy/04/p
 #EXTINF:-1 group-title="Кино" tvg-id="2403",Иллюзион+
 http://176.222.190.11/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="1031",Fox HD
-https://livetv.mylifeisgood.net.ru/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
+http://176.222.190.11/btv/SWM/FOX/FOX.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="615",Fox Life
-https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
+http://176.222.190.11/btv/SWM/FoxLife/FoxLife.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="920",Comedy Central
 http://176.222.190.11/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="935",.black
-http://185.163.194.185:6991/39/mpegts
+http://176.222.190.11/btv/SWM/Black/Black.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="311",.red
-http://185.163.194.185:6991/38/mpegts
+http://176.222.190.11/btv/SWM/Red/Red.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="516",.sci-fi
-http://185.163.194.185:6991/35/mpegts
+http://176.222.190.11/btv/SWM/Sci-Fi/Sci-Fi.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="6643",Plan B
 http://31.148.6.4:10236/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="2754",Cinema
@@ -116,7 +116,7 @@ https://live-mirror-12.ott.tricolor.tv:443/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/p
 #EXTINF:-1 group-title="Кино" tvg-id="2288",Суббота
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="2404",Феникс+Кино
-https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
+http://176.222.190.11/btv/SWM/phoenix/phoenix.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="1754",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="2041",НТВ Хит
@@ -124,7 +124,7 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="1753",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="2181",FilmBox Russia
-http://94.230.240.17:8080/film_box/index.m3u8
+http://185.163.194.185:6991/124/mpegts
 #EXTINF:-1 group-title="Кино" tvg-id="2402",Ретро
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="352",Еврокино
@@ -157,17 +157,17 @@ https://hls.goodgame.ru/hls/187241.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="3361",Trash
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+http://176.222.190.11/btv/SWM/trash_hd/trash_hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="6241",Start Air
-https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
+http://176.222.190.11/btv/SWM/start_air_hd/start_air_hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="6240",Start World
-https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
+http://176.222.190.11/btv/SWM/start_world_hd/start_world_hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="7314",Кинеко
-https://livetv.mylifeisgood.net.ru/channels/fox.m3u8
+http://176.222.190.11/btv/SWM/kineko_hd/kineko_hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="7315",Сапфир
-https://livetv.mylifeisgood.net.ru/channels/foxlife.m3u8
+http://176.222.190.11/btv/SWM/sapfir_hd/sapfir_hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="309",TV XXI
-http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
+http://176.222.190.11/btv/SWM/tv21/tv21.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="2233",Индия
 rtmp://93.189.60.202//1001
 #EXTINF:-1 group-title="Кино" tvg-id="1620",Комедия
@@ -194,7 +194,7 @@ https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3
 #EXTINF:-1 group-title="Кино" tvg-id="2768",Арсенал
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Кино" tvg-id="2426",Тайна
-https://s12.federal.tv:8082/feda/taina.stream/playlist.m3u8
+https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -406,11 +406,15 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия" tvg-id="tnt-int-cis",ТНТ-International
+http://176.222.190.11/btv/SWM/TNT_HD_RUS/TNT_HD_RUS.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия" tvg-id="tnt4-international",ТНТ4 International
+http://176.222.190.11/btv/SWM/TNT4/TNT4.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="piatnica",Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда

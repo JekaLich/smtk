@@ -223,11 +223,11 @@ https://livetv.mylifeisgood.net.ru/channels/viasat_nature.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viju+ Planet
 http://176.222.190.11/btv/SWM/viasatnaturehd/viasatnaturehd.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
-https://tbs01-edge17.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
+http://185.163.194.185:6991/259/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
 http://watch.reflextv.ru/TravelChannelHD/mpegts?token=htxf1wxykt
 #EXTINF:-1 group-title="Познавательные" tvg-id="da-vinci",Da Vinci
-https://tbs01-edge17.itdc.ge/davinci/tracks-v1a1/mono.m3u8
+http://185.26.157.3:8080/live/da_vinci/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nauka-20",Наука 2.0
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id653_MSKSG-PVR-1--Nauka_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd",Приключения HD
@@ -239,7 +239,7 @@ http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя планета
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id623_MSKSG-PVR-1--Moya_Planeta_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxota-i-rybalka",Охота и рыбалка
-https://tbs01-edge17.itdc.ge/ohotairibalka/tracks-v1a1/mono.m3u8
+http://195.245.99.251:8070
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxotnik-i-rybolov",Охотник и рыболов
 https://stream-msk-07.ott.tricolor.tv:443/dtv/id169_MSKSG-PVR-1--HD_Oh_Rbl/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikiy",Дикий
@@ -251,9 +251,9 @@ http://5.153.180.30:8000/play/a021
 #EXTINF:-1 group-title="Познавательные" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy",Мужской
-https://ucdn.beetv.kz/btv/live/hls/000000286.m3u8
+https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto24",Авто24
-https://tbs01-edge17.itdc.ge/auto24/tracks-v1a1/mono.m3u8
+http://91.207.115.228:5000/c181
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto-plus",Авто Плюс
 https://stream-msk-07.ott.tricolor.tv:443/dtv/id163_MSKSG-PVR-1--Autoplus/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Познавательные" tvg-id="drive",Драйв
@@ -275,9 +275,9 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id686_MSKSG-PVR-1--Tonus/04/plst.m
 #EXTINF:-1 group-title="Познавательные" tvg-id="teatr",Театр
 http://146.158.0.56:80/Teatr/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="vremia",Время
-https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
+http://176.222.190.11/btv/SWM/Vremya/Vremya.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nostalgia",Ностальгия
-https://tbs01-edge17.itdc.ge/nostalgy/tracks-v1a1/mono.m3u8
+https://strm.yandex.ru/kal/nostalgia_belarus/nostalgia_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id=,WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
@@ -290,15 +290,15 @@ https://stream-msk-01.ott.tricolor.tv:443/dtv/id589_MSKSG-PVR-1--365/04/plst.m3u
 #EXTINF:-1 group-title="Познавательные" tvg-id="univer-tv",Univer TV
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-planeta",Живая Планета
-https://tbs01-edge17.itdc.ge/liveplanet/tracks-v1a1/mono.m3u8
+http://212.0.213.132:2302/Zhivaya_Planeta/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zootv",Зоо ТВ
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id152_MSKSG-PVR-1--Zoo_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet
-https://ucdn.beetv.kz/btv/live/hls/000000216.m3u8
+http://185.26.157.3:8080/live/animalplanet/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="big-planet",Big Planet
-http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+http://176.222.190.11/btv/SWM/big_planet_hd/big_planet_hd.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="hd-life",HD Life
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id599_MSKSG-PVR-1--HDL/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivi-aktivno",Живи Активно HD
@@ -308,7 +308,7 @@ https://livetv.mylifeisgood.net.ru/channels/national_geographic.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="sovsek",Top Secret
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id698_MSKSG-PVR-1--Top_secret/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Познавательные" tvg-id="glazami-turista",Глазами туриста
-https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
+http://176.222.190.11/btv/SWM/Glazamy_Turista_HD/Glazamy_Turista_HD.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zagorodny-int",Загородный International
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id615_MSKSG-PVR-1--Zagorodniy_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Познавательные" tvg-id="oruzhie",Оружие
@@ -320,7 +320,7 @@ http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id160_MSKSG-PVR-1--HD_Anim_Fam/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
-https://tbs01-edge17.itdc.ge/history/tracks-v1a1/mono.m3u8
+http://185.26.157.3:8080/live/istoriya/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy",Моя стихия
 http://5.153.180.30:8000/play/a0at
 #EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
@@ -332,7 +332,7 @@ https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd",RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="kto-est-kto",Кто есть кто
-http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
+https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nasa4k",NASA 4K
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
@@ -345,7 +345,7 @@ https://stream-msk-06.ott.tricolor.tv:443/dtv/id358_MSKSG-PVR-1--Anekdot_TV/04/p
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
 https://stream-msk-14.ott.tricolor.tv:443/dtv/id264_MSKSG-PVR-1--KVN/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Юмор" tvg-id="perec-int",Перец
-https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
+http://176.222.190.11/btv/SWM/Perec/Perec.m3u8
 
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -355,11 +355,11 @@ http://5.153.180.30:8002/play/a0c0
 #EXTINF:-1 group-title="Женские" tvg-id="ntv-style",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="kuxnia-tv",Кухня ТВ
-https://tbs01-edge17.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
+https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 https://stream-msk-02.ott.tricolor.tv:443/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd.iptv2022.com/p/7ZvOxTuhrSd9MHgvk4l9QQ,1702929357/streaming/joycook/324/1/index.m3u8
+https://mhd.iptv2022.com/p/ebliuDHCxuz4DguanHpIVg,1703879851/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id170_MSKSG-PVR-1--HD_Eda/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
@@ -455,7 +455,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 
 #EXTINF:-1 group-title="Новости",RTVi
-https://tbs01-edge17.itdc.ge/rtvi/tracks-v1a1/mono.m3u8
+http://185.26.157.3:8080/live/rtvi/mono.m3u8
 #EXTINF:-1 group-title="Новости",Дождь
 http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="Новости",Euronews
@@ -470,9 +470,9 @@ http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 #EXTINF:-1 group-title="Детские" tvg-id="solnce",Солнце
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id253_MSKSG-PVR-1--Disney/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNDMwMDEwNSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzAzNjk1MzA1LCJzZXNzaW9uX2lkIjoiMThhZTAxNGVkMDUzZGU0MmE2YmJkYjc1NTBlZWM0ZDIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._DqLirXdfmDeiGDRPLQ6s5lHoAvIny4a_-3vLY2J5xo
 #EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-ru",Nickelodeon
-https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
+http://176.222.190.11/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="nick-jr" audio-track="ru",Nick Jr
-https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
+http://176.222.190.11/btv/icon/Nick_Jr/Nick_Jr.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="nicktoons",Nicktoons
 http://89.254.128.5:22280/nicktoons/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="Карусель",Карусель
@@ -482,29 +482,29 @@ http://45.144.31.195:8008/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="smaylik-tv",Смайлик ТВ
 https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="tiji",Tiji
-https://ucdn.beetv.kz/btv/live/hls/000000174.m3u8
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="mult",Мульт
-https://tbs01-edge17.itdc.ge/multtv/tracks-v1a1/mono.m3u8
+http://185.26.157.3:8080/live/multhd/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ani",Ani
 http://89.104.114.32:8080/ani/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 group-title="Детские" tvg-id="cartoon-network",Cartoon Network
-https://ucdn.beetv.kz/btv/live/hls/000000015.m3u8
+http://176.222.190.11/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="detsky-mir",Детский мир
-https://tbs01-edge17.itdc.ge/detskymir/tracks-v1a1/mono.m3u8
+http://195.245.99.251:8077
 #EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd",СТС Kids
 https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="gulli-girl",Gulli Girl
-https://ucdn.beetv.kz/btv/live/hls/000000284.m3u8
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimania",Мультиландия
 https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimuzyka",Мульт и музыка
 http://91.142.158.107:8092/play/24/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="boomerang",Cartoonito
-https://ucdn.beetv.kz/btv/live/hls/000000160.m3u8
+http://185.163.194.185:6991/75/mpegts
 #EXTINF:-1 group-title="Детские" tvg-id="ginger-hd",Капитан Фантастика
-https://ucdn.beetv.kz/btv/live/hls/000001474.m3u8
+https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="detsky",Уникум
-https://tbs01-edge17.itdc.ge/detsky/tracks-v1a1/mono.m3u8
+http://185.26.157.3:8080/live/detskiy/mono.m3u8
 #EXTINF:-1 group-title="Детские",Маша и Медведь HD
 http://nl.seetv.cc/play/6068/DAF7E574BE5237A/video.m3u8
 
@@ -588,7 +588,7 @@ http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd",MTV Live HD
-https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
+http://185.163.194.185:6991/97/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-id="vh1-european",MTV 00s
 http://89.254.128.5:22280/mtv_00/video.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="tnt-music",ТНТ Music HD

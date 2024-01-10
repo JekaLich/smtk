@@ -219,7 +219,7 @@ http://lb.homeiptv.org/lb0/National_Geographic_Channel/video.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viju Explore
 https://livetv.mylifeisgood.net.ru/channels/viasat_explore.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viju History
-https://livetv.mylifeisgood.net.ru/channels/viasat_history.m3u8
+http://176.222.190.11/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature",Viju Nature
 https://livetv.mylifeisgood.net.ru/channels/viasat_nature.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viju+ Planet
@@ -247,9 +247,9 @@ https://stream-msk-07.ott.tricolor.tv:443/dtv/id169_MSKSG-PVR-1--HD_Oh_Rbl/04/pl
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikiy",Дикий
 http://217.107.34.114:8007/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-oxota-hd",Дикая охота HD
-http://5.153.180.30:8000/play/a020
+http://88.85.172.243:7012/play/a027
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
-http://5.153.180.30:8000/play/a021
+http://88.85.172.243:7012/play/a026
 #EXTINF:-1 group-title="Познавательные" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy",Мужской
@@ -271,7 +271,7 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst
 #EXTINF:-1 group-title="Познавательные" tvg-id="usadba",Усадьба
 http://94.230.240.17:8080/usadba/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zoopark",Zooпарк
-http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDE5NzkyNzksImlhdCI6MTcwMTg5Mjg3OSwiY2lkIjo2LCJ1aWQiOjcxMzUwMTUyOSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.NyrBZ4IYg5Kwg24IE0_gQEVadSJiBkDSqkrEFzctpec&offset=10
+http://live2.tvg.ge:8082/tv/ZOOPARK_SD/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="tonus-tv",Тонус ТВ
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id686_MSKSG-PVR-1--Tonus/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
 #EXTINF:-1 group-title="Познавательные" tvg-id="teatr",Театр
@@ -353,7 +353,7 @@ http://176.222.190.11/btv/SWM/Perec/Perec.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o2/mamatv/playlist.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="tlc",TLC
-http://5.153.180.30:8002/play/a0c0
+http://91.207.115.228:5000/c151
 #EXTINF:-1 group-title="Женские" tvg-id="ntv-style",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="kuxnia-tv",Кухня ТВ
@@ -361,7 +361,7 @@ https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 https://stream-msk-02.ott.tricolor.tv:443/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd.iptv2022.com/p/ebliuDHCxuz4DguanHpIVg,1703879851/streaming/joycook/324/1/index.m3u8
+https://mhd.iptv2022.com/p/qC3bhFJaG9F3XEsPdYqm4g,1704916619/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id170_MSKSG-PVR-1--HD_Eda/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
@@ -1515,19 +1515,17 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
 
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus1",Беларусь 1
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_w1055522310_b5160000_sleng.m3u8
+https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w695777312_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus2",Беларусь 2
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_w695777312_b5160000_sleng.m3u8
+https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w695777312_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus3",Беларусь 3
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_w128674544_b5160000_sleng.m3u8
+https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w680816830_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus5-inet",Беларусь 5 Интернет
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_w1346781289_b2660000_sleng.m3u8
+https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus24",Беларусь 24
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="tro",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Беларусь" tvg-id="bobruysk360",Бобруйск 360
-http://24ch.iptvsmotri.ru/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4ntPNpup7Dhp0VFtFEcUF3_03.php
 
 #EXTINF:-1 group-title="XXX",Live Cams
 http://live.adultiptv.net/livecams.m3u8

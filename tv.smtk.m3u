@@ -34,15 +34,15 @@ http://176.222.190.11/btv/SWM/Dorama/Dorama.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
 http://91.207.115.228:5000/c42
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
-http://91.207.115.228:5000/c38
+http://data.homeiptv.org:8090/Kinoxit_HD/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://91.207.115.228:5000/c39
+http://data.homeiptv.org:8090/Kinosemya_HD/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
-http://212.0.213.132:2302/Kinomix/index.m3u8
+http://data.homeiptv.org:8090/Kinomix_HD/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
 http://91.207.115.228:5000/c40
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
-http://91.207.115.228:5000/c45
+http://data.homeiptv.org:8090/KinosvidanieHD/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
 http://91.207.115.228:5000/c41
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
@@ -52,7 +52,7 @@ http://91.207.115.228:5000/c46
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
 http://91.207.115.228:5000/c47
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
-http://212.0.213.132:2302/Kinoseria/index.m3u8
+http://data.homeiptv.org:8090/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
 http://91.207.115.228:5000/c43
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd",Блокбастер

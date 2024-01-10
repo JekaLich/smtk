@@ -590,7 +590,7 @@ http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd",MTV Live HD
-http://185.163.194.185:6991/97/mpegts
+http://93.155.227.38:555/m3u8/mtvlivehd.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="vh1-european",MTV 00s
 http://89.254.128.5:22280/mtv_00/video.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="tnt-music",ТНТ Music HD
@@ -598,23 +598,23 @@ https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="muztv",Муз ТВ
 https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/muztv/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv",Bridge TV
-https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-classic",Bridge Classic
-https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd",Bridge TV Deluxe
-https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-dance",Bridge TV Hits
-https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-ruxit",Bridge TV Русский хит
-https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-fresh",Bridge TV Фрэш
-https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-shlager",Bridge Шлягер
-https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="russian-musicbox",Russian Music Box
 https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="europa-plus-tv",Европа Плюс ТВ
-https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
+http://92.100.39.32:2289/play/EuropaPlusTV/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="1hd",1HD
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="ru-tv",RU.TV

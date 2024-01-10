@@ -195,6 +195,8 @@ https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
 #EXTINF:-1 group-title="Кино" tvg-id="tayna",Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Кино" tvg-id="kion-xit",KION Хит
+http://data.homeiptv.org:8090/KION_HIT_HD/video.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37

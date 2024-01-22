@@ -17,11 +17,11 @@ http://135.181.115.81/russia/vip_comedy/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
 http://176.222.190.11/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000",Viju TV1000
-http://live2.tvg.ge:8082/tv/TV1000_HD/playlist.m3u8
+http://94.232.104.237:8000/play/039/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",Viju TV1000 Action
-http://live2.tvg.ge:8082/tv/TV1000ACTION_HD/playlist.m3u8
+http://94.232.104.237:8000/play/040/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino,Viju TV1000 Русское
-http://live2.tvg.ge:8082/tv/TV1000RU_HD/playlist.m3u8
+http://94.232.104.237:8000/play/041/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
@@ -34,15 +34,15 @@ http://176.222.190.11/btv/SWM/Dorama/Dorama.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
 http://91.207.115.228:5000/c42
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
-http://data.homeiptv.org:8090/Kinoxit_HD/video.m3u8
+http://213.172.73.170:8081/nimble_live/1083__Kinoxit/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://data.homeiptv.org:8090/Kinosemya_HD/video.m3u8
+http://213.172.73.170:8081/nimble_live/1098__Kinosemya/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
-http://data.homeiptv.org:8090/Kinomix_HD/video.m3u8
+http://213.172.73.170:8081/nimble_live/1112__Kinomiks/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
 http://91.207.115.228:5000/c40
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
-http://data.homeiptv.org:8090/KinosvidanieHD/video.m3u8
+http://213.172.73.170:8081/nimble_live/1032__Kinosvidaniye/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
 http://91.207.115.228:5000/c41
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
@@ -52,7 +52,7 @@ http://91.207.115.228:5000/c46
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
 http://91.207.115.228:5000/c47
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
-http://data.homeiptv.org:8090/Kinoseriya_HD/video.m3u8
+http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
 http://91.207.115.228:5000/c43
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd",Блокбастер
@@ -181,7 +181,7 @@ http://88.85.172.243:7011/play/a01c
 #EXTINF:-1 group-title="Кино" tvg-id="star-family",Star Family
 http://88.85.172.243:7011/play/a01b
 #EXTINF:-1 group-title="Кино" tvg-id="bolt-ru",Bolt
-http://lb.homeiptv.org/lb0/Bolt/video.m3u8
+http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood",Hollywood
 http://176.222.190.11/btv/SWM/Hollywood/Hollywood.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood-hd",Hollywood HD
@@ -195,8 +195,6 @@ https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwNTk5NjMxMCwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzA1MzkxNTEwLCJzZXNzaW9uX2lkIjoiODBhOTY1NjJmMGNkYzk3ZDQ2ZDRjNWIxZGI3OWY5NmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.pQUNI8AeiHeE2CAnBFUbF4NAkS7YU5CzrPVGW7fgJIM
 #EXTINF:-1 group-title="Кино" tvg-id="tayna",Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="Кино" tvg-id="kion-xit",KION Хит
-http://data.homeiptv.org:8090/KION_HIT_HD/video.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -215,7 +213,7 @@ http://176.222.190.11/btv/SWM/History2HD/History2HD.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
 http://lb.homeiptv.org/lb0/Nat_Geo_Wild_HD/video.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
-http://lb.homeiptv.org/lb0/National_Geographic_Channel/video.m3u8
+http://135.181.115.81/russia/nat_geo/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viju Explore
 https://livetv.mylifeisgood.net.ru/channels/viasat_explore.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viju History
@@ -229,7 +227,7 @@ http://92.100.39.32:2289/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
 http://lb.homeiptv.org/lb0/Travel_Channel_HD/video.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="da-vinci",Da Vinci
-http://lb.homeiptv.org/lb0/Da_Vinci_Learning/video.m3u8
+http://213.172.73.170:8081/nimble_live/1147__Telekanal_Da_Vin4i/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nauka-20",Наука 2.0
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id653_MSKSG-PVR-1--Nauka_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwNTk5NjMxMCwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzA1MzkxNTEwLCJzZXNzaW9uX2lkIjoiODBhOTY1NjJmMGNkYzk3ZDQ2ZDRjNWIxZGI3OWY5NmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.pQUNI8AeiHeE2CAnBFUbF4NAkS7YU5CzrPVGW7fgJIM
 #EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd",Приключения HD
@@ -322,7 +320,7 @@ http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id160_MSKSG-PVR-1--HD_Anim_Fam/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwNTk5NjMxMCwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzA1MzkxNTEwLCJzZXNzaW9uX2lkIjoiODBhOTY1NjJmMGNkYzk3ZDQ2ZDRjNWIxZGI3OWY5NmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.pQUNI8AeiHeE2CAnBFUbF4NAkS7YU5CzrPVGW7fgJIM
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
-http://lb.homeiptv.org/lb0/Istoriya/video.m3u8
+http://91.207.115.228:5000/c85
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy",Моя стихия
 http://5.153.180.30:8000/play/a0at
 #EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
@@ -361,7 +359,7 @@ https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 https://stream-msk-02.ott.tricolor.tv:443/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwNTk5NjMxMCwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzA1MzkxNTEwLCJzZXNzaW9uX2lkIjoiODBhOTY1NjJmMGNkYzk3ZDQ2ZDRjNWIxZGI3OWY5NmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.pQUNI8AeiHeE2CAnBFUbF4NAkS7YU5CzrPVGW7fgJIM
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd116.iptv2022.com/p/rtoMKPeERZ3PYOwSk5VlTg,1705525210/streaming/joycook/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/YGExgRHX5CfrqoWbM98-Og,1705957210/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id170_MSKSG-PVR-1--HD_Eda/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwNTk5NjMxMCwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzA1MzkxNTEwLCJzZXNzaW9uX2lkIjoiODBhOTY1NjJmMGNkYzk3ZDQ2ZDRjNWIxZGI3OWY5NmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.pQUNI8AeiHeE2CAnBFUbF4NAkS7YU5CzrPVGW7fgJIM
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
@@ -490,7 +488,7 @@ https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="tiji",Tiji
 https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="mult",Мульт
-http://lb.homeiptv.org/lb0/Mult/video.m3u8
+http://91.207.115.228:5000/c63
 #EXTINF:-1 group-title="Детские" tvg-id="ani",Ani
 http://89.104.114.32:8080/ani/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 group-title="Детские" tvg-id="cartoon-network",Cartoon Network
@@ -510,7 +508,7 @@ http://185.163.194.185:6991/75/mpegts
 #EXTINF:-1 group-title="Детские" tvg-id="ginger-hd",Капитан Фантастика
 https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="detsky",Уникум
-http://lb.homeiptv.org/lb0/Unikum/video.m3u8
+http://91.207.115.228:5000/c65
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
 http://93.125.108.196:8080/203/index.m3u8

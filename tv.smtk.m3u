@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
 
-#EXTINF:-1 group-title="Кино" tvg-id="amedia1" tvg-logo="https://epgx.site/p/amedia1.png",Amedia 1
+#EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
 http://176.222.190.11/btv/SWM/A1/A1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
 http://176.222.190.11/btv/SWM/A2/A2.m3u8

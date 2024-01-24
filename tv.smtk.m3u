@@ -124,7 +124,7 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-pravo",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru",FilmBox Russia
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDYwODMzMzUsImlhdCI6MTcwNTk5NjkzNSwiY2lkIjo2LCJ1aWQiOjczMDg2NzAzNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.ScEjPOVod8gFWHUTCqZsR7O_U2IjnZg92CIb_CjMghk&offset=10
+http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDYxNzQzNDcsImlhdCI6MTcwNjA4Nzk0NywiY2lkIjo2LCJ1aWQiOjczMTE3MDIyMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.PXJ7jIBDAqlKzC9pTGYwUCJOmo-AKjg1Rjua-CzGA0I&offset=10
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
@@ -292,7 +292,7 @@ http://94.232.104.237:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zootv",Зоо ТВ
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id152_MSKSG-PVR-1--Zoo_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjQyODc0NywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA1ODIzOTQ3LCJzZXNzaW9uX2lkIjoiMmEyZDdhNTIyNzA1ZGQ1ZDMwNDYwNTA2MTcxMjZjZWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mG_rrDWdcJD21UrWh20IpjCO-fdWUY1ulOyvIwzSOG4
 #EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
-https://mhd116.iptv2022.com/p/xpcBwVYjq6fQO0fGPDAVjw,1706043612/streaming/minidei/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/7EG6WhqZ_2bM0QICLxxzKw,1706130012/streaming/minidei/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet
 http://135.181.115.81/russia/animal_planet/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="big-planet",Big Planet
@@ -302,7 +302,7 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id599_MSKSG-PVR-1--HDL/04/plst.m3u
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivi-aktivno",Живи Активно HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjQyODc0NywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA1ODIzOTQ3LCJzZXNzaW9uX2lkIjoiMmEyZDdhNTIyNzA1ZGQ1ZDMwNDYwNTA2MTcxMjZjZWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mG_rrDWdcJD21UrWh20IpjCO-fdWUY1ulOyvIwzSOG4
 #EXTINF:-1 group-title="Познавательные" tvg-id="terra-ru",Terra
-http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDYwODMzMzUsImlhdCI6MTcwNTk5NjkzNSwiY2lkIjo2LCJ1aWQiOjczMDg2NzAzNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.ScEjPOVod8gFWHUTCqZsR7O_U2IjnZg92CIb_CjMghk&offset=10
+http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDYxNzQzNDcsImlhdCI6MTcwNjA4Nzk0NywiY2lkIjo2LCJ1aWQiOjczMTE3MDIyMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.PXJ7jIBDAqlKzC9pTGYwUCJOmo-AKjg1Rjua-CzGA0I&offset=10
 #EXTINF:-1 group-title="Познавательные" tvg-id="sovsek",Top Secret
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id698_MSKSG-PVR-1--Top_secret/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjQyODc0NywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA1ODIzOTQ3LCJzZXNzaW9uX2lkIjoiMmEyZDdhNTIyNzA1ZGQ1ZDMwNDYwNTA2MTcxMjZjZWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mG_rrDWdcJD21UrWh20IpjCO-fdWUY1ulOyvIwzSOG4
 #EXTINF:-1 group-title="Познавательные" tvg-id="glazami-turista",Глазами туриста
@@ -357,7 +357,7 @@ https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 https://stream-msk-02.ott.tricolor.tv:443/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjQyODc0NywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA1ODIzOTQ3LCJzZXNzaW9uX2lkIjoiMmEyZDdhNTIyNzA1ZGQ1ZDMwNDYwNTA2MTcxMjZjZWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mG_rrDWdcJD21UrWh20IpjCO-fdWUY1ulOyvIwzSOG4
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd116.iptv2022.com/p/9SYZJRv6JGp-7Op7kar36w,1706043610/streaming/joycook/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/sB5J21_Ak5Xb4voEu4LAjQ,1706130010/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id170_MSKSG-PVR-1--HD_Eda/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjQyODc0NywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA1ODIzOTQ3LCJzZXNzaW9uX2lkIjoiMmEyZDdhNTIyNzA1ZGQ1ZDMwNDYwNTA2MTcxMjZjZWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mG_rrDWdcJD21UrWh20IpjCO-fdWUY1ulOyvIwzSOG4
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
@@ -564,14 +564,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="q-sport-int",Q Sport International
 http://176.222.190.11/btv/SWM/Qsport_international/Qsport_international.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola",Мир баскетбола
-http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDYwODMzMzUsImlhdCI6MTcwNTk5NjkzNSwiY2lkIjo2LCJ1aWQiOjczMDg2NzAzNywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.ScEjPOVod8gFWHUTCqZsR7O_U2IjnZg92CIb_CjMghk&offset=10
+http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDYxNzQzNDcsImlhdCI6MTcwNjA4Nzk0NywiY2lkIjo2LCJ1aWQiOjczMTE3MDIyMCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.PXJ7jIBDAqlKzC9pTGYwUCJOmo-AKjg1Rjua-CzGA0I&offset=10
 #EXTINF:-1 group-title="Спорт" tvg-id="motorsportv-tv",Моторспорт ТВ
 http://91.207.115.228:5000/c111
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox
-https://mhd116.iptv2022.com/p/WfAjOTUPH9vJwGk34JLmBg,1706043616/streaming/fightbox/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/BBagTeh8x-p3eiCdrbhI_w,1706130014/streaming/fightbox/324/1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global",M-1 Global
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id524_MSKSG-PVR-1--M1_Global/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjQyODc0NywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA1ODIzOTQ3LCJzZXNzaW9uX2lkIjoiMmEyZDdhNTIyNzA1ZGQ1ZDMwNDYwNTA2MTcxMjZjZWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mG_rrDWdcJD21UrWh20IpjCO-fdWUY1ulOyvIwzSOG4
 #EXTINF:-1 group-title="Спорт" tvg-id="box-tv",Бокс ТВ
@@ -1990,7 +1990,7 @@ http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&
 http://127.0.0.1:6878/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Love Nature 4K
 http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://epg.it999.ru/img/2800.png",Insight UHD 4K
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Insight UHD 4K
 http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
 http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
@@ -2126,6 +2126,20 @@ http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&
 http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Setanta Live 2
 http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai One
+http://127.0.0.1:6878/ace/getstream?infohash=43bfa03755428b42fedf2f88bf8a3879add9907a&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai Racing
+http://127.0.0.1:6878/ace/getstream?infohash=9e23be4424f849f061b57d86491a06bdbf5c30d3&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai Racing 2
+http://127.0.0.1:6878/ace/getstream?infohash=70cfa52fb2a6b9f37d3cde22e7dda2c80efc6a1c&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai Racing 3
+http://127.0.0.1:6878/ace/getstream?infohash=f6927bae7a816d9a3c200e63df032c09671b971f&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai Sports 2
+http://127.0.0.1:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c73597801a96&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai Sports 3
+http://127.0.0.1:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai Zaman
+http://127.0.0.1:6878/ace/getstream?infohash=4750d185565938b65e8607133b7abdfeb4c7c8cd&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Insport HD
 http://127.0.0.1:6878/ace/getstream?id=b7e8c3bae5d98a4f842f334ff57604de9886f5c7&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 1 HD

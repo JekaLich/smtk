@@ -124,7 +124,7 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-pravo",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru",FilmBox Russia
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDY1NTg2MTUsImlhdCI6MTcwNjQ3MjIxNSwiY2lkIjo2LCJ1aWQiOjczMjc0ODU3MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.GHo5B5T1SaF5J1IQDR9elrES6mfkfD3cZvm6bqwZaPQ&offset=10
+http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDY2MDUwMjQsImlhdCI6MTcwNjUxODYyNCwiY2lkIjo2LCJ1aWQiOjczMjg2NjU4NCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.5MviZogLuZXxGO0T2BnUM3y-JQNTQEYw2XyyvRK7PE8&offset=10
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
@@ -302,7 +302,7 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id599_MSKSG-PVR-1--HDL/04/plst.m3u
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivi-aktivno",Живи Активно HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjc5MzI3OSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2MTg4NDc5LCJzZXNzaW9uX2lkIjoiMzA1MTgzODZlNTkxNzExZWQxNzVkNGZhMzhmZTQyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Tcql4tVI4Lo7S51vdSam5vCrUXOzAU9zSgc0SaRQfNc
 #EXTINF:-1 group-title="Познавательные" tvg-id="terra-ru",Terra
-http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDY1NTg2MTUsImlhdCI6MTcwNjQ3MjIxNSwiY2lkIjo2LCJ1aWQiOjczMjc0ODU3MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.GHo5B5T1SaF5J1IQDR9elrES6mfkfD3cZvm6bqwZaPQ&offset=10
+http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDY2MDUwMjQsImlhdCI6MTcwNjUxODYyNCwiY2lkIjo2LCJ1aWQiOjczMjg2NjU4NCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.5MviZogLuZXxGO0T2BnUM3y-JQNTQEYw2XyyvRK7PE8&offset=10
 #EXTINF:-1 group-title="Познавательные" tvg-id="sovsek",Top Secret
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id698_MSKSG-PVR-1--Top_secret/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjc5MzI3OSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2MTg4NDc5LCJzZXNzaW9uX2lkIjoiMzA1MTgzODZlNTkxNzExZWQxNzVkNGZhMzhmZTQyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Tcql4tVI4Lo7S51vdSam5vCrUXOzAU9zSgc0SaRQfNc
 #EXTINF:-1 group-title="Познавательные" tvg-id="glazami-turista",Глазами туриста
@@ -564,7 +564,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="q-sport-int",Q Sport International
 http://176.222.190.11/btv/SWM/Qsport_international/Qsport_international.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola",Мир баскетбола
-http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDY1NTg2MTUsImlhdCI6MTcwNjQ3MjIxNSwiY2lkIjo2LCJ1aWQiOjczMjc0ODU3MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.GHo5B5T1SaF5J1IQDR9elrES6mfkfD3cZvm6bqwZaPQ&offset=10
+http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDY2MDUwMjQsImlhdCI6MTcwNjUxODYyNCwiY2lkIjo2LCJ1aWQiOjczMjg2NjU4NCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.5MviZogLuZXxGO0T2BnUM3y-JQNTQEYw2XyyvRK7PE8&offset=10
 #EXTINF:-1 group-title="Спорт" tvg-id="motorsportv-tv",Моторспорт ТВ
 http://91.207.115.228:5000/c111
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports

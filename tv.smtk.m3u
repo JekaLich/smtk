@@ -124,7 +124,7 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-pravo",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru",FilmBox Russia
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDY2MDUwMjQsImlhdCI6MTcwNjUxODYyNCwiY2lkIjo2LCJ1aWQiOjczMjg2NjU4NCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.5MviZogLuZXxGO0T2BnUM3y-JQNTQEYw2XyyvRK7PE8&offset=10
+http://217.25.80.15/FilmBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
@@ -292,7 +292,7 @@ http://94.232.104.237:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zootv",Зоо ТВ
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id152_MSKSG-PVR-1--Zoo_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjc5MzI3OSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2MTg4NDc5LCJzZXNzaW9uX2lkIjoiMzA1MTgzODZlNTkxNzExZWQxNzVkNGZhMzhmZTQyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Tcql4tVI4Lo7S51vdSam5vCrUXOzAU9zSgc0SaRQfNc
 #EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
-https://mhd116.iptv2022.com/p/-Hqtm7eC9oY2LhuhqZ6IXQ,1706562012/streaming/minidei/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/duYu91kF6JtTN8Sgbfr0bQ,1706734813/streaming/minidei/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet
 http://135.181.115.81/russia/animal_planet/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="big-planet",Big Planet
@@ -302,7 +302,7 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id599_MSKSG-PVR-1--HDL/04/plst.m3u
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivi-aktivno",Живи Активно HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjc5MzI3OSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2MTg4NDc5LCJzZXNzaW9uX2lkIjoiMzA1MTgzODZlNTkxNzExZWQxNzVkNGZhMzhmZTQyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Tcql4tVI4Lo7S51vdSam5vCrUXOzAU9zSgc0SaRQfNc
 #EXTINF:-1 group-title="Познавательные" tvg-id="terra-ru",Terra
-http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDY2MDUwMjQsImlhdCI6MTcwNjUxODYyNCwiY2lkIjo2LCJ1aWQiOjczMjg2NjU4NCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.5MviZogLuZXxGO0T2BnUM3y-JQNTQEYw2XyyvRK7PE8&offset=10
+http://217.25.80.15/National_Geographic_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="sovsek",Top Secret
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id698_MSKSG-PVR-1--Top_secret/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjc5MzI3OSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2MTg4NDc5LCJzZXNzaW9uX2lkIjoiMzA1MTgzODZlNTkxNzExZWQxNzVkNGZhMzhmZTQyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Tcql4tVI4Lo7S51vdSam5vCrUXOzAU9zSgc0SaRQfNc
 #EXTINF:-1 group-title="Познавательные" tvg-id="glazami-turista",Глазами туриста
@@ -357,7 +357,7 @@ https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 https://stream-msk-02.ott.tricolor.tv:443/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjc5MzI3OSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2MTg4NDc5LCJzZXNzaW9uX2lkIjoiMzA1MTgzODZlNTkxNzExZWQxNzVkNGZhMzhmZTQyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Tcql4tVI4Lo7S51vdSam5vCrUXOzAU9zSgc0SaRQfNc
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd116.iptv2022.com/p/Bt7ZsyJzIvpQsuSxrWqPSA,1706562010/streaming/joycook/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/igVUwmu3QIVR7YrTKCj5Tw,1706734811/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id170_MSKSG-PVR-1--HD_Eda/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjc5MzI3OSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2MTg4NDc5LCJzZXNzaW9uX2lkIjoiMzA1MTgzODZlNTkxNzExZWQxNzVkNGZhMzhmZTQyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Tcql4tVI4Lo7S51vdSam5vCrUXOzAU9zSgc0SaRQfNc
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
@@ -564,14 +564,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="q-sport-int",Q Sport International
 http://176.222.190.11/btv/SWM/Qsport_international/Qsport_international.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola",Мир баскетбола
-http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDY2MDUwMjQsImlhdCI6MTcwNjUxODYyNCwiY2lkIjo2LCJ1aWQiOjczMjg2NjU4NCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.5MviZogLuZXxGO0T2BnUM3y-JQNTQEYw2XyyvRK7PE8&offset=10
+http://217.25.80.15/RTD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="motorsportv-tv",Моторспорт ТВ
 http://91.207.115.228:5000/c111
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox
-https://mhd116.iptv2022.com/p/R5Qs7oke1Yfj8WtyC28LkA,1706562014/streaming/fightbox/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/npxGc0fj-quXb_zpCilg9g,1706734815/streaming/fightbox/324/1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global",M-1 Global
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id524_MSKSG-PVR-1--M1_Global/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNjc5MzI3OSwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2MTg4NDc5LCJzZXNzaW9uX2lkIjoiMzA1MTgzODZlNTkxNzExZWQxNzVkNGZhMzhmZTQyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Tcql4tVI4Lo7S51vdSam5vCrUXOzAU9zSgc0SaRQfNc
 #EXTINF:-1 group-title="Спорт" tvg-id="box-tv",Бокс ТВ

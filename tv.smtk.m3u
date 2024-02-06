@@ -292,7 +292,7 @@ http://94.232.104.237:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zootv",Зоо ТВ
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id152_MSKSG-PVR-1--Zoo_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwNzMzODcxNSwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2NzMzOTE1LCJzZXNzaW9uX2lkIjoiMjc4NDMxNmI1MDU3M2JhY2YwZjlmMmU2NzZmOTdiOWMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GE1Lts-XV1-PMqy8Nrw1Ax9futtpAfJFd88L6BRzgK8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
-https://mhd116.iptv2022.com/p/sP73YIVZt3jauTZ3UfbZtQ,1706821212/streaming/minidei/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/JmlkRW6jPYsXoBQ79mgnrg,1707253213/streaming/minidei/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet
 http://135.181.115.81/russia/animal_planet/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="big-planet",Big Planet
@@ -357,7 +357,7 @@ https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 https://stream-msk-02.ott.tricolor.tv:443/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwNzMzODcxNSwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2NzMzOTE1LCJzZXNzaW9uX2lkIjoiMjc4NDMxNmI1MDU3M2JhY2YwZjlmMmU2NzZmOTdiOWMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GE1Lts-XV1-PMqy8Nrw1Ax9futtpAfJFd88L6BRzgK8
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd116.iptv2022.com/p/jBcHwEFIT2Mw4MS--US_wg,1706821210/streaming/joycook/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/014R7DeAgx7quGfN8wIWww,1707253210/streaming/joycook/324/1/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id170_MSKSG-PVR-1--HD_Eda/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwNzMzODcxNSwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzA2NzMzOTE1LCJzZXNzaW9uX2lkIjoiMjc4NDMxNmI1MDU3M2JhY2YwZjlmMmU2NzZmOTdiOWMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GE1Lts-XV1-PMqy8Nrw1Ax9futtpAfJFd88L6BRzgK8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
@@ -2142,9 +2142,9 @@ http://127.0.0.1:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75
 http://127.0.0.1:6878/ace/getstream?infohash=4750d185565938b65e8607133b7abdfeb4c7c8cd&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Insport HD
 http://127.0.0.1:6878/ace/getstream?id=b7e8c3bae5d98a4f842f334ff57604de9886f5c7&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 1 HD
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 1 HD PL
 http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 2 HD
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 2 HD PL
 http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eleven Sports 3 HD
 http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&.mp4
@@ -2190,6 +2190,8 @@ http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f&
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dazn 2 Bar HD
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,SKY SPORTS PREMIER LEAGUE UK
+http://127.0.0.1:6878/ace/getstream?infohash=b81a8e83ac842cf7e06b33c999002571ca1861b3
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://epg.it999.ru/img/4572.png",SKY SPORTS ARENA UK
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://epg.it999.ru/img/4577.png",SKY SPORTS CRICKET UK
@@ -2222,3 +2224,25 @@ http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45&
 http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Ziggo Sport Voetbal
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 1 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=1d08eb70e51005f6b52c07c69cbe7ad8b515d174
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 2 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=0b8dd14fae3fd9f6b4adcec6c26f53490c4c52a6
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 3 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=eb9ef8cfb7193b087f66c2072ad97d36cd266a9d
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 4 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=bf65ee0790793f4f773c39b6fde8fdbe3fbb9465
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 5 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=92d464a26a857d119c098eefac43bfb25e6e5f1a
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 6 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=c7da2bedd584836e3eab3199939e471e5dcae8fc
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 7 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=8c54e949d608a0f154a36ad0ff9a9a3397a40a4a
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 8 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=6d2d997aea908ffc6c61b43b5053f65c3b02f4df
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 9 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b4de9e
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 10 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
+http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11

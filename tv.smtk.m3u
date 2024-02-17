@@ -114,7 +114,7 @@ https://live-mirror-07.ott.tricolor.tv:443/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/p
 #EXTINF:-1 group-title="Кино" tvg-id="kinojam2",Kinojam 2
 https://live-mirror-12.ott.tricolor.tv:443/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwMjcxNjQyNCIsImV4cCI6MTcwNzk5ODUyOCwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA3MzkzNzI4LCJzZXNzaW9uX2lkIjoiMTE2YzcyZGQ5NTE5OTRhNTYwZmJhYWI1MmVlODc1YmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aM0p0usNyVEb9W5ETsy9CaEJoFbge_qv1_9nud531qY
 #EXTINF:-1 group-title="Кино" tvg-id="super",Суббота
-https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="feniks-plus-kino",Феникс+Кино
 http://5.153.190.251:8000/play/a06f
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial",НТВ Сериал
@@ -407,7 +407,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tnt-int-cis",ТНТ-International
 http://176.222.190.11/btv/SWM/TNT_HD_RUS/TNT_HD_RUS.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4 HD
-https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
@@ -448,7 +448,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="2na2",2x2 HD
-https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="yu",Ю
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
@@ -517,31 +517,31 @@ https://stream8.itv.uz/1263/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
 https://stream8.itv.uz/1264/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
-http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/222/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
-https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/210/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
-http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+http://91.207.115.228:5000/c103
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
-http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
+http://91.207.115.228:5000/c156
 #EXTINF:-1 group-title="Спорт" tvg-id="match-igra",Матч! Игра
-http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
+http://91.207.115.228:5000/c104
 #EXTINF:-1 group-title="Спорт" tvg-id="match-nash-sport",Матч! Страна
-https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+http://91.207.115.228:5000/c106
 #EXTINF:-1 group-title="Спорт" tvg-id="match-football1",Матч! Футбол 1
 http://91.207.115.228:5000/c114
 #EXTINF:-1 group-title="Спорт" tvg-id="match-football2",Матч! Футбол 2
 http://91.207.115.228:5000/c115
 #EXTINF:-1 group-title="Спорт" tvg-id="match-football3",Матч! Футбол 3
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+http://91.207.115.228:5000/c116
 #EXTINF:-1 group-title="Спорт" tvg-id="match-boets",Матч! Боец
-http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/112/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl",KHL
-http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
+https://stream8.itv.uz/1028/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd",KHL Prime
-http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
+http://185.37.150.40:8092/KHL_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
-http://212.22.76.51:83/Viasat_Sport/tracks-v1a1/mono.m3u8
+http://94.232.104.237:8000/play/063/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккейный
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTA0MDkwMjcxNjQyNCIsImV4cCI6MTcwNzk5ODUyOCwiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA3MzkzNzI4LCJzZXNzaW9uX2lkIjoiMTE2YzcyZGQ5NTE5OTRhNTYwZmJhYWI1MmVlODc1YmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aM0p0usNyVEb9W5ETsy9CaEJoFbge_qv1_9nud531qY
 #EXTINF:-1 group-title="Спорт" tvg-id="sportivny",Спортивный
@@ -557,7 +557,7 @@ https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="football-ru",Футбол
 http://91.207.115.228:5000/c102
 #EXTINF:-1 group-title="Спорт" tvg-id="konny-mir",Конный мир
-https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim",Русский экстрим
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8

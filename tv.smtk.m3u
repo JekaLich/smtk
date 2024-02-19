@@ -30,7 +30,7 @@ http://31.148.6.4:10059/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
 http://hls.k-telecom.org:8081/kt/142/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
-http://bal.krd.lifeyosso.fun:8880/bigteisti6/dorAmA_HD/video.m3u8
+http://94.232.104.237:8000/play/075/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
 http://hls.k-telecom.org:8081/kt/157/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит

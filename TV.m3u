@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
 
 #EXTINF:-1 group-title="Общероссийские" tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8

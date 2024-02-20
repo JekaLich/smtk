@@ -62,7 +62,7 @@ https://mhd116.iptv2022.com/p/Icm0fpI2BSskEqoYakWBpA,1708462804/streaming/tvc/32
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские" tvg-id="centralnoye-tv" tvg-logo="https://epgx.site/p/centralnoye-tv.png",Центральное телевидение
-https://mhd116.iptv2022.com/p/Gdbl1pxcfHeDWFcQFtMw9w,1708462813/streaming/centrtv/324/1/tracks-v4a1/mono.m3u8
+http://1MIR-IPTV.RU/hhh/view55.php?id=759&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Общероссийские" tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png",5 канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 group-title="Общероссийские" tvg-id="kultura" tvg-logo="https://epgx.site/p/kultura.png",Россия Культура
@@ -156,7 +156,7 @@ http://1MIR-IPTV.RU/hhh/view55.php?id=286&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://epgx.site/p/ostrosiuzhetnoe-hd.png",Остросюжетное HD
 http://1MIR-IPTV.RU/hhh/view55.php?id=292&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Кино" tvg-id="khit-hd" tvg-logo="https://epgx.site/p/khit.png",Хит HD
-https://mhd116.iptv2022.com/p/WupOqJJZOdmA8abnLa38eg,1708462808/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+http://1MIR-IPTV.RU/hhh/view55.php?id=1406&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit" tvg-logo="https://epgx.site/p/kinoxit.png",Кинохит
 http://hls.k-telecom.org:8081/kt/197/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit" tvg-logo="https://epgx.site/p/kinoxit.png",Кинохит HD

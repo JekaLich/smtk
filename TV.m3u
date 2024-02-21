@@ -212,7 +212,7 @@ http://hls.k-telecom.org:8081/kt/210/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="football-ru" tvg-logo="https://epgx.site/p/football-ru.png",Футбол
 http://hls.k-telecom.org:8081/kt/100/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="football-ru" tvg-logo="https://epgx.site/p/football-ru.png",Футбол HD
-http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDg1NDU3MDEsImlhdCI6MTcwODQ1OTMwMSwiY2lkIjo2LCJ1aWQiOjc0MjQyMjI4MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzgsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.sugwcqJbNuumtWXhcymslsKZWfEQ04UvJV5D6ctgCA4&offset=10
+http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDg1ODg5MTYsImlhdCI6MTcwODUwMjUxNiwiY2lkIjo2LCJ1aWQiOjc0MjU2Njc3NSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.uq9Bki73S22M0wSVKbAW4bvSx4NfCTmCT47BNTNGDyM&offset=10
 #EXTINF:-1 group-title="Спорт" tvg-id="match-football1" tvg-logo="https://epgx.site/p/match-football1.png",МАТЧ! Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
 https://e6.varcdn.top/m1/tracks-v1a1/mono.m3u8
@@ -259,7 +259,7 @@ http://1MIR-IPTV.RU/hhh/view55.php?id=1759&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="https://epgx.site/p/viasat-sport.png",Viju+ sport
 http://94.232.104.237:8000/play/063/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="https://epgx.site/p/viasat-sport.png",Viju+ sport HD
-http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI0IDg6MDE6NDMgUE0maGFzaF92YWx1ZT1tU0JjTmNmS2ZBVmJsTWhCenZOejJ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI0IDg6MDE6NTggQU0maGFzaF92YWx1ZT0zRmFSZzM2Sk5ac21ScjVnNHY3eTd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png",Eurosport 1
 http://5.153.190.251:8000/play/a06z
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png",Eurosport 1 HD

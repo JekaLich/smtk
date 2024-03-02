@@ -257,19 +257,19 @@ http://94.232.104.237:8000/play/087/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="drive",Драйв
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="texno-24",Техно 24
-http://1MIR-IPTV.RU/hhh/view55.php?id=87&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda",Живая природа
-http://1MIR-IPTV.RU/hhh/view55.php?id=1924&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+http://109.239.208.82:80/livenaturehd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="bobior",Бобер
-http://1MIR-IPTV.RU/hhh/view55.php?id=22&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+http://185.37.150.40:8092/Bober/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="poexali",Поехали!
-http://1MIR-IPTV.RU/hhh/view55.php?id=115&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+http://185.37.150.40:8092/Poehali/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="usadba",Усадьба
-http://212.22.76.51:83/Usadba/tracks-v1a1/mono.m3u8
+http://94.232.104.237:8000/play/121/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zoopark",Zooпарк
-http://212.22.76.51:82/zoopark/tracks-v1a1/mono.m3u8
+http://185.37.150.40:8092/Zoo/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="tonus-tv",Тонус ТВ
-http://1MIR-IPTV.RU/hhh/view55.php?id=59&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+https://mhd116.iptv2022.com/p/kReSnPZ-ZExzywD7WWNqBA,1709413210/streaming/tonus/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teatr",Театр
 http://146.158.0.56:80/Teatr/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="vremia",Время
@@ -284,41 +284,41 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" tvg-id="nano-hd",Nano HD
 http://1MIR-IPTV.RU/hhh/view55.php?id=1513&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Познавательные" tvg-id="365-dnej",365 дней ТВ
-http://1MIR-IPTV.RU/hhh/view55.php?id=36&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+http://94.232.104.237:8000/play/113/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="univer-tv",Univer TV
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-planeta",Живая Планета
 http://94.232.104.237:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zootv",Зоо ТВ
-http://1MIR-IPTV.RU/hhh/view55.php?id=272&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+https://mhd116.iptv2022.com/p/knxgECOd94BVSqcrXKjYbQ,1709413211/streaming/zoo/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
-https://mhd116.iptv2022.com/p/8VplyY8NrSt5fkN4PU9nXA,1709154012/streaming/minidei/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/H59ykvYdj8RzwDdw1KlZGQ,1709413212/streaming/minidei/324/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet
 http://135.181.115.81/russia/animal_planet/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="big-planet",Big Planet
 http://5.153.190.251:8000/play/a08g
 #EXTINF:-1 group-title="Познавательные" tvg-id="hd-life",HD Life
-http://1MIR-IPTV.RU/hhh/view55.php?id=1328&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivi-aktivno",Живи Активно HD
-http://1MIR-IPTV.RU/hhh/view55.php?id=2041&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="terra-ru",Terra
-http://217.25.80.15/National_Geographic_HD/tracks-v1a1/mono.m3u8
+http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDk0NTU1NjUsImlhdCI6MTcwOTM2OTE2NSwiY2lkIjo2LCJ1aWQiOjc0NTk2MjAwNSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.OKfNVtgjd6VWCpc7OtsaP2MqSFWH8wB7evOvZlUCieQ&offset=10
 #EXTINF:-1 group-title="Познавательные" tvg-id="sovsek",Top Secret
-http://1MIR-IPTV.RU/hhh/view55.php?id=1661&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+http://94.232.104.237:8000/play/107/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="glazami-turista",Глазами туриста
 http://88.85.172.243:7006/play/a011
 #EXTINF:-1 group-title="Познавательные" tvg-id="zagorodny-int",Загородный International
 http://1MIR-IPTV.RU/hhh/view55.php?id=189&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Познавательные" tvg-id="oruzhie",Оружие
-http://1MIR-IPTV.RU/hhh/view55.php?id=104&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv",Ocean TV
-http://212.22.76.51:83/Ocean_TV/tracks-v1a1/mono.m3u8
+http://185.37.150.40:8092/Okean/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
-http://212.22.76.51:83/DomashnieZhivotnie/tracks-v1a1/mono.m3u8
+http://109.239.208.82:80/animals/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
-http://1MIR-IPTV.RU/hhh/view55.php?id=20&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
-http://1MIR-IPTV.RU/hhh/view55.php?id=72&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+http://185.37.150.40:8092/Istoriya/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy",Моя стихия
 http://31.211.77.158:8000/play/a191/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия

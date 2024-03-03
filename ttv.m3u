@@ -456,8 +456,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&
 http://127.0.0.1:6878/ace/getstream?id=8599818264dd7fdc068ac0a9fac8447fd52ad270&.mp4
 #EXTINF:-1 group-title="Не сортировано",Россия РТР
 http://127.0.0.1:6878/ace/getstream?id=8410d13737ac090732898be21e6dd55dabb031fe&.mp4
-#EXTINF:-1 group-title="Не сортировано" tvg-id="dtx",DTX HD
-http://127.0.0.1:6878/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885&.mp4
 #EXTINF:-1 group-title="Не сортировано" tvg-id="discovery-science",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="Не сортировано" tvg-id="mir-vokrug",Мир Вокруг HD

@@ -9,11 +9,11 @@ http://62.231.191.65:8888/93
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
 http://62.231.191.65:8888/97
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDk4NDE5MDQsImlhdCI6MTcwOTc1NTUwNCwiY2lkIjo2LCJ1aWQiOjc0NzU1MDkxMSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.05Z44SMPK6_z8Ie98_N9BU-V7_RSbP7FCfIYW0Eo2W8&offset=10
+http://91.205.199.7:8000/play/a0qz
 #EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",Viju+ Premiere
 http://94.232.104.237:8000/play/076/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-comedy",Viju+ Comedy
-http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDk4NDE5MDQsImlhdCI6MTcwOTc1NTUwNCwiY2lkIjo2LCJ1aWQiOjc0NzU1MDkxMSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.05Z44SMPK6_z8Ie98_N9BU-V7_RSbP7FCfIYW0Eo2W8&offset=10
+http://91.205.199.7:8000/play/a0r0
 #EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
 http://176.113.48.221:8986/68
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000",Viju TV1000
@@ -124,7 +124,7 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-pravo",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru",FilmBox Russia
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDk4NDE5MDQsImlhdCI6MTcwOTc1NTUwNCwiY2lkIjo2LCJ1aWQiOjc0NzU1MDkxMSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.05Z44SMPK6_z8Ie98_N9BU-V7_RSbP7FCfIYW0Eo2W8&offset=10
+http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTAxMDA5OTksImlhdCI6MTcxMDAxNDU5OSwiY2lkIjo2LCJ1aWQiOjc0ODYxODU4MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.LEeM8LnGmSdmf6_wFQ76qHsUOBn8tnAJe751ZkTu0H4&offset=10
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
@@ -136,7 +136,7 @@ http://178.212.236.3:8802/play/404
 #EXTINF:-1 group-title="Кино" tvg-id="domkino",Дом кино
 http://185.37.150.40:8092/Dom_kino/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом кино Премиум HD
-http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDk4NDE5MDQsImlhdCI6MTcwOTc1NTUwNCwiY2lkIjo2LCJ1aWQiOjc0NzU1MDkxMSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.05Z44SMPK6_z8Ie98_N9BU-V7_RSbP7FCfIYW0Eo2W8&offset=10
+http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTAxMDA5OTksImlhdCI6MTcxMDAxNDU5OSwiY2lkIjo2LCJ1aWQiOjc0ODYxODU4MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.LEeM8LnGmSdmf6_wFQ76qHsUOBn8tnAJe751ZkTu0H4&offset=10
 #EXTINF:-1 group-title="Кино" tvg-id="russky-roman",Русский роман
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion",Русский иллюзион

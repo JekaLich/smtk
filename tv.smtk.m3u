@@ -91,9 +91,9 @@ https://streamer1.connectto.com/519/mono.m3u8
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
 https://bkm.beetv.kz/btv/live/hls/000004582.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fox",Fox HD
+#EXTINF:-1 group-title="Кино" tvg-id="fox",FX HD
 https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="foxlife",Fox Life
+#EXTINF:-1 group-title="Кино" tvg-id="foxlife",FX Life HD
 https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Comedy Central
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
@@ -510,7 +510,7 @@ https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus
 http://185.37.150.40:8092/Detskiy/playlist.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
-http://176.113.48.221:8986/63
+https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
 https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
@@ -541,11 +541,11 @@ https://e6.varcdn.top/m3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-boets",Матч! Боец
 https://jekalich.github.io/smtk/channels/match-boets.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl",KHL
-http://188.190.222.48:80/KHL/tracks-v1a1/mono.m3u8
+https://jekalich.github.io/smtk/channels/kxl.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd",KHL Prime
-http://185.37.150.40:8092/KHL_HD/index.m3u8
+https://jekalich.github.io/smtk/channels/kxl-hd.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
-http://94.232.104.237:8000/play/063/index.m3u8
+https://jekalich.github.io/smtk/channels/viasat-sport.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккейный
 https://jekalich.github.io/smtk/channels/xokkejny.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sportivny",Спортивный
@@ -565,15 +565,15 @@ http://cdn-01.bonus-tv.ru/konnyimir/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim",Русский экстрим
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="q-sport-int",Q Sport International
-http://176.222.190.11/btv/SWM/Qsport_international/Qsport_international.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="qsport-kz",Q Arena
+https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola",Мир баскетбола
-http://217.25.80.15/RTD/tracks-v1a1/mono.m3u8
+https://jekalich.github.io/smtk/channels/mir-basketbola.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox
-http://176.74.80.162:8099/FightBox/index.m3u8
+https://jekalich.github.io/smtk/channels/fightbox-hd.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global",M-1 Global
 https://jekalich.github.io/smtk/channels/m1global.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="box-tv",Бокс ТВ

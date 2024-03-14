@@ -46,13 +46,13 @@ http://91.205.199.3:80/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
 https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
-http://185.37.150.40:8092/Nashe_kino/playlist.m3u8
+https://jekalich.github.io/smtk/channels/rodnoe-kino.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
-http://185.37.150.40:8092/Komediya/playlist.m3u8
+https://jekalich.github.io/smtk/channels/kinokomedia.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
 https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
-http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
+https://jekalich.github.io/smtk/channels/Киносерия.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
 http://83.234.207.29:8003/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd",Блокбастер
@@ -90,13 +90,13 @@ https://streamer1.connectto.com/519/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="denpobedy",День Победы
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
-http://185.37.150.40:8092/Illyuzion/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004582.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fox",Fox HD
-http://141.95.55.143/CH403/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="foxlife",Fox Life
-http://91.205.199.3:80/FoxLife/tracks-v1a2/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Comedy Central
-https://livetv.mylifeisgood.net.ru/channels/paramount_comedy.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",.black
 http://88.85.172.243:7001/play/a02h
 #EXTINF:-1 group-title="Кино" tvg-id="sony-tv",.red

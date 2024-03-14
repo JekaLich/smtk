@@ -5,9 +5,9 @@ https://jekalich.github.io/smtk/channels/amedia1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
 https://jekalich.github.io/smtk/channels/amedia2.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
-http://62.231.191.65:8888/93
+http://91.205.199.7:8000/play/a0r1
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
-http://62.231.191.65:8888/97
+https://jekalich.github.io/smtk/channels/amedia-premium.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
 http://91.205.199.7:8000/play/a0qz
 #EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",Viju+ Premiere
@@ -542,7 +542,7 @@ https://jekalich.github.io/smtk/channels/kxl.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd",KHL Prime
 https://jekalich.github.io/smtk/channels/kxl-hd.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
-https://jekalich.github.io/smtk/channels/viasat-sport.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккейный
 https://jekalich.github.io/smtk/channels/xokkejny.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sportivny",Спортивный

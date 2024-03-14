@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
 
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
-http://185.37.150.40:8092/Amedia1/playlist.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/amedia1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
-http://185.37.150.40:8092/Amedia2/playlist.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/amedia2.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
 http://62.231.191.65:8888/93
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
@@ -11,7 +11,7 @@ http://62.231.191.65:8888/97
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
 http://91.205.199.7:8000/play/a0qz
 #EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",Viju+ Premiere
-http://94.232.104.237:8000/play/076/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/vip-premiere.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-comedy",Viju+ Comedy
 http://91.205.199.7:8000/play/a0r0
 #EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
@@ -32,11 +32,11 @@ http://176.113.48.221:8986/71
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 http://94.232.104.237:8000/play/075/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
-http://94.230.128.105:8080/KinoPremiera_HD/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/kinopremiera-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
-http://185.37.150.40:8092/kinohit/playlist.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/kinoxit.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-http://91.205.199.3:80/kinosemyahd/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/kinosemiya.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 http://185.37.150.40:8092/kino_plus/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
@@ -375,44 +375,44 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="rossia1",Россия 1 HD
-http://185.37.150.40:8092/Rossiya_HD/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="kultura",Россия К
-http://185.37.150.40:8092/Rus_kultura/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tvcentr",ТВ Центр
-http://185.37.150.40:8092/TVC/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ HD
-http://185.37.150.40:8092/RenTV_HD/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="sts",СТС HD
-http://185.37.150.40:8092/CTC_HD/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="sts",СТС
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="sts-love",СТС Love
-http://94.232.104.237:8000/play/058/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ HD
-http://94.232.104.237:8000/play/138/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tnt-int-cis",ТНТ-International
 https://bkm.beetv.kz/btv/live/hls/000007817.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4 HD
-http://185.37.150.40:8092/THT4/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4-international",ТНТ4 International
-http://176.222.190.11/btv/SWM/TNT4/TNT4.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="piatnica",Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда
@@ -420,9 +420,9 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda-plus",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tv3-ru",ТВ3 HD
-http://185.37.150.40:8092/tv_3/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rossia-24",Россия 24
-http://94.232.104.237:8000/play/007/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="izvestia",Известия
 https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rbk",РБК
@@ -436,7 +436,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="vmeste-rf",Вместе-РФ
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="domashny",Домашний HD
-http://185.37.150.40:8092/Domashni/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/domashnii
 #EXTINF:-1 group-title="Россия" tvg-id="8kanal-ru",8 канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="8kanal-eu",8 канал International
@@ -457,11 +457,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 
 #EXTINF:-1 group-title="Новости" tvg-id="rtvi",RTVi
-http://185.37.150.40:8092/rtvi/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="dozhd",Дождь
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Новости" tvg-id="euronews",Euronews
-http://185.37.150.40:8092/Euronews/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="cctv-ru",CGTN Русский
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="unian-tv",Униан ТВ
@@ -520,7 +520,7 @@ https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
-http://185.37.150.40:8092/Nash_futbol_HD/playlist.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/match-premier.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета

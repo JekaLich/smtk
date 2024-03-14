@@ -1,1 +1,4 @@
-https://mhd116.iptv2022.com/p/1jvt_ClE2LJHWXz_DHsokA,1710450010/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1
+https://mhd116.iptv2022.com/p/1jvt_ClE2LJHWXz_DHsokA,1710450010/streaming/dikiy/324/1/index.m3u8

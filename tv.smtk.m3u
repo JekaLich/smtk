@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
 
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
-https://jekalich.github.io/smtk/channels/amedia1
+https://jekalich.github.io/smtk/channels/amedia1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
-https://jekalich.github.io/smtk/channels/amedia2
+https://jekalich.github.io/smtk/channels/amedia2.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
 http://62.231.191.65:8888/93
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
@@ -11,7 +11,7 @@ http://62.231.191.65:8888/97
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
 http://91.205.199.7:8000/play/a0qz
 #EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",Viju+ Premiere
-https://jekalich.github.io/smtk/channels/vip-premiere
+https://jekalich.github.io/smtk/channels/vip-premiere.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-comedy",Viju+ Comedy
 http://91.205.199.7:8000/play/a0r0
 #EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
@@ -20,7 +20,7 @@ http://176.113.48.221:8986/68
 https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",Viju TV1000 Action
 https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino,Viju TV1000 Русское
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino",Viju TV1000 Русское
 https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
@@ -32,11 +32,11 @@ http://176.113.48.221:8986/71
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
-https://jekalich.github.io/smtk/channels/kinopremiera-hd
+https://jekalich.github.io/smtk/channels/kinopremiera-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
-https://jekalich.github.io/smtk/channels/kinoxit
+https://jekalich.github.io/smtk/channels/kinoxit.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
-https://jekalich.github.io/smtk/channels/kinosemiya
+https://jekalich.github.io/smtk/channels/kinosemiya.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
 http://176.113.48.221:8986/67
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
@@ -56,21 +56,21 @@ http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
 http://83.234.207.29:8003/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd",Блокбастер
-https://jekalich.github.io/smtk/channels/blokbaster-hd
+https://jekalich.github.io/smtk/channels/blokbaster-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kamedi",Камеди
-https://jekalich.github.io/smtk/channels/kamedi
+https://jekalich.github.io/smtk/channels/kamedi.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz-hd",Кинопоказ
-https://jekalich.github.io/smtk/channels/kinopokaz-hd
+https://jekalich.github.io/smtk/channels/kinopokaz-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nash-kinopokaz-hd",Наш Кинопоказ
-https://jekalich.github.io/smtk/channels/nash-kinopokaz-hd
+https://jekalich.github.io/smtk/channels/nash-kinopokaz-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-muzhskoe-hd",Наше Мужское
-https://jekalich.github.io/smtk/channels/nashe-muzhskoe-hd
+https://jekalich.github.io/smtk/channels/nashe-muzhskoe-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="premialnoe-hd",Премиальное
 http://1MIR-IPTV.RU/hhh/view55.php?id=286&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Кино" tvg-id="pro-lyubov",Про Любовь
-https://jekalich.github.io/smtk/channels/pro-lyubov
+https://jekalich.github.io/smtk/channels/pro-lyubov.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="khit-hd",Хит
-https://jekalich.github.io/smtk/channels/khit-hd
+https://jekalich.github.io/smtk/channels/khit-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dushevnoe-hd",Душевное
 http://1MIR-IPTV.RU/hhh/view55.php?id=331&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe-hd",Остросюжетное
@@ -124,7 +124,7 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-pravo",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru",FilmBox Russia
-https://jekalich.github.io/smtk/channels/filmbox-ru
+https://jekalich.github.io/smtk/channels/filmbox-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
@@ -181,7 +181,7 @@ http://88.135.128.20:7272/szWljUvHlTAKXVa
 #EXTINF:-1 group-title="Кино" tvg-id="star-family",Star Family
 http://88.135.128.20:7272/MTsnTXg1kReNwSf
 #EXTINF:-1 group-title="Кино" tvg-id="bolt-ru",Bolt
-https://jekalich.github.io/smtk/channels/bolt-ru
+https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood",Hollywood
 http://212.22.76.51:82/Hollywood/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood-hd",Hollywood HD
@@ -213,11 +213,11 @@ https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
 https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viju Explore
-https://jekalich.github.io/smtk/channels/viasat-explore
+https://jekalich.github.io/smtk/channels/viasat-explore.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viju History
-https://jekalich.github.io/smtk/channels/viasat-history
+https://jekalich.github.io/smtk/channels/viasat-history.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature",Viju Nature
-https://jekalich.github.io/smtk/channels/viasat-nature
+https://jekalich.github.io/smtk/channels/viasat-nature.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viju+ Planet
 http://91.205.199.7:8000/play/a0r8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
@@ -239,9 +239,9 @@ http://94.232.104.237:8000/play/072/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxota-i-rybalka",Охота и рыбалка
 http://109.239.208.82:80/ohota/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxotnik-i-rybolov",Охотник и рыболов
-https://jekalich.github.io/smtk/channels/oxotnik-i-rybolov
+https://jekalich.github.io/smtk/channels/oxotnik-i-rybolov.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikiy",Дикий
-https://jekalich.github.io/smtk/channels/dikiy
+https://jekalich.github.io/smtk/channels/dikiy.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-oxota-hd",Дикая охота HD
 http://88.85.172.243:7012/play/a027
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
@@ -269,7 +269,7 @@ http://94.232.104.237:8000/play/121/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zoopark",Zooпарк
 http://185.37.150.40:8092/Zoo/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="tonus-tv",Тонус ТВ
-https://jekalich.github.io/smtk/channels/tonus-tv
+https://jekalich.github.io/smtk/channels/tonus-tv.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teatr",Театр
 http://146.158.0.56:80/Teatr/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="vremia",Время
@@ -290,9 +290,9 @@ https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-planeta",Живая Планета
 http://94.232.104.237:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zootv",Зоо ТВ
-https://jekalich.github.io/smtk/channels/zootv
+https://jekalich.github.io/smtk/channels/zootv.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
-https://jekalich.github.io/smtk/channels/ministerstvo-idey
+https://jekalich.github.io/smtk/channels/ministerstvo-idey.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet
 http://135.181.115.81/russia/animal_planet/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="big-planet",Big Planet
@@ -324,7 +324,7 @@ http://31.211.77.158:8000/play/a191/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
 http://94.232.104.237:8000/play/080/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="bolshaya-azia",Большая Азия
-https://jekalich.github.io/smtk/channels/bolshaya-azia
+https://jekalich.github.io/smtk/channels/bolshaya-azia.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtd-ru",RT Д Русский
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd",RTG HD
@@ -335,9 +335,9 @@ https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
 #EXTINF:-1 group-title="Юмор" tvg-id="sarafan",Сарафан
-https://jekalich.github.io/smtk/channels/sarafan
+https://jekalich.github.io/smtk/channels/sarafan.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="gags-network",Gags Network
-https://jekalich.github.io/smtk/channels/gags-network
+https://jekalich.github.io/smtk/channels/gags-network.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="anekdottv",Анекдот ТВ
 http://178.124.182.25:7009/play/a00l
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
@@ -357,11 +357,11 @@ https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 http://176.113.48.221:8986/62
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://jekalich.github.io/smtk/channels/foodman-club
+https://jekalich.github.io/smtk/channels/foodman-club.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
-https://jekalich.github.io/smtk/channels/eda-hd
+https://jekalich.github.io/smtk/channels/eda-hd.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
-https://jekalich.github.io/smtk/channels/eda
+https://jekalich.github.io/smtk/channels/eda.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zdorovoe-tv",Здоровое ТВ
 http://109.197.192.121:8080/zdorovoe/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="psixologia-21",Психология 21
@@ -520,15 +520,15 @@ https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
-https://jekalich.github.io/smtk/channels/match-premier
+https://jekalich.github.io/smtk/channels/match-premier.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-igra",Матч! Игра
-https://jekalich.github.io/smtk/channels/match-igra
+https://jekalich.github.io/smtk/channels/match-igra.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-nash-sport",Матч! Страна
-https://jekalich.github.io/smtk/channels/match-nash-sport
+https://jekalich.github.io/smtk/channels/match-nash-sport.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-football1",Матч! Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
 https://e6.varcdn.top/m1/tracks-v1a1/mono.m3u8
@@ -539,7 +539,7 @@ https://e6.varcdn.top/m2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
 https://e6.varcdn.top/m3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-boets",Матч! Боец
-https://jekalich.github.io/smtk/channels/match-boets
+https://jekalich.github.io/smtk/channels/match-boets.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl",KHL
 http://188.190.222.48:80/KHL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd",KHL Prime
@@ -547,11 +547,11 @@ http://185.37.150.40:8092/KHL_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
 http://94.232.104.237:8000/play/063/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккейный
-https://jekalich.github.io/smtk/channels/xokkejny
+https://jekalich.github.io/smtk/channels/xokkejny.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sportivny",Спортивный
-https://jekalich.github.io/smtk/channels/sportivny
+https://jekalich.github.io/smtk/channels/sportivny.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="footbolny",Футбольный
-https://jekalich.github.io/smtk/channels/footbolny
+https://jekalich.github.io/smtk/channels/footbolny.m3u8
 #EXTINF:-1 group-title="Спорт",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="start",Старт
@@ -575,7 +575,7 @@ http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox
 http://176.74.80.162:8099/FightBox/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global",M-1 Global
-https://jekalich.github.io/smtk/channels/m1global
+https://jekalich.github.io/smtk/channels/m1global.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="box-tv",Бокс ТВ
 https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
 

@@ -530,14 +530,11 @@ https://jekalich.github.io/smtk/channels/match-igra.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-nash-sport",Матч! Страна
 https://jekalich.github.io/smtk/channels/match-nash-sport.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-football1",Матч! Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/m1/tracks-v1a1/mono.m3u8
+https://jekalich.github.io/smtk/channels/match-football1.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-football2",Матч! Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/m2/index.m3u8
+https://jekalich.github.io/smtk/channels/match-football2.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-football3",Матч! Футбол 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e6.varcdn.top/m3/tracks-v1a1/mono.m3u8
+https://jekalich.github.io/smtk/channels/match-football3.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-boets",Матч! Боец
 https://jekalich.github.io/smtk/channels/match-boets.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl",KHL

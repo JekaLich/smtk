@@ -56,21 +56,21 @@ http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
 http://83.234.207.29:8003/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd",Блокбастер
-https://mhd116.iptv2022.com/p/kccheIK8RPLKCt0mRTXZ3A,1710277208/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/blokbaster-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kamedi",Камеди
-https://mhd116.iptv2022.com/p/jm7RG9Ro9vxtwaYCJ80Syw,1710277208/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/kamedi.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz-hd",Кинопоказ
-https://mhd116.iptv2022.com/p/_3hDVebqshVX9JFfjR21wg,1710277209/streaming/kinopokaz/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/kinopokaz-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nash-kinopokaz-hd",Наш Кинопоказ
-https://mhd116.iptv2022.com/p/2fh8Fz-wPNMtpnG_PRXzcA,1710277208/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/nash-kinopokaz-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-muzhskoe-hd",Наше Мужское
-https://mhd116.iptv2022.com/p/Qj-k0PhF3a0pMrrDmAbUHQ,1710277208/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/nashe-muzhskoe-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="premialnoe-hd",Премиальное
 http://1MIR-IPTV.RU/hhh/view55.php?id=286&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Кино" tvg-id="pro-lyubov",Про Любовь
-https://mhd116.iptv2022.com/p/Lxkpg1UsWMo4YurC8MsiTw,1710277208/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/pro-lyubov.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="khit-hd",Хит
-https://mhd116.iptv2022.com/p/Ges8MhUeek0_qobChnybnA,1710277208/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/khit-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dushevnoe-hd",Душевное
 http://1MIR-IPTV.RU/hhh/view55.php?id=331&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe-hd",Остросюжетное
@@ -124,7 +124,7 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-pravo",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru",FilmBox Russia
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTAzMTY4MDQsImlhdCI6MTcxMDIzMDQwNCwiY2lkIjo2LCJ1aWQiOjc0OTUwMTU5NCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.SypzGag2t88DCy2c5JiiLQAJhRX2DycXB1OHiGY_t9c&offset=10
+https://github.com/JekaLich/smtk/raw/main/channels/filmbox-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
@@ -165,7 +165,7 @@ https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kineko",Кинеко
 http://176.113.48.221:8986/115
 #EXTINF:-1 group-title="Кино" tvg-id="sapfir",Сапфир
-https://mhd116.iptv2022.com/p/JWhi7BZ5uBkyqUDBl5SFJQ,1710277208/streaming/sapfir/324/1/tracks-v5a1/mono.m3u8
+https://raw.githubusercontent.com/JekaLich/smtk/main/channels/sapfir.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tvxxi",TV XXI
 http://185.37.150.40:8092/tv21/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv",Индия
@@ -181,7 +181,7 @@ http://88.135.128.20:7272/szWljUvHlTAKXVa
 #EXTINF:-1 group-title="Кино" tvg-id="star-family",Star Family
 http://88.135.128.20:7272/MTsnTXg1kReNwSf
 #EXTINF:-1 group-title="Кино" tvg-id="bolt-ru",Bolt
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTAzMTY4MDQsImlhdCI6MTcxMDIzMDQwNCwiY2lkIjo2LCJ1aWQiOjc0OTUwMTU5NCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.SypzGag2t88DCy2c5JiiLQAJhRX2DycXB1OHiGY_t9c&offset=10
+https://github.com/JekaLich/smtk/raw/main/channels/bolt-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood",Hollywood
 http://212.22.76.51:82/Hollywood/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood-hd",Hollywood HD
@@ -239,9 +239,9 @@ http://94.232.104.237:8000/play/072/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxota-i-rybalka",Охота и рыбалка
 http://109.239.208.82:80/ohota/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxotnik-i-rybolov",Охотник и рыболов
-https://mhd116.iptv2022.com/p/Xa_FRpQ3PTVxaRTV_Bh9iA,1710277210/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/oxotnik-i-rybolov.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikiy",Дикий
-https://mhd116.iptv2022.com/p/Ay30V3HWbCt4XRuLnCkjOA,1710277210/streaming/dikiy/324/1/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/dikiy.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-oxota-hd",Дикая охота HD
 http://88.85.172.243:7012/play/a027
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
@@ -269,7 +269,7 @@ http://94.232.104.237:8000/play/121/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zoopark",Zooпарк
 http://185.37.150.40:8092/Zoo/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="tonus-tv",Тонус ТВ
-https://mhd116.iptv2022.com/p/PngZR5Jm-PNp3oHE1uZhGA,1710277211/streaming/tonus/324/1/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/tonus-tv.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teatr",Театр
 http://146.158.0.56:80/Teatr/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="vremia",Время
@@ -290,9 +290,9 @@ https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-planeta",Живая Планета
 http://94.232.104.237:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zootv",Зоо ТВ
-https://mhd116.iptv2022.com/p/baTf_oex60fOfjD8tqaGpQ,1710277212/streaming/zoo/324/1/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/zootv.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
-https://mhd116.iptv2022.com/p/v4HVFMxqOyakQO2d_XSTJg,1710277212/streaming/minidei/324/1/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/ministerstvo-idey.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet
 http://135.181.115.81/russia/animal_planet/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="big-planet",Big Planet
@@ -324,7 +324,7 @@ http://31.211.77.158:8000/play/a191/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
 http://94.232.104.237:8000/play/080/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="bolshaya-azia",Большая Азия
-https://mhd116.iptv2022.com/p/wDZPVJqWKO2PvtrzGCyv3Q,1710277212/streaming/bigasia/324/1/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/bolshaya-azia.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtd-ru",RT Д Русский
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd",RTG HD
@@ -337,7 +337,7 @@ https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="sarafan",Сарафан
 http://185.37.150.40:8092/sarafan/playlist.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="gags-network",Gags Network
-https://mhd116.iptv2022.com/p/K4cPJznxtiMaNZEdW_xlhg,1710277213/streaming/gagsnetwork/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/gags-network.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="anekdottv",Анекдот ТВ
 http://178.124.182.25:7009/play/a00l
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
@@ -357,11 +357,11 @@ https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 http://185.37.150.40:8092/Telekafe/playlist.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
-https://mhd116.iptv2022.com/p/IYsLyap3lLE6cZTzpnmsgA,1710277210/streaming/joycook/324/1/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/foodman-club.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
-https://mhd116.iptv2022.com/p/3SYg4IxmPL3BYFyfVF8NKw,1710277210/streaming/edahd/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/eda-hd.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda",Еда
-https://mhd116.iptv2022.com/p/BL9OLvy3xMC23SDIVDI-1Q,1710277210/streaming/eda/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/eda.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zdorovoe-tv",Здоровое ТВ
 http://109.197.192.121:8080/zdorovoe/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="psixologia-21",Психология 21
@@ -547,11 +547,11 @@ http://185.37.150.40:8092/KHL_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
 http://94.232.104.237:8000/play/063/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккейный
-https://mhd116.iptv2022.com/p/OUTg7jjHcYTGp6LcR5he1Q,1710277214/streaming/hokkeyniy/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/xokkejny.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sportivny",Спортивный
-https://mhd116.iptv2022.com/p/fZZcBwCDV2cDeDVJvLtuyg,1710277214/streaming/sportivniyhd/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/sportivny.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="footbolny",Футбольный
-https://mhd116.iptv2022.com/p/swF_7B0izDRNkZ8GPiyfwg,1710277214/streaming/footbolniyhd/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/footbolny.m3u8
 #EXTINF:-1 group-title="Спорт",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="start",Старт
@@ -570,14 +570,14 @@ http://176.222.190.11/btv/SWM/Qsport_international/Qsport_international.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola",Мир баскетбола
 http://217.25.80.15/RTD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="motorsportv-tv",Моторспорт ТВ
-https://mhd116.iptv2022.com/p/nPi2PkUdT64Bwudy4inkgA,1710277214/streaming/motosport/324/1/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/motorsportv-tv.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox
 http://176.74.80.162:8099/FightBox/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="m1global",M-1 Global
-https://mhd116.iptv2022.com/p/gJbrn8dlEusLOAApgAFWVw,1710277214/streaming/m1global/324/1/tracks-v5a1/mono.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/m1global.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="box-tv",Бокс ТВ
 https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
 

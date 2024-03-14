@@ -17,11 +17,11 @@ http://91.205.199.7:8000/play/a0r0
 #EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
 http://176.113.48.221:8986/68
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000",Viju TV1000
-http://94.232.104.237:8000/play/039/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",Viju TV1000 Action
-http://94.232.104.237:8000/play/040/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino,Viju TV1000 Русское
-http://94.232.104.237:8000/play/041/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
@@ -30,7 +30,7 @@ http://31.148.6.4:10059/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
 http://176.113.48.221:8986/71
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
-http://94.232.104.237:8000/play/075/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
 https://github.com/JekaLich/smtk/raw/main/channels/kinopremiera-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit",Кинохит
@@ -38,9 +38,9 @@ https://github.com/JekaLich/smtk/raw/main/channels/kinoxit.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
 https://github.com/JekaLich/smtk/raw/main/channels/kinosemiya.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
-http://185.37.150.40:8092/kino_plus/playlist.m3u8
+http://176.113.48.221:8986/67
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
-http://185.37.150.40:8092/Muj_kino/playlist.m3u8
+http://176.113.48.221:8986/136
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
 http://91.205.199.3:80/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
@@ -203,23 +203,23 @@ http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-eu",Investigation Discovery
-http://94.232.104.237:8000/play/109/index.m3u8
+http://83.234.207.29:8008/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="history-ru",History HD
 http://88.135.128.20:7272/PK41HvJyzlbR8XZ
 #EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2 HD
-http://176.222.190.11/btv/SWM/History2HD/History2HD.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
 https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
-http://178.124.182.25:7011/play/a00f_a11
+https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viju Explore
-http://94.232.104.237:8000/play/077/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/viasat-explore.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viju History
-http://94.232.104.237:8000/play/078/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/viasat-history.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature",Viju Nature
-http://94.232.104.237:8000/play/079/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/viasat-nature.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viju+ Planet
-http://5.153.190.251:8000/play/a01j
+http://91.205.199.7:8000/play/a0r8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
 http://212.22.76.51:83/Travel_Adventure/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
@@ -231,7 +231,7 @@ https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd",Приключения HD
 https://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="eureka-hd",Первый Космический HD
-http://185.37.150.40:8092/EurekaHD/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="tochka-tv",Точка ТВ
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя планета
@@ -512,7 +512,7 @@ http://185.37.150.40:8092/Detskiy/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
 http://176.113.48.221:8986/63
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
-http://94.232.104.237:8000/play/062/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
@@ -526,9 +526,9 @@ http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-igra",Матч! Игра
-http://94.232.104.237:8000/play/108/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/match-igra.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-nash-sport",Матч! Страна
-http://94.232.104.237:8000/play/059/index.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/match-nash-sport.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-football1",Матч! Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
 https://e6.varcdn.top/m1/tracks-v1a1/mono.m3u8
@@ -539,7 +539,7 @@ https://e6.varcdn.top/m2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
 https://e6.varcdn.top/m3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-boets",Матч! Боец
-http://185.37.150.40:8092/Boec/playlist.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/match-boets.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl",KHL
 http://188.190.222.48:80/KHL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd",KHL Prime

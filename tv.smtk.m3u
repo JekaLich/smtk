@@ -312,13 +312,13 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oruzhie",Оружие
 http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv",Ocean TV
-http://185.37.150.40:8092/Okean/playlist.m3u8
+http://91.205.199.7:8000/play/a0qu
 #EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
 http://109.239.208.82:80/animals/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
 https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
-http://185.37.150.40:8092/Istoriya/playlist.m3u8
+http://83.234.207.29:8010/play/a024/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy",Моя стихия
 http://31.211.77.158:8000/play/a191/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
@@ -335,13 +335,13 @@ https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
 #EXTINF:-1 group-title="Юмор" tvg-id="sarafan",Сарафан
-http://185.37.150.40:8092/sarafan/playlist.m3u8
+https://github.com/JekaLich/smtk/raw/main/channels/sarafan.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="gags-network",Gags Network
 https://github.com/JekaLich/smtk/raw/main/channels/gags-network.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="anekdottv",Анекдот ТВ
 http://178.124.182.25:7009/play/a00l
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
-http://185.37.150.40:8092/kvn/playlist.m3u8
+http://91.205.199.7:8000/play/a0n8
 #EXTINF:-1 group-title="Юмор" tvg-id="perec-int",Перец
 http://178.124.182.25:7004/play/a00c
 
@@ -355,7 +355,7 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="kuxnia-tv",Кухня ТВ
 https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
-http://185.37.150.40:8092/Telekafe/playlist.m3u8
+http://176.113.48.221:8986/62
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
 https://github.com/JekaLich/smtk/raw/main/channels/foodman-club.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="eda-hd",FoodTime
@@ -367,7 +367,7 @@ http://109.197.192.121:8080/zdorovoe/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="psixologia-21",Психология 21
 http://212.22.76.51:82/psihologia21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zhivi",Живи
-http://185.37.150.40:8092/jivi/playlist.m3u8
+http://176.113.48.221:8986/55
 
 #EXTINF:-1 group-title="Россия" tvg-id="pervy",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd

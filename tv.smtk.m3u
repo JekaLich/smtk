@@ -587,9 +587,9 @@ http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd",MTV Live HD
-http://93.155.227.38:555/m3u8/mtvlivehd.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000447.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="vh1-european",MTV 00s
-http://89.254.128.5:22280/mtv_00/video.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="tnt-music",ТНТ Music HD
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="muztv",Муз ТВ

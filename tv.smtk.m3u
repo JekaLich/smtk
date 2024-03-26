@@ -5,17 +5,17 @@ https://jekalich.github.io/smtk/channels/amedia1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
 https://jekalich.github.io/smtk/channels/amedia2.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
-http://91.205.199.7:8000/play/a0r1
+https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
 https://jekalich.github.io/smtk/channels/amedia-premium.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
-http://91.205.199.7:8000/play/a0qz
+https://jekalich.github.io/smtk/channels/vip-megahit.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",Viju+ Premiere
 https://jekalich.github.io/smtk/channels/vip-premiere.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-comedy",Viju+ Comedy
-http://91.205.199.7:8000/play/a0r0
+https://jekalich.github.io/smtk/channels/vip-comedy.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
-http://176.113.48.221:8986/68
+https://jekalich.github.io/smtk/channels/vip-serial.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000",Viju TV1000
 https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",Viju TV1000 Action
@@ -219,7 +219,7 @@ https://jekalich.github.io/smtk/channels/viasat-history.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature",Viju Nature
 https://jekalich.github.io/smtk/channels/viasat-nature.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viju+ Planet
-http://91.205.199.7:8000/play/a0r8
+https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
 http://212.22.76.51:83/Travel_Adventure/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
@@ -312,7 +312,7 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oruzhie",Оружие
 http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv",Ocean TV
-http://91.205.199.7:8000/play/a0qu
+https://jekalich.github.io/smtk/channels/ocean-tv.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
 http://109.239.208.82:80/animals/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
@@ -339,11 +339,11 @@ https://jekalich.github.io/smtk/channels/sarafan.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="gags-network",Gags Network
 https://jekalich.github.io/smtk/channels/gags-network.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="anekdottv",Анекдот ТВ
-http://178.124.182.25:7009/play/a00l
+https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
-http://91.205.199.7:8000/play/a0n8
+http://83.234.207.29:8009/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="perec-int",Перец
-http://178.124.182.25:7004/play/a00c
+https://bkm.beetv.kz/btv/live/hls/000001248.m3u8
 
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37

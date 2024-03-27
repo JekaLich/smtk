@@ -26,7 +26,7 @@ https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
-http://31.148.6.4:10059/index.m3u8
+http://83.234.207.29:8013/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
 http://176.113.48.221:8986/71
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
@@ -104,7 +104,7 @@ http://185.37.150.40:8092/Sony_enter/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
 http://185.37.150.40:8092/Axn_skyfi/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b",Plan B
-http://31.148.6.4:10236/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000007625.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
 http://188.190.222.48:80/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nst",НСТ

@@ -303,7 +303,7 @@
 
 #EXTINF:-1 group-title="Музыкальные",One BY HD
 
-#EXTINF:-1 group-title="Музыкальные",One by Russia HD
+#EXTINF:-1 group-title="Музыкальные" tvg-id="onemuz" tvg-logo="https://epgx.site/p/1muz.png",One by Russia HD
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="clubbing-tv" tvg-logo="https://epgx.site/p/clubbing-tv.png",Clubbing HD
 

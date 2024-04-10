@@ -473,41 +473,42 @@ https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=944500988957657842203
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-ru",Nickelodeon
-http://212.22.76.51:82/nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="nick-jr" audio-track="ru",Nick Jr
-http://141.95.55.143/CH379/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000036.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="nick-jr",Nick Jr
+https://bkm.beetv.kz/btv/live/hls/000000449.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="nicktoons",Nicktoons
-http://89.254.128.5:22280/nicktoons/video.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004365.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="Карусель",Карусель
-http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ryzhy",Рыжий
-http://94.230.128.105:8080/Ryzhij/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001445.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="smaylik-tv",Смайлик ТВ
 https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="tiji",Tiji
-https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000174.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="mult",Мульт
-http://185.37.150.40:8092/TLUMHD/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001207.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ani",Ani
-http://212.22.76.51:82/ani/tracks-v1a1/mono.m3u8
+https://jekalich.github.io/smtk/channels/ani.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="cartoon-network",Cartoon Network
-http://89.254.128.5:22280/cartoon_network/video.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="detsky-mir",Детский мир
-http://212.22.76.51:82/detskij_mir/tracks-v1a1/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000049.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd",СТС Kids
-http://83.234.207.29:8008/play/a015/index.m3u8
+https://jekalich.github.io/smtk/channels/sts-kids-hd.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="gulli-girl",Gulli Girl
-https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000284.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimania",Мультиландия
-https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+https://jekalich.github.io/smtk/channels/multimania.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimuzyka",Мульт и музыка
 http://91.142.158.107:8092/play/24/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="boomerang",Cartoonito
-http://135.181.115.81/russia/boomerang/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ginger-hd",Капитан Фантастика
-https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001474.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="detsky",Уникум
-http://185.37.150.40:8092/Detskiy/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000048.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
 https://bkm.beetv.kz/btv/live/hls/000002478.m3u8

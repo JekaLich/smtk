@@ -66,25 +66,25 @@ https://jekalich.github.io/smtk/channels/nash-kinopokaz-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-muzhskoe-hd",Наше Мужское
 https://jekalich.github.io/smtk/channels/nashe-muzhskoe-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="premialnoe-hd",Премиальное
-http://46.17.46.31:2021/channel/n381462cc/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://46.17.46.31:2021/channel/n381462cc/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Кино" tvg-id="pro-lyubov",Про Любовь
 https://jekalich.github.io/smtk/channels/pro-lyubov.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="khit-hd",Хит
 https://jekalich.github.io/smtk/channels/khit-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dushevnoe-hd",Душевное
-http://46.17.46.31:2021/channel/n23e1be1d/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://46.17.46.31:2021/channel/n23e1be1d/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe-hd",Остросюжетное
-http://46.17.46.31:2021/channel/790108dc/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://46.17.46.31:2021/channel/790108dc/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Кино" tvg-id="romantichnoe-hd",Романтичное
-http://46.17.46.31:2021/channel/n5fd2cd7/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://46.17.46.31:2021/channel/n5fd2cd7/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-lubimoe-hd",Любимое
-http://46.17.46.31:2021/channel/55c93d7e/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://46.17.46.31:2021/channel/55c93d7e/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Кино" tvg-id="nashehd",Наше
-http://46.17.46.31:2021/channel/n78b4a99f/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://46.17.46.31:2021/channel/n78b4a99f/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Кино" tvg-id="shokiruyushchee-hd",Шокирующее
-http://46.17.46.31:2021/channel/n4773cab1/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://46.17.46.31:2021/channel/n4773cab1/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Кино" tvg-id="kriminalnoe-hd",Криминальное
-http://46.17.46.31:2021/channel/7cbfee5f/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://46.17.46.31:2021/channel/7cbfee5f/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd",Комедийное
 https://streamer1.connectto.com/519/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="denpobedy",День Победы
@@ -110,9 +110,9 @@ http://188.190.222.48:80/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nst",НСТ
 http://91.142.158.107:8092/play/29/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinojam1",Kinojam 1
-http://46.17.46.31:2021/channel/1469cc2d/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://46.17.46.31:2021/channel/1469cc2d/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Кино" tvg-id="kinojam2",Kinojam 2
-http://46.17.46.31:2021/channel/1469cc2e/index.m3u8?q=b4e2df8fbaeb6e3cfe4d32af700e6527
+http://46.17.46.31:2021/channel/1469cc2e/index.m3u8?q=ab97a53c9e9996b0a558e8a6c612c4f8
 #EXTINF:-1 group-title="Кино" tvg-id="super",Суббота
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="feniks-plus-kino",Феникс+Кино

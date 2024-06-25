@@ -134,9 +134,9 @@ http://62.231.191.65:8888/1
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
 http://46.8.29.51:2020/channel/2bac7f96/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Кино" tvg-id="domkino",Дом кино
-http://185.37.150.40:8092/Dom_kino/playlist.m3u8
+http://188.113.190.15/119/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом кино Премиум HD
-http://83.234.207.29:8002/play/a003/index.m3u8
+http://188.113.190.15/91/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russky-roman",Русский роман
 http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion",Русский иллюзион

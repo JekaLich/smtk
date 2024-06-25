@@ -44,7 +44,7 @@ http://188.113.190.15/316/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
 http://91.205.199.3:80/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
-https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+http://188.113.190.15/337/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
 https://jekalich.github.io/smtk/channels/rodnoe-kino.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия

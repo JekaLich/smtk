@@ -202,7 +202,7 @@ http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-science",Discovery Science
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-eu" audio-track="1",Investigation Discovery
+#EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-eu" audio-track="ru",Investigation Discovery
 http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108
 #EXTINF:-1 group-title="Познавательные" tvg-id="history-ru",History HD
 http://88.135.128.20:7272/PK41HvJyzlbR8XZ

@@ -5,7 +5,7 @@ https://jekalich.github.io/smtk/channels/amedia1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
 https://jekalich.github.io/smtk/channels/amedia2.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
-https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
+http://81.23.189.63:4022/udp/234.0.0.169:2000
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
 https://jekalich.github.io/smtk/channels/amedia-premium.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
@@ -96,7 +96,7 @@ http://81.7.108.21:9000/play/FOX-DVBC274-sti4400018450230
 #EXTINF:-1 group-title="Кино" tvg-id="foxlife",FX Life HD
 http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Comedy Central
-https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
+http://45.93.46.27:8887/8171/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",.black
 http://88.85.172.243:7001/play/a02h
 #EXTINF:-1 group-title="Кино" tvg-id="sony-tv",.red
@@ -104,7 +104,7 @@ http://185.37.150.40:8092/Sony_enter/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
 http://185.37.150.40:8092/Axn_skyfi/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b",Plan B
-http://31.148.6.4:10236/index.m3u8
+http://88.85.172.243:7012/play/a028
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
 http://188.190.222.48:80/Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nst",НСТ
@@ -231,7 +231,7 @@ https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd",Приключения HD
 https://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="eureka-hd",Первый Космический HD
-https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
+http://46.8.29.51:2020/channel/n29daac2e/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 group-title="Познавательные" tvg-id="tochka-tv",Точка ТВ
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя планета
@@ -343,7 +343,7 @@ http://46.8.29.51:2020/channel/n63934db/index.m3u8?q=a38daa3bb08ae3e108c4b30fae7
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
 http://188.113.190.15/307/video.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="perec-int",Перец
-https://bkm.beetv.kz/btv/live/hls/000001248.m3u8
+http://cdn.voka.tv/live/971-req_5k_v5.m3u8
 
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -405,14 +405,14 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tnt-int-cis",ТНТ-International
-https://bkm.beetv.kz/btv/live/hls/000007817.m3u8
+https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4-international",ТНТ4 International
-https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
+http://sc.id-tv.kz/tnt4_34_35.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="piatnica",Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда
@@ -511,7 +511,7 @@ http://81.7.108.21:9000/play/EurosportHD-DVBC394-sti4400018360108
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2" audio-track="ru",Eurosport 2 HD
 http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+http://45.93.46.27:8887/8565/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
@@ -583,9 +583,9 @@ http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd",MTV Live HD
-https://bkm.beetv.kz/btv/live/hls/000000447.m3u8
+http://81.7.108.21:9000/play/MTVLiveHD-DVBC306-sti4400017090089
 #EXTINF:-1 group-title="Музыка" tvg-id="vh1-european",MTV 00s
-https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
+http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="tnt-music",ТНТ Music HD
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="muztv",Муз ТВ

@@ -5,7 +5,7 @@ https://jekalich.github.io/smtk/channels/amedia1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
 https://jekalich.github.io/smtk/channels/amedia2.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
-http://81.23.189.63:4022/udp/234.0.0.169:2000
+http://94.232.104.237:8011/amediahithd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
 https://jekalich.github.io/smtk/channels/amedia-premium.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
@@ -513,7 +513,7 @@ http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
 http://45.93.46.27:8887/8565/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+https://stream2.itv.uz/1264/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
@@ -540,6 +540,8 @@ https://jekalich.github.io/smtk/channels/kxl.m3u8
 https://jekalich.github.io/smtk/channels/kxl-hd.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
 http://188.113.190.15/34/video.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="okko-sport",Окко Спорт
+http://158.101.214.187:8080/channel/509e6197/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккейный
 https://jekalich.github.io/smtk/channels/xokkejny.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="sportivny",Спортивный

@@ -515,11 +515,11 @@ http://45.93.46.27:8887/8565/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
 https://stream3.itv.uz/1264/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
-http://194.143.148.28:8080/MatchHD/mpegts
+http://188.113.190.15/167/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
 https://jekalich.github.io/smtk/channels/match-premier.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
+http://188.113.190.15/325/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-igra",Матч! Игра

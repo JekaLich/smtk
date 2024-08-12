@@ -383,6 +383,8 @@ https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="tvcentr",ТВЦ HD
+https://spb1.peers.tv/streaming/tvc_hd/126/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjM1NzU1MTMsImlhdCI6MTcyMzQ4OTExMywiY2lkIjo2LCJ1aWQiOjgwNzMyMjA0NSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.ffHpGF2B1lvzrJqxlqqsWHGXj2qPQFotXUZk8pWeIBE&offset=10
 #EXTINF:-1 group-title="Россия" tvg-id="tvcentr",ТВ Центр
 https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал

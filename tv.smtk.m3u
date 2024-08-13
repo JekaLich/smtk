@@ -461,7 +461,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="rtvi",RTVi
 http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
 #EXTINF:-1 group-title="Новости" tvg-id="dozhd",Дождь
-http://212.22.70.73:212/channel/73d77c18/index.m3u8?q=78530ab488b6d4956e061f6fb3773b9d
+https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b5885244.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="euronews",Euronews
 http://sc.id-tv.kz/Euronews_34_35.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="cctv-ru",CGTN Русский
@@ -2249,3 +2249,58 @@ http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b
 http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
+
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-4k",YOSSO TV 4K
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-4K/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-adrenalin",YOSSO TV Adrenaline
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ADRENALINE/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-adventure",YOSSO TV Adventure
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ADVENTURE/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-best",YOSSO TV BEST
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-BEST/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-cowboy",YOSSO TV Ковбойское
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-KOWBOY/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-disney",YOSSO TV Disney
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DISNEY/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-food",YOSSO TV Food
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-FOOD/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-grand",YOSSO TV Grand
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-GRAND/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-kids",YOSSO TV Kids
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-KIDS/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-musichits",YOSSO TV Music Hits
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-MUSIC-HITS/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-nature",YOSSO TV Nature
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-NATURE/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-ndetskoe",YOSSO TV Наше детское
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DETSKOE/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-netflix",YOSSO TV Netflix
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-NETFLIX/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-oblivion",YOSSO TV Oblivion
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-OBLIVION/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-rusfilm",YOSSO TV Русские фильмы
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-RUS/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-science",YOSSO TV Science
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-SCIENCE/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-sexy",YOSSO TV SEXY
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-SEXY/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-soyuzmult",YOSSO TV Союзмульт
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-MULT/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-thriller",YOSSO TV Thriller
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-THRILLER/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-tragic",YOSSO TV Трагичное
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-TRAGIC/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-travel",YOSSO TV Travel
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-TRAVEL/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-vhs",YOSSO TV VHS
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-VHS/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-zabavno",YOSSO TV Забавное
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ZABAVNOE/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="c-cartoon",YOSSO TV C-Cartoon
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-CARTOON/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="c-history",YOSSO TV C-History
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-HISTORY/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="c-live",YOSSO TV C-Live HD
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-LIVE/video.m3u8
+#EXTINF:-1 group-title="YOSSO TV" tvg-id="c-marvel",YOSSO TV C-Marvel
+http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-MARVEL/video.m3u8

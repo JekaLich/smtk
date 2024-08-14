@@ -28,7 +28,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
 https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODIxOTAwODY1NzcwMyIsImV4cCI6MTcyNDA2MjQ5NywiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzIzNDU3Njk3LCJzZXNzaW9uX2lkIjoiZjMxYzU4NWYyNzE3NjJjMGI1YzdkOGEzNWExMWExOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-HnydD8LqJkZczBkQZnS-lpy4ZfPrrkz97FdH19YgN0
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
-https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODIxOTAwODY1NzcwMyIsImV4cCI6MTcyNDA2MjQ5NywiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzIzNDU3Njk3LCJzZXNzaW9uX2lkIjoiZjMxYzU4NWYyNzE3NjJjMGI1YzdkOGEzNWExMWExOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.-HnydD8LqJkZczBkQZnS-lpy4ZfPrrkz97FdH19YgN0
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 https://jekalich.github.io/smtk/channels/dorama.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
@@ -38,23 +38,23 @@ https://jekalich.github.io/smtk/channels/kinoxit.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
 https://jekalich.github.io/smtk/channels/kinosemiya.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
-http://188.113.190.15/335/video.m3u8
+http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
-http://188.113.190.15/316/video.m3u8
+http://185.78.112.17/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
-http://91.205.199.3:80/kinosvidanie/index.m3u8
+http://185.78.112.17/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
-http://188.113.190.15/337/video.m3u8
+http://185.78.112.17/nashe-novoe-kino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
 https://jekalich.github.io/smtk/channels/rodnoe-kino.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
 https://jekalich.github.io/smtk/channels/kinokomedia.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
-https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
+https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
 https://jekalich.github.io/smtk/channels/kinoseria.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
-http://188.113.190.15/323/video.m3u8
+http://185.78.112.17/kinoujas/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd",Блокбастер
 https://jekalich.github.io/smtk/channels/blokbaster-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kamedi",Камеди
@@ -207,7 +207,7 @@ http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-eu" audio-track="ru",Investigation Discovery
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="history-ru",History HD
-http://88.135.128.20:7272/PK41HvJyzlbR8XZ
+http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/124
 #EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2 HD
 https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
@@ -224,8 +224,8 @@ https://jekalich.github.io/smtk/channels/viasat-nature.m3u8
 https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
 http://212.22.76.51:83/Travel_Adventure/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
-http://62.231.191.65:8888/68
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel" audio-track="ru",Travel Channel HD
+http://185.160.141.247:8080/travelhd/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-id="da-vinci",Da Vinci
 http://83.234.207.29:8011/play/a002/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nauka-20",Наука 2.0
@@ -510,9 +510,9 @@ https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus
 #EXTINF:-1 group-title="Детские" tvg-id="detsky",Уникум
 http://188.113.190.15/41/video.m3u8
 
-#EXTINF:-1 group-title="Спорт" tvg-id="eurosport1" audio-track="ru",Eurosport 1 HD
+#EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
 http://80.90.184.111/eurosport-1/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="eurosport2" audio-track="ru",Eurosport 2 HD
+#EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
 http://80.90.184.111/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
 http://45.93.46.27:8887/8565/video.m3u8

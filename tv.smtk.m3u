@@ -411,7 +411,7 @@ https://hls.peers.tv/streaming/tvc_hd/126/copy/playlist.m3u8?token=eyJhbGciOiJIU
 #EXTINF:-1 group-title="Россия" tvg-id="tvcentr",ТВ Центр
 https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал
-http://31.148.6.9:10005/index.m3u8
+http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ
@@ -423,14 +423,14 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="sts-love",СТС Love
-https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
+http://iptv.mega.net.ru:8888/STS_Love/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt-int-cis",ТНТ-International
-https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+http://sc.id-tv.kz/tntComedy_34_35.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4

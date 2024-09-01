@@ -1728,6 +1728,8 @@ http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&
 http://127.0.0.1:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",РЕН ТВ
 http://127.0.0.1:6878/ace/getstream?id=5d2b34377ff010af21f777600c6be77d4479f2eb&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Рен ТВ International
+http://127.0.0.1:6878/ace/getstream?infohash=881ffab7e64f437d16d2ca4474c291a4a1111bd2&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",НТВ ХИТ
 http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",НТВ Стиль
@@ -1784,6 +1786,18 @@ http://127.0.0.1:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&
 http://127.0.0.1:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",В мире животных HD
 http://127.0.0.1:6878/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша Сибирь
+http://127.0.0.1:6878/ace/getstream?infohash=a0cc34324dd130db6145fbfd5e4824ab4393a12a&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша сибирь 4K
+http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Love Nature 4K
+http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Insight UHD 4K
+http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
+http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша сибирь 4K
+http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Живая планета
 http://127.0.0.1:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наука 2.0
@@ -1824,8 +1838,6 @@ http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&
 http://127.0.0.1:6878/ace/getstream?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Russian Extreme HD
 http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Русский иллюзион
-http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Русский Детектив
 http://127.0.0.1:6878/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Русский Бестселлер
@@ -1834,6 +1846,8 @@ http://127.0.0.1:6878/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&
 http://127.0.0.1:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Романтичное HD
 http://127.0.0.1:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Пятница international
+http://127.0.0.1:6878/ace/getstream?infohash=2b78b24cf202048ce17b9378b52e2fb8f89168bd&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Пятница HD
 http://127.0.0.1:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Про Любовь HD
@@ -1894,6 +1908,8 @@ http://127.0.0.1:6878/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e&
 http://127.0.0.1:6878/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Камеди HD
 http://127.0.0.1:6878/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Русский иллюзион
+http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Иллюзион+ HD
 http://127.0.0.1:6878/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Здоровое ТВ
@@ -1970,8 +1986,6 @@ http://127.0.0.1:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&
 http://127.0.0.1:6878/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",2x2
 http://127.0.0.1:6878/ace/getstream?id=ae0290d2b26b326c76a6842c1f62b643e29a6801&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",1HD
-http://127.0.0.1:6878/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",.sci-fi
 http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",.red HD
@@ -2056,8 +2070,6 @@ http://127.0.0.1:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7&
 http://127.0.0.1:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Русский Экстрим UHD 4K
 http://127.0.0.1:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша сибирь 4K
-http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",СЕРИАЛ UHD
 http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",КИНО UHD
@@ -2066,16 +2078,8 @@ http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&
 http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://ottpink.network/picons/uhd1tv.png",UHD1 4K
 http://127.0.0.1:6878/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Love Nature 4K
-http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" ,Insight UHD 4K
-http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
-http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="https://i.postimg.cc/02nvLv7d/RTL-UHD-Logo.jpg",RTL UHD
 http://127.0.0.1:6878/ace/getstream?id=45ed51e89ea0bd4d2ced6640a5ef4b3524a07744&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",SKY Bundesliga UHD
-http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",VIVA HD
 http://127.0.0.1:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Bridge HD
@@ -2096,6 +2100,8 @@ http://127.0.0.1:6878/ace/getstream?id=da8c0764bea30d7fe2321383292bb33ff04a5ede&
 http://127.0.0.1:6878/ace/getstream?id=38cf205218182050f0df6c7d8321e5e651286e91&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Ля-минор
 http://127.0.0.1:6878/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",1HD
+http://127.0.0.1:6878/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",RU.TV
 http://127.0.0.1:6878/ace/getstream?id=2302f4b9327232b91a434658c24a506c88bc55f0&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Russian MusicBox HD
@@ -2144,12 +2150,12 @@ http://127.0.0.1:6878/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52&
 http://127.0.0.1:6878/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Da Vinci
 http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Мама
+http://127.0.0.1:6878/ace/getstream?infohash=8e6f7b1b7506a662b5482dd74ee1db66ff5d40e1&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",СОЛНЦЕ
 http://127.0.0.1:6878/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Конный мир HD
 http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Моторспорт ТВ
-http://127.0.0.1:6878/ace/getstream?id=0eb8444f75bfe89d5a92c1497ac34ff4c4441207&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",КХЛ ТВ
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",KHL Prime HD
@@ -2160,6 +2166,8 @@ http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&
 http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Хоккейный HD
 http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Спортивный
+http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Футбол HD
 http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",FightBox HD
@@ -2174,10 +2182,10 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",MMA-TV.COM
+http://127.0.0.1:6878/ace/getstream?infohash=f562d8a45a5475599fbd2ad18886b0cc847f75e4&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Старт
 http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Спортивный
-http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Мир Баскетбола
 http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Матч! Футбол 1 HD
@@ -2204,6 +2212,12 @@ http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&
 http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Setanta Sports 2 HD
 http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Setanta Sports 3 HD
+http://127.0.0.1:6878/ace/getstream?infohash=04759f636ad9c8dc35b5eb560d393eab3e2a6f30&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",SKY Bundesliga UHD
+http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",NBA TV HD
+http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai One
 http://127.0.0.1:6878/ace/getstream?infohash=43bfa03755428b42fedf2f88bf8a3879add9907a&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Dubai Racing
@@ -2278,6 +2292,8 @@ http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd&
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://epg.it999.ru/img/4571.png",SKY SPORTS MAIN EVENT UK
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&.mp4
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://epg.it999.ru/img/4571.png",Sky Sport F1 FHD DE
+http://127.0.0.1:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2&mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",AMAZON PRIME VIDEO 1 HD
 http://127.0.0.1:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",AMAZON PRIME VIDEO 2 HD
@@ -2324,58 +2340,3 @@ http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b
 http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
-
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-4k",YOSSO TV 4K
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-4K/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-adrenalin",YOSSO TV Adrenaline
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ADRENALINE/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-adventure",YOSSO TV Adventure
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ADVENTURE/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-best",YOSSO TV BEST
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-BEST/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-cowboy",YOSSO TV Ковбойское
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-KOWBOY/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-disney",YOSSO TV Disney
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DISNEY/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-food",YOSSO TV Food
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-FOOD/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-grand",YOSSO TV Grand
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-GRAND/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-kids",YOSSO TV Kids
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-KIDS/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-musichits",YOSSO TV Music Hits
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-MUSIC-HITS/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-nature",YOSSO TV Nature
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-NATURE/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-ndetskoe",YOSSO TV Наше детское
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-DETSKOE/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-netflix",YOSSO TV Netflix
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-NETFLIX/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-oblivion",YOSSO TV Oblivion
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-OBLIVION/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-rusfilm",YOSSO TV Русские фильмы
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-RUS/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-science",YOSSO TV Science
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-SCIENCE/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-sexy",YOSSO TV SEXY
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-SEXY/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-soyuzmult",YOSSO TV Союзмульт
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-MULT/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-thriller",YOSSO TV Thriller
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-THRILLER/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-tragic",YOSSO TV Трагичное
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-TRAGIC/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-travel",YOSSO TV Travel
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-TRAVEL/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-vhs",YOSSO TV VHS
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-VHS/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="yosso-zabavno",YOSSO TV Забавное
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-ZABAVNOE/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="c-cartoon",YOSSO TV C-Cartoon
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-CARTOON/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="c-history",YOSSO TV C-History
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-HISTORY/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="c-live",YOSSO TV C-Live HD
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-LIVE/video.m3u8
-#EXTINF:-1 group-title="YOSSO TV" tvg-id="c-marvel",YOSSO TV C-Marvel
-http://bigteisti1.belyenochi.lifeyosso.fun:56373/Y-C-MARVEL/video.m3u8

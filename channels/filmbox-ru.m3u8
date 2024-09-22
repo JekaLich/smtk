@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY5ODgzNTIsImlhdCI6MTcyNjkwMTk1MiwiY2lkIjo2LCJ1aWQiOjgzMDkxNTc1OCwicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.HZX-XXnkWJlf8eV1eLsKdZBpFgfbd3-K1TxqUcggffw&offset=10
+http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjcwNzQ4NzEsImlhdCI6MTcyNjk4ODQ3MSwiY2lkIjo2LCJ1aWQiOjgzMTUxMDY1NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.whub-iOWJl9Nv2zAmeiLU8hGVAhNXS4Ypb79-O3A5aY&offset=10

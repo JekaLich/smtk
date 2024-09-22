@@ -408,7 +408,7 @@ https://hls.peers.tv/streaming/tvc_hd/126/copy/playlist.m3u8?token=eyJhbGciOiJIU
 #EXTINF:-1 group-title="Россия" tvg-id="tvcentr",ТВ Центр
 https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал
-http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e
+http://s83.chas.tv:8081/chas/pyatyi-hq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ

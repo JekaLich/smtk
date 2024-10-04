@@ -481,7 +481,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="rtvi",RTVi
 https://hls.bemtv.t62a.com/hls2/eUteAJjV/1725649264/qSTF656kYt9wcuz2Cgh_Jw/stream707/stream0.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="dozhd",Дождь
-https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b5885244.m3u8
+https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b5642464.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="euronews",Euronews
 http://sc.id-tv.kz/Euronews_34_35.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="cctv-ru",CGTN Русский

@@ -1715,7 +1715,7 @@ http://45.93.46.27:8887/8030/video.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="playboy-tv",Playboy TV
 http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mjg1MDAzOTQsImlhdCI6MTcyODQxMzk5NCwiY2lkIjo2LCJ1aWQiOjg0MDU0MTgxOSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.x7tGO29W9VAHV6s3PzcE-B3y5-0MAxFBaaZyi0OM3Hw&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="babes-tv",Babes TV
-http://api.peers.tv/timeshift/babes_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mjg1MDAzOTQsImlhdCI6MTcyODQxMzk5NCwiY2lkIjo2LCJ1aWQiOjg0MDU0MTgxOSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.x7tGO29W9VAHV6s3PzcE-B3y5-0MAxFBaaZyi0OM3Hw&offset=10
+http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mjg1MDAzOTQsImlhdCI6MTcyODQxMzk5NCwiY2lkIjo2LCJ1aWQiOjg0MDU0MTgxOSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.x7tGO29W9VAHV6s3PzcE-B3y5-0MAxFBaaZyi0OM3Hw&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="russkaya-noch",Русская ночь
 http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mjg1MDAzOTQsImlhdCI6MTcyODQxMzk5NCwiY2lkIjo2LCJ1aWQiOjg0MDU0MTgxOSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.x7tGO29W9VAHV6s3PzcE-B3y5-0MAxFBaaZyi0OM3Hw&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="sholk",Шелк

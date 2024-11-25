@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1
-http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI1NjU0MzUsImlhdCI6MTczMjQ3OTAzNSwiY2lkIjo2LCJ1aWQiOjg2MTQ5MDg2OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.jUS2Q4-uybUn1pAvTCywSUUxYmNMYbbE5MD67AvVhss&offset=10
+http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI2MDgwNTAsImlhdCI6MTczMjUyMTY1MCwiY2lkIjo2LCJ1aWQiOjg2MTY4NDk3NCwicmVnIjpmYWxzZSwiaXAiOjMyNDAxMjE2MTksImFkdWx0IjpmYWxzZX0.MIAEANR_fLUFJ-TioFC69WAfdjqyFC-zJCkqkoi-UKI&offset=10

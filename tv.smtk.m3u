@@ -101,11 +101,11 @@ https://jekalich.github.io/smtk/channels/denpobedy.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
 https://jekalich.github.io/smtk/channels/illuzion-plus.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fox",FX HD
-rtmp://5.182.229.90//7318
+http://45.143.108.110:2203/FOX
 #EXTINF:-1 group-title="Кино" tvg-id="foxlife",FX Life HD
-http://78.140.39.3/play/a01j/index.m3u8
+rtmp://5.182.229.90//7318
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Comedy Central
-http://80.90.184.111/paramount_comedy/index.m3u8
+http://str02.tv/9462/video.m3u8?token=4bce3826225a8144e51ff6377e290019
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",.black
 http://46.174.83.66/Black/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="sony-tv",.red
@@ -167,9 +167,9 @@ https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="trashtv",Trash
 http://185.23.80.28:8080/TRASH/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="start-air",Start Air
-https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
+https://stream-msk-07.ott.tricolor.tv/dtv/id863_MSKSG-PVR-1--Start_Air/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzA1NDM0MiwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzMyNDQ5NTQyLCJzZXNzaW9uX2lkIjoiZTU2Y2VhNGQyZWFhMTk5NGJlNzBhM2M4M2EwZTI2MTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.szI-WRMvaN5r-B7DhFyLWJcQNPoP7jEH9XFUxA4LGWk
 #EXTINF:-1 group-title="Кино" tvg-id="start-world",Start World
-https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
+https://stream-msk-14.ott.tricolor.tv/dtv/id864_MSKSG-PVR-1--Start_World/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzA1NDM0MiwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzMyNDQ5NTQyLCJzZXNzaW9uX2lkIjoiZTU2Y2VhNGQyZWFhMTk5NGJlNzBhM2M4M2EwZTI2MTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.szI-WRMvaN5r-B7DhFyLWJcQNPoP7jEH9XFUxA4LGWk
 #EXTINF:-1 group-title="Кино" tvg-id="kineko",Кинеко
 https://jekalich.github.io/smtk/channels/kineko.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sapfir",Сапфир
@@ -195,7 +195,7 @@ https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood",Hollywood
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood-hd",Hollywood HD
-https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+http://130.193.73.10:8937/play/a02k
 #EXTINF:-1 group-title="Кино" tvg-id="mir-seriala",Мир сериала
 https://jekalich.github.io/smtk/channels/mir-seriala.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda",Победа
@@ -360,9 +360,9 @@ https://jekalich.github.io/smtk/channels/gags-network.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/anekdottv.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
-http://91.205.199.3/kvntv/index.m3u8
+http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Юмор" tvg-id="perec-int",Перец
-http://178.124.179.122:8088/Peretz/index.m3u8
+https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -372,7 +372,7 @@ http://193.111.244.35:8001/tlcHD/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="ntv-style",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="kuxnia-tv",Кухня ТВ
-https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
+http://88.218.242.237:8000/play/a00s
 #EXTINF:-1 group-title="Женские" tvg-id="telekafe",Телекафе
 http://176.113.48.221:8986/62
 #EXTINF:-1 group-title="Женские" tvg-id="foodman-club",Foodman.club
@@ -389,7 +389,7 @@ http://109.197.192.121:8080/zdorovoe/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="psixologia-21",Психология 21
 https://jekalich.github.io/smtk/channels/psixologia-21.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zhivi",Живи
-http://176.113.48.221:8986/55
+https://stream1.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Россия" tvg-id="pervy",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -484,11 +484,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 #EXTINF:-1 group-title="Новости" tvg-id="rtvi",RTVi
-https://hls.bemtv.t62a.com/hls2/eUteAJjV/1725649264/qSTF656kYt9wcuz2Cgh_Jw/stream707/stream0.m3u8
+http://45.143.108.110:2203/RTVi
 #EXTINF:-1 group-title="Новости" tvg-id="dozhd",Дождь
-https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b5642464.m3u8
+https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Новости" tvg-id="euronews",Euronews
-http://sc.id-tv.kz/Euronews_34_35.m3u8
+http://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="cctv-ru",CGTN Русский
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 

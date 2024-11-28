@@ -125,7 +125,7 @@ rtmp://5.182.229.90//7261
 #EXTINF:-1 group-title="Кино" tvg-id="detectivejam",DetectiveJam
 http://88.218.242.237:8000/play/a00a
 #EXTINF:-1 group-title="Кино" tvg-id="super",Суббота
-https://jekalich.github.io/smtk/channels/super.m3u8
+http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzA1NDM0MiwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzMyNDQ5NTQyLCJzZXNzaW9uX2lkIjoiZTU2Y2VhNGQyZWFhMTk5NGJlNzBhM2M4M2EwZTI2MTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.szI-WRMvaN5r-B7DhFyLWJcQNPoP7jEH9XFUxA4LGWk
 #EXTINF:-1 group-title="Кино" tvg-id="feniks-plus-kino",Феникс+Кино
 http://88.218.242.237:8000/play/a007
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial",НТВ Сериал
@@ -427,14 +427,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="sts-love",СТС Love
 http://185.23.80.28:8080/STSLove/index.m3u8?token=test
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ HD
-https://jekalich.github.io/smtk/channels/tnt.m3u8
+http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzA1NDM0MiwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzMyNDQ5NTQyLCJzZXNzaW9uX2lkIjoiZTU2Y2VhNGQyZWFhMTk5NGJlNzBhM2M4M2EwZTI2MTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.szI-WRMvaN5r-B7DhFyLWJcQNPoP7jEH9XFUxA4LGWk
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt-int-cis",ТНТ-International
 http://sc.id-tv.kz/tntComedy_34_35.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4 HD
-https://jekalich.github.io/smtk/channels/tnt4.m3u8
+http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzA1NDM0MiwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzMyNDQ5NTQyLCJzZXNzaW9uX2lkIjoiZTU2Y2VhNGQyZWFhMTk5NGJlNzBhM2M4M2EwZTI2MTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.szI-WRMvaN5r-B7DhFyLWJcQNPoP7jEH9XFUxA4LGWk
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8

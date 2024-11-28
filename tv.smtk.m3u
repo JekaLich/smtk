@@ -27,7 +27,7 @@ http://str02.tv/6870/video.m3u8?token=4bce3826225a8144e51ff6377e290019
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
 http://tv.ttk.mx:9113
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
-https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzA1NDM0MiwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzMyNDQ5NTQyLCJzZXNzaW9uX2lkIjoiZTU2Y2VhNGQyZWFhMTk5NGJlNzBhM2M4M2EwZTI2MTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.szI-WRMvaN5r-B7DhFyLWJcQNPoP7jEH9XFUxA4LGWk
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 https://jekalich.github.io/smtk/channels/dorama.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера
@@ -495,11 +495,11 @@ http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
-http://94.232.104.237:8011/eurosport2/index.m3u8
+rtmp://5.182.229.90//7203
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
-https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+rtmp://92.119.88.58//271
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
-https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+rtmp://92.119.88.58//270
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
 http://185.23.80.28:8080/MATCH!_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
@@ -554,7 +554,7 @@ https://jekalich.github.io/smtk/channels/football-ru.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="konny-mir",Конный мир
 http://185.23.80.28:8080/Konniy_Mir/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim",Русский экстрим
-http://tv.ttk.mx:9095
+http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzA1NDM0MiwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzMyNDQ5NTQyLCJzZXNzaW9uX2lkIjoiZTU2Y2VhNGQyZWFhMTk5NGJlNzBhM2M4M2EwZTI2MTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.szI-WRMvaN5r-B7DhFyLWJcQNPoP7jEH9XFUxA4LGWk
 #EXTINF:-1 group-title="Спорт" tvg-id="qsport-kz",Q Arena
 https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola",Мир баскетбола

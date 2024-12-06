@@ -635,106 +635,118 @@ https://jekalich.github.io/smtk/channels/fanhd.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png",Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
-#EXTINF:-1 group-title="Музыка" tvg-id="backustv-music",BackusTV Music
-http://stream.backustv.ru/live/btv3/index.m3u8
-#EXTINF:-1 group-title="Музыка",Kronehit HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="radio-strana-fm-tv",Страна FM HD
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
-http://rtmp.one.by:2200
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
-http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd",MTV Live HD
-http://stream01.vnet.am/Channel_117/mono.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="vh1-european",MTV 00s
-http://45.151.69.10:8887/8032/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="mtv-rocks",MTV 90s
-http://213.226.137.140:81/tl/l109/mpegts
-#EXTINF:-1 group-title="Музыка" tvg-id="vh1-classic",MTV 80s
-http://213.226.137.140:81/tl/l108/mpegts
-#EXTINF:-1 group-title="Музыка" tvg-id="tnt-music",ТНТ Music HD
-http://cdn-01.bonus-tv.ru/tntmusic/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="muztv",Муз ТВ
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png",1HD
+https://stream1.cinerama.uz/1267/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png",Муз-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv",Bridge TV
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
-#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-classic",Bridge TV Classic
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
-#EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd",Bridge TV Deluxe
-https://stream-msk-05.ott.tricolor.tv:443/dtv/id605_MSKSG-PVR-1--BRIDGE_TV_DELUXE_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
-#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-dance",Bridge TV Hits
-https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
-#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-ruxit",Bridge TV Русский хит
-https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_hit/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
-#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-fresh",Bridge TV Фрэш
-http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
-#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-shlager",Bridge TV Шлягер
-http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
-#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-rock",Bridge TV Rock
-https://stream-msk-16.ott.tricolor.tv/dtv/id910_MSKSG-PVR-1--Bridge_rock_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
-#EXTINF:-1 group-title="Музыка" tvg-id="russian-musicbox",Russian Music Box
+#EXTINF:-1 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png",Музыка Первого
+https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="europa-plus-tv" tvg-logo="https://iptvx.one/picons/europa-plus-tv.png",Europa Plus TV
+http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Музыкальные" tvg-id="musicbox" tvg-logo="https://iptvx.one/picons/musicbox-gold.png",Music Box Gold
+https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="russian-musicbox" tvg-logo="https://iptvx.one/picons/russian-musicbox.png",Russian MusicBox HD
 https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
-#EXTINF:-1 group-title="Музыка" tvg-id="europa-plus-tv",Европа Плюс ТВ
-http://185.23.80.28:8080/EuropaHD/index.m3u8?token=test
-#EXTINF:-1 group-title="Музыка" tvg-id="1hd",1HD
-https://stream1.cinerama.uz/1267/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="ru-tv",RU.TV
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="zhara",Жара
+#EXTINF:-1 group-title="Музыкальные" tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png",ТНТ Music
+http://cdn-01.bonus-tv.ru/tntmusic/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="o2tv" tvg-logo="https://iptvx.one/picons/o2tv.png",O!2 HD
+https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="zhara" tvg-logo="https://iptvx.one/picons/zhara.png",Жара HD
 https://stream-msk-14.ott.tricolor.tv/dtv/id389_MSKSG-PVR-1--Zhara/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
-#EXTINF:-1 group-title="Музыка" tvg-id="mezzo",Mezzo
-http://185.177.112.234:8000/play/a01i
-#EXTINF:-1 group-title="Музыка" tvg-id="mezzo-live-hd",Mezzo Live HD
-http://91.207.115.228:5000/c125
-#EXTINF:-1 group-title="Музыка",TMF RUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/201891.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="fashion-tv",Fashion TV
-https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-#EXTINF:-1 group-title="Музыка",Fashion TV Midnite Secrets
-http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
-#EXTINF:-1 group-title="Музыка",Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыка",Ocko Star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыка",Ocko TV
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыка",Ocko Gold
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",V2BEAT HD
-http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Zerouno TV
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Xite HD
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 group-title="Музыка",TVM3
-https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Clubbing TV
-https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Classic Rock HD
-https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Alternative HD
-https://stirr.ott-channels.stingray.com/102/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Hot Country HD
-https://stirr.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Pop Adult HD
-https://stirr.ott-channels.stingray.com/104/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Hit List HD
-https://stirr.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Flashback 70S HD
-https://stirr.ott-channels.stingray.com/115/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Remember The 80S HD
-https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Hip-Hop/R&B HD
-https://stirr.ott-channels.stingray.com/133/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Soul Storm STORM HD
-https://stirr.ott-channels.stingray.com/134/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Greatest Hits HD
-https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Exitos Del Momento HD
-https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png",RU TV HD
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="aiva" tvg-logo="https://iptvx.one/picons/aiva.png",AIVA HD
+https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыкальные",One BY HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыкальные" tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png",One by Russia HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Музыкальные" tvg-id="clubbing-tv" tvg-logo="https://iptvx.one/picons/clubbing-tv.png",Clubbing HD
+https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-hd" tvg-logo="https://iptvx.one/picons/bridge-hd.png",Bridge TV Deluxe HD
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id605_MSKSG-PVR-1--BRIDGE_TV_DELUXE_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-fresh" tvg-logo="https://iptvx.one/picons/bridge-tv-fresh.png",Bridge TV Fresh
+http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv" tvg-logo="https://iptvx.one/picons/bridge-tv.png",Bridge TV
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-dance" tvg-logo="https://iptvx.one/picons/bridge-tv-dance.png",Bridge TV Hits
+https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png",Bridge TV Русский Хит
+https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_hit/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png",Bridge TV Classic
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-shlager" tvg-logo="https://iptvx.one/picons/bridge-tv-shlager.png",Bridge TV Шлягер
+http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-rock" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png",Bridge TV Rock HD
+https://stream-msk-16.ott.tricolor.tv/dtv/id910_MSKSG-PVR-1--Bridge_rock_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="la-minor" tvg-logo="https://iptvx.one/picons/la-minor.png",Ля-минор
+http://stream2.cinerama.uz/1238/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png",Шансон ТВ
+http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="classic-music" tvg-logo="https://iptvx.one/picons/classic-music.png",Classic Music HD
+https://stream-msk-11.ott.tricolor.tv/dtv/id831_MSKSG-PVR-1--Classic_Music_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzY0ODUwMywiaHdpZCI6ImY4M2Q5MjM5MjBiYmQ1ZDExOTBjOGIyOTc3NWNmMWY4MWVhNzFhMDE4ZWZiOTZjNTkxZTU2N2FjOTQ1NDM2ZWMiLCJsYXN0X3JlcV9kYXRlIjoxNzMzMDQzNzAzLCJzZXNzaW9uX2lkIjoiYjFhMDU5YWMxOTM3MDBmZDUzZWQwMjU5ZTBhMWRhNzIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uvj2qyqBTRK62U95e3UXTSn0OVACkriiZ54lo-tkBwM
+#EXTINF:-1 group-title="Музыкальные" tvg-id="mezzo-live-hd" tvg-logo="https://iptvx.one/picons/mezzo-live-hd.png",Mezzo Live HD
+http://213.226.137.140:81/tl/l56/mpegts
+#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-live-hd" tvg-logo="https://iptvx.one/picons/mtv-live-hd.png",MTV Live HD
+http://stream01.vnet.am/Channel_117/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-europe" tvg-logo="https://iptvx.one/picons/mtv-europe.png",MTV Europe
+http://fl5.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="vh1-european" tvg-logo="https://iptvx.one/picons/vh1-european.png",MTV 00s
+http://45.151.69.10:8887/8032/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-rocks" tvg-logo="https://iptvx.one/picons/mtv-rocks.png",MTV 90s
+http://213.226.137.140:81/tl/l109/mpegts
+#EXTINF:-1 group-title="Музыкальные" tvg-id="vh1-classic" tvg-logo="https://iptvx.one/picons/vh1-classic.png",MTV 80s
+http://213.226.137.140:81/tl/l108/mpegts
+#EXTINF:-1 group-title="Музыкальные" tvg-id="mcm-top" tvg-logo="https://iptvx.one/picons/mcm-top.png",MCM TOP
+http://86.57.198.251:8181/play/1082/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="metr",МЭТР (Республика Марий Эл)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -1729,30 +1741,10 @@ http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIU
 http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzM1NTg0NTcsImlhdCI6MTczMzQ3MjA1NywiY2lkIjo2LCJ1aWQiOjg2NjM3NzQwMywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsImFkdWx0IjpmYWxzZX0.pX9N75Ckgn8PNyFlrhXlbJ0WHFA1YRuUETgB47YcA8k&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="russkaya-noch",Русская ночь
 http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzM1NTg0NTcsImlhdCI6MTczMzQ3MjA1NywiY2lkIjo2LCJ1aWQiOjg2NjM3NzQwMywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MzA3MzMsImFkdWx0IjpmYWxzZX0.pX9N75Ckgn8PNyFlrhXlbJ0WHFA1YRuUETgB47YcA8k&offset=10
+#EXTINF:-1 group-title="XXX",Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="sholk",Шелк
 http://45.93.46.27:8887/8129/video.m3u8
-#EXTINF:-1 group-title="XXX" tvg-id="vivid-red",Vivid Red HD
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/2162/index.m3u8
-#EXTINF:-1 group-title="XXX" tvg-id="vivid-touch",Vivid Touch
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/6198/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic1
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/12146/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic2
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/12147/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic3
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/12148/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic4
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/12149/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic5
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/12150/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic6
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/12151/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic7
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/12152/index.m3u8
-#EXTINF:-1 group-title="XXX",PinkErotic8
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/12153/index.m3u8
-#EXTINF:-1 group-title="XXX",Vixen
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/6265/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="redlight-hd",Redlight HD
 http://31.131.136.4:8000/play/a004
 #EXTINF:-1 group-title="XXX" tvg-id="private-tv",Private HD
@@ -1763,20 +1755,45 @@ http://31.131.136.4:8000/play/a003
 http://45.93.46.27:8887/8342/video.m3u8
 #EXTINF:-1 group-title="XXX",Penthouse Reality TV
 http://78.130.250.2:8023/play/a006/index.m3u8
-#EXTINF:-1 group-title="XXX",Balkan Erotic
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/6270/index.m3u8
 #EXTINF:-1 group-title="XXX",Barely Legal
 http://45.93.46.27:8887/8413/video.m3u8
-#EXTINF:-1 group-title="XXX",Naughty America
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/6237/index.m3u8
-#EXTINF:-1 group-title="XXX",Hot Pleasure
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/6277/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="hustler-hd",Hustler HD
 http://45.93.46.27:8887/8128/video.m3u8
-#EXTINF:-1 group-title="XXX",Pure Babes
-http://a0bn5xro.rostelekom.xyz/iptv/UWSCNHYFPPFSA5/12112/index.m3u8
 #EXTINF:-1 group-title="XXX",Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png",Babes TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="brazzers-tv-europe" tvg-logo="https://iptvx.one/picons/brazzers.png",Brazzers TV Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="dorcel" tvg-logo="https://iptvx.one/picons/dorcel.png",Dorcel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="erox" tvg-logo="https://iptvx.one/picons/erox.png",Erox HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="eroxxxhd" tvg-logo="https://iptvx.one/picons/eroxxxhd.png",Eroxxx HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="digital-desire" tvg-logo="https://iptvx.one/picons/digital-desire.png",Digital Desire HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="extasytv" tvg-logo="https://iptvx.one/picons/extasytv.png",Extasy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="leo-tv-xxx" tvg-logo="https://iptvx.one/picons/leo-tv-xxx.png",Leo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Leo TV Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="reality-kings" tvg-logo="https://iptvx.one/picons/reality-kings.png",Reality Kings
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_realitykings_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Dusk! TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Первый канал
 http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19

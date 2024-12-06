@@ -824,8 +824,6 @@
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png",Муз-ТВ
 
-#EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png",Муз-ТВ HD
-
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png",Музыка Первого
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="europa-plus-tv" tvg-logo="https://iptvx.one/picons/europa-plus-tv.png",Europa Plus TV
@@ -920,20 +918,18 @@
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="eu-music" tvg-logo="https://iptvx.one/picons/eu-music.png",EU Music HD
 
-#EXTINF:-1 group-title="Музыкальные",UA Music HD
 
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="eromania4k" tvg-logo="https://iptvx.one/picons/eromania4k.png",Eromania 4k
 
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="extasy4k" tvg-logo="https://iptvx.one/picons/extasy4k.png",Extasy 4k
 
-#EXTINF:-1 group-title="XXX (18+)" tvg-id="eromania4k" tvg-logo="https://iptvx.one/picons/eromania4k.png",Eromania 4k
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="extasytv" tvg-logo="https://iptvx.one/picons/extasy4k.png",Extasy TV HD
 
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="penthouse-gold" tvg-logo="https://iptvx.one/picons/penthouse-gold.png",Penthouse Gold
 
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="penthouse-quickies" tvg-logo="https://iptvx.one/picons/penthouse-quickies.png",Penthouse Quickies
 
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="redlight-hd" tvg-logo="https://iptvx.one/picons/redlight-hd.png",Redlight HD
-
-#EXTINF:-1 group-title="XXX (18+)" tvg-id="dorcel" tvg-logo="https://iptvx.one/picons/dorcel.png",Dorcel TV HD
 
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="vivid-red" tvg-logo="https://iptvx.one/picons/vivid-red.png",Vivid Red HD
 
@@ -945,27 +941,43 @@
 
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png",Babes HD
 
-#EXTINF:-1 group-title="XXX (18+)" tvg-id="shalun" tvg-logo="https://iptvx.one/picons/shalun.png",Шалун HD
+#EXTINF:-1 group-title="XXX (18+)",Vixen TV HD
 
-#EXTINF:-1 group-title="XXX (18+)" tvg-id="sholk" tvg-logo="https://iptvx.one/picons/sholk.png",Шалун HD
+#EXTINF:-1 group-title="XXX (18+)",Evil Angel HD
+
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="erox" tvg-logo="https://iptvx.one/picons/erox.png",Erox
+
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="erox" tvg-logo="https://iptvx.one/picons/erox.png",Erox HD
 
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="eroxxxhd" tvg-logo="https://iptvx.one/picons/eroxxxhd.png",Eroxxx HD
+
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="dorcel" tvg-logo="https://iptvx.one/picons/dorcel.png",Dorcel TV
+
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="dorcel" tvg-logo="https://iptvx.one/picons/dorcel.png",Dorcel TV HD
+
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="super-one" tvg-logo="https://iptvx.one/picons/super-one.png",SuperOne
+
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="xxl-xxx" tvg-logo="https://iptvx.one/picons/xxl-xxx.png",XXL
+
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="shalun" tvg-logo="https://iptvx.one/picons/shalun.png",Шалун HD
+
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="sholk" tvg-logo="https://iptvx.one/picons/sholk.png",Шёлк HD
 
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="exxxotica" tvg-logo="https://iptvx.one/picons/exxxotica.png",Exxxotica HD
 
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="redlips" tvg-logo="https://iptvx.one/picons/redlips.png",Red Lips HD
 
-#EXTINF:-1 group-title="XXX (18+)" tvg-id="xxl-xxx" tvg-logo="https://iptvx.one/picons/xxl-xxx.png",XXL
-
-#EXTINF:-1 group-title="XXX (18+)" tvg-id="dorcel" tvg-logo="https://iptvx.one/picons/dorcel.png",Dorcel TV
-
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="blue-hustler" tvg-logo="https://iptvx.one/picons/blue-hustler.png",Blue Hustler
 
-#EXTINF:-1 group-title="XXX (18+)" tvg-id="o-la-la" tvg-logo="https://iptvx.one/picons/o-la-la.png",O-La-La
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="blue-hustler" tvg-logo="https://iptvx.one/picons/blue-hustler.png",Blue Hustler HD
 
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="russkaya-noch" tvg-logo="https://iptvx.one/picons/russkaya-noch.png",Русская Ночь
 
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="russkaya-noch" tvg-logo="https://iptvx.one/picons/russkaya-noch.png",Русская Ночь HD
+
 #EXTINF:-1 group-title="XXX (18+)" tvg-id="playboy-tv" tvg-logo="https://iptvx.one/picons/playboy-tv.png",Playboy TV
+
+#EXTINF:-1 group-title="XXX (18+)" tvg-id="playboy-tv" tvg-logo="https://iptvx.one/picons/playboy-tv.png",Playboy TV HD
 
 
 #EXTINF:-1 group-title="Ultra HD" tvg-id="kino-ultra-hd" tvg-logo="https://iptvx.one/picons/kino-ultra-hd.png",Кино UHD

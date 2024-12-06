@@ -22,6 +22,8 @@ https://jekalich.github.io/smtk/channels/tv1000.m3u8
 https://jekalich.github.io/smtk/channels/tv1000-action.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino",Viju TV1000 Русское
 https://jekalich.github.io/smtk/channels/tv1000-russkoe-kino.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-worldkino",Viasat Kino World
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 http://str02.tv/6870/video.m3u8?token=4bce3826225a8144e51ff6377e290019
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ

@@ -1790,7 +1790,7 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="reality-kings" tvg-logo="https://iptvx.one/picons/reality-kings.png",Reality Kings
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_realitykings_hd_hevc/playlist.m3u8
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="XXX",Dusk! TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8

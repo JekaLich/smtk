@@ -334,7 +334,7 @@ https://jekalich.github.io/smtk/channels/ocean-tv.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
 http://flu.ttk.mx:90/domashnie_zhivotnye/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
-https://stream1.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
 http://83.234.207.29:8010/play/a024/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy",Моя стихия
@@ -391,7 +391,7 @@ http://109.197.192.121:8080/zdorovoe/index.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="psixologia-21",Психология 21
 https://jekalich.github.io/smtk/channels/psixologia-21.m3u8
 #EXTINF:-1 group-title="Женские" tvg-id="zhivi",Живи
-https://stream1.cinerama.uz/1419/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Россия" tvg-id="pervy",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -578,7 +578,7 @@ http://65.21.85.175:8000/play/a00j/index.m3u8?token=livetv
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="v-gostiax-u-skazki" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png",В гостях у сказки
-https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="chizhik" tvg-logo="https://iptvx.one/picons/chizhik.png",Чижик
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/chizhik.m3u8
@@ -597,11 +597,11 @@ https://jekalich.github.io/smtk/channels/ginger-hd.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="malysh" tvg-logo="https://iptvx.one/picons/malysh.png",СуперГерои
 https://jekalich.github.io/smtk/channels/malysh.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png",Рыжий
-https://stream1.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="detsky" tvg-logo="https://iptvx.one/picons/unikum.png",Уникум
 http://flu.ttk.mx:90/Detskiy/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png",Ducktv
-https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="liova" tvg-logo="https://iptvx.one/picons/liova.png",Лёва
 http://s7.merlive.am/planb/index.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png",Солнце
@@ -627,7 +627,7 @@ http://135.181.115.81:8000/play/a01i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="nicktoons" tvg-logo="https://iptvx.one/picons/nicktoons.png",Nicktoons
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="gulli-girl" tvg-logo="https://iptvx.one/picons/gulli-girl.png",Gulli Girl
-https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png",Ani
 https://jekalich.github.io/smtk/channels/ani.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png",2x2
@@ -639,7 +639,7 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png",1HD
-https://stream1.cinerama.uz/1267/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png",Муз-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8

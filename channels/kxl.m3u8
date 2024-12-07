@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1
-http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzM2NDc4MTAsImlhdCI6MTczMzU2MTQxMCwiY2lkIjo2LCJ1aWQiOjg2NjkwNzg5OCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.YY4-Io-b9MDbkm5eOnKMGpVyjao_DBQLv8xjSP0cT9U&offset=10
+http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzM2ODgxODksImlhdCI6MTczMzYwMTc4OSwiY2lkIjo2LCJ1aWQiOjg2NzE2OTc1MSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.MorWn_GfpfO_wxNyP9jjJ1b0A5q35Q-plnLsl-_Wb24&offset=10

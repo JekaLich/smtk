@@ -493,9 +493,9 @@ http://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
-http://45.132.87.69:8080/eurosport1/mono.m3u8
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
-rtmp://5.182.229.90//7203
+https://ser2.musical.uz/eurosport2_web/tracks-v1a1/mono.m3u8?token=2663d712a938f275bf1fde5041558fa7d5666380-1b0dace76eaeb0133a0f81656f371640-1737494101-1737483301
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
 rtmp://92.119.88.58//271
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD

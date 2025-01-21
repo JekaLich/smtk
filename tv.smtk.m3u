@@ -497,18 +497,18 @@ http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
 https://ser2.musical.uz/eurosport2_web/tracks-v1a1/mono.m3u8?token=2663d712a938f275bf1fde5041558fa7d5666380-1b0dace76eaeb0133a0f81656f371640-1737494101-1737483301
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
-rtmp://92.119.88.58//271
+http://158.101.214.187:8080/channel/343fa46b/index.m3u8?q=f0a6c9939631aa1da84c5fbc3b8f5d9f
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
-rtmp://92.119.88.58//270
+http://158.101.214.187:8080/channel/4c4bbede/index.m3u8?q=f0a6c9939631aa1da84c5fbc3b8f5d9f
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
 http://185.23.80.28:8080/MATCH!_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/match-premier.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
-http://46.174.83.66/Match_Arena_HD/index.m3u8?token=test
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-igra",Матч! Игра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/match-igra.m3u8
@@ -533,7 +533,7 @@ https://jekalich.github.io/smtk/channels/kxl-hd.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
 https://jekalich.github.io/smtk/channels/viasat-sport.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="okko-sport",Окко Спорт
-http://158.101.214.187:8080/channel/509e6197/index.m3u8?q=443d5edac354972a97f67425879f54e1
+http://158.101.214.187:8080/channel/79f39dd7/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
 #EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккей ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/xokkejny.m3u8
@@ -544,15 +544,15 @@ https://jekalich.github.io/smtk/channels/sportivny.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/footbolny.m3u8
 #EXTINF:-1 group-title="Спорт",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="start",Старт
-http://185.23.80.28:8080/START/index.m3u8?token=test
+http://stream-msk-11.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
 #EXTINF:-1 group-title="Спорт" tvg-id="start-triumf",Старт Триумф
 http://88.218.242.237:8000/play/a00d
 #EXTINF:-1 group-title="Спорт" tvg-id="football-ru",Футбол
 https://jekalich.github.io/smtk/channels/football-ru.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="konny-mir",Конный мир
-http://185.23.80.28:8080/Konniy_Mir/index.m3u8?token=test
+http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim",Русский экстрим
 http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
 #EXTINF:-1 group-title="Спорт" tvg-id="qsport-kz",Q Arena
@@ -560,7 +560,7 @@ https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola",Мир баскетбола
 https://jekalich.github.io/smtk/channels/mir-basketbola.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports
-http://94.230.128.105:8080/extreme_sport/index.m3u8
+http://109.200.130.123:7537/play/a02p
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/fightbox-hd.m3u8

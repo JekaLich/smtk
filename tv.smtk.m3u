@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
 https://jekalich.github.io/smtk/channels/amedia1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
-http://tv.ttk.mx:9156
+http://flu.ttk.mx:90/A-2/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
 http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
@@ -176,7 +176,7 @@ https://jekalich.github.io/smtk/channels/tvxxi.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv",Индия
 http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia",Комедия
-http://tv.ttk.mx:9050
+http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczODIyODQ1MSwiaHdpZCI6IjUwMjA1N2UxYTQ3ZDdhYTI5OGE4ZTMzZmFlNWE3NzFhM2IzNDk2ZjBiYzNhYTQ4MTUxZTYwODc2ODQ2YmYzZmYiLCJsYXN0X3JlcV9kYXRlIjoxNzM3NjIzNjUxLCJzZXNzaW9uX2lkIjoiY2JhMDJmNjcwMjBhMzUzNDFkYzNiYTUxMDFiMTQwYTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bbkFWz-em4UC7Z-obrUBFv8qsE8ogXkSGGAZ8yDMRU0
 #EXTINF:-1 group-title="Кино" tvg-id="russky-bestseller",Русский бестселлер
 http://178.57.121.38:8080/rusbest/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="russky-detektiv",Русский детектив
@@ -203,9 +203,6 @@ http://185.23.80.28:8080/Tayna/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-science",Discovery Science
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-eu" audio-track="ru",Investigation Discovery
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="history-ru",History HD
@@ -213,9 +210,9 @@ http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/124
 #EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2 HD
 https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
-http://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+http://45.159.74.14:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
-http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+http://45.159.74.14:80/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viju Explore
 https://jekalich.github.io/smtk/channels/viasat-explore.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viju History
@@ -223,7 +220,7 @@ https://jekalich.github.io/smtk/channels/viasat-history.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature",Viju Nature
 https://jekalich.github.io/smtk/channels/viasat-nature.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viju+ Planet
-https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
+http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
 http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/134
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel" audio-track="ru",Travel Channel HD
@@ -392,7 +389,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rossia1",Россия 1 HD
 https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczODIyODQ1MSwiaHdpZCI6IjUwMjA1N2UxYTQ3ZDdhYTI5OGE4ZTMzZmFlNWE3NzFhM2IzNDk2ZjBiYzNhYTQ4MTUxZTYwODc2ODQ2YmYzZmYiLCJsYXN0X3JlcV9kYXRlIjoxNzM3NjIzNjUxLCJzZXNzaW9uX2lkIjoiY2JhMDJmNjcwMjBhMzUzNDFkYzNiYTUxMDFiMTQwYTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bbkFWz-em4UC7Z-obrUBFv8qsE8ogXkSGGAZ8yDMRU0
 #EXTINF:-1 group-title="Россия" tvg-id="kultura",Россия К
-http://tv.ttk.mx:9005
+http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=rossia_k.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczODIyODQ1MSwiaHdpZCI6IjUwMjA1N2UxYTQ3ZDdhYTI5OGE4ZTMzZmFlNWE3NzFhM2IzNDk2ZjBiYzNhYTQ4MTUxZTYwODc2ODQ2YmYzZmYiLCJsYXN0X3JlcV9kYXRlIjoxNzM3NjIzNjUxLCJzZXNzaW9uX2lkIjoiY2JhMDJmNjcwMjBhMzUzNDFkYzNiYTUxMDFiMTQwYTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bbkFWz-em4UC7Z-obrUBFv8qsE8ogXkSGGAZ8yDMRU0
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ HD
 https://live-stream-01.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczODIyODQ1MSwiaHdpZCI6IjUwMjA1N2UxYTQ3ZDdhYTI5OGE4ZTMzZmFlNWE3NzFhM2IzNDk2ZjBiYzNhYTQ4MTUxZTYwODc2ODQ2YmYzZmYiLCJsYXN0X3JlcV9kYXRlIjoxNzM3NjIzNjUxLCJzZXNzaW9uX2lkIjoiY2JhMDJmNjcwMjBhMzUzNDFkYzNiYTUxMDFiMTQwYTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bbkFWz-em4UC7Z-obrUBFv8qsE8ogXkSGGAZ8yDMRU0
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ
@@ -423,15 +420,11 @@ http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_20000
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="tnt-int-cis",ТНТ-International
-http://sc.id-tv.kz/tntComedy_34_35.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4 HD
 http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczODIyODQ1MSwiaHdpZCI6IjUwMjA1N2UxYTQ3ZDdhYTI5OGE4ZTMzZmFlNWE3NzFhM2IzNDk2ZjBiYzNhYTQ4MTUxZTYwODc2ODQ2YmYzZmYiLCJsYXN0X3JlcV9kYXRlIjoxNzM3NjIzNjUxLCJzZXNzaW9uX2lkIjoiY2JhMDJmNjcwMjBhMzUzNDFkYzNiYTUxMDFiMTQwYTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bbkFWz-em4UC7Z-obrUBFv8qsE8ogXkSGGAZ8yDMRU0
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="tnt4-international",ТНТ4 International
-http://sc.id-tv.kz/tnt4_34_35.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="piatnica",Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда

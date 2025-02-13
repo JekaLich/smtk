@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1
-http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzk0NzY4NzAsImlhdCI6MTczOTM5MDQ3MCwiY2lkIjo2LCJ1aWQiOjg5MzQ0NTMyMSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.Px1Bm-IMDVPYp3Z7sypV--hYnewLbnaqILY-2TclL0A&offset=10
+http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzk1MTk5NzksImlhdCI6MTczOTQzMzU3OSwiY2lkIjo2LCJ1aWQiOjg5MzU2OTUxOCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.JHhP2L3LO2K7QV0HhOHll5J4YLoJZjpVRLIdE6T6QKE&offset=10

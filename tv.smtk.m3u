@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
 https://jekalich.github.io/smtk/channels/amedia1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
-http://flu.ttk.mx:90/A-2/mono.m3u8?token=hs06e
+http://%64m%693%79-%74%76.ru/hls/CH_AMEDIAII.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
 http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
@@ -141,7 +141,7 @@ https://jekalich.github.io/smtk/channels/filmbox-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро
 http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
-http://185.23.80.29:8080/EuroKino/index.m3u8?token=test
+http://185.50.148.2:7709/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
 https://jekalich.github.io/smtk/channels/lubimoe-kino.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
@@ -153,7 +153,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/
 #EXTINF:-1 group-title="Кино" tvg-id="russky-roman",Русский роман
 http://178.57.121.38:8080/rusrom/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion",Русский иллюзион
-http://185.23.80.29:8080/RusIlluzion/index.m3u8?token=test
+http://109.200.130.123:7537/play/a023
 #EXTINF:-1 group-title="Кино",Страх HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/202127.m3u8
@@ -246,11 +246,11 @@ https://jekalich.github.io/smtk/channels/oxotnik-i-rybolov.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/dikiy.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-oxota-hd",Дикая охота HD
-http://185.23.80.29:8080/Dikaya_Ohota/index.m3u8?token=test
+http://45.159.74.14:80/Channel_127/manifest.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
-http://185.23.80.29:8080/Dikaya_Rybalka/index.m3u8?token=test
+http://45.159.74.14:80/Channel_126/manifest.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
-http://185.23.80.29:8080/DialogiORybalke/index.m3u8?token=test
+https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy",Мужской
 http://185.23.80.29:8080/Muzhskoy/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto24",Авто 24
@@ -321,9 +321,9 @@ http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/ocean-tv.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
-http://flu.ttk.mx:90/domashnie_zhivotnye/mono.m3u8?token=hs06e
+http://130.193.73.10:8937/play/a02d
 #EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
-http://185.23.80.29:8080/VMireZhivotnyx/index.m3u8?token=test
+https://stream-msk-04.ott.tricolor.tv/dtv/id160_MSKSG-PVR-1--HD_Anim_Fam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 #EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
 http://83.234.207.29:8010/play/a024/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="morskoy",Моя стихия
@@ -564,7 +564,7 @@ https://jekalich.github.io/smtk/channels/v-gostiax-u-skazki.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/chizhik.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png",Мульт
-http://flu.ttk.mx:90/Tlum_HD/mono.m3u8?token=hs06e
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="kinomult" tvg-logo="https://iptvx.one/picons/kinomult.png",КиноМульт
 http://109.200.130.123:7537/play/a024
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="multimania" tvg-logo="https://iptvx.one/picons/multimania.png",Мультиландия
@@ -580,7 +580,7 @@ https://jekalich.github.io/smtk/channels/malysh.m3u8
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png",Рыжий
 http://185.23.80.29:8080/Ryzhij/index.m3u8?token=test
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="detsky" tvg-logo="https://iptvx.one/picons/unikum.png",Уникум
-http://flu.ttk.mx:90/Detskiy/mono.m3u8?token=hs06e
+http://130.193.73.10:8937/play/a015
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="ducktv" tvg-logo="https://iptvx.one/picons/ducktv.png",Ducktv
 http://178.219.128.68:64888/DUCKTV
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="liova" tvg-logo="https://iptvx.one/picons/liova.png",Лёва

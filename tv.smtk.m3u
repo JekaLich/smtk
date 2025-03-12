@@ -119,7 +119,7 @@ http://live.admuspeh.my/8947/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
 https://jekalich.github.io/smtk/channels/cinema-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nst",НСТ
-http://178.57.121.38:8080/nst/index.m3u8?token=test
+http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 #EXTINF:-1 group-title="Кино" tvg-id="kinojam1",Kinojam 1
 http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 #EXTINF:-1 group-title="Кино" tvg-id="kinojam2",Kinojam 2
@@ -151,7 +151,7 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом кино Премиум HD
 http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 #EXTINF:-1 group-title="Кино" tvg-id="russky-roman",Русский роман
-http://178.57.121.38:8080/rusrom/index.m3u8?token=test
+http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 #EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion",Русский иллюзион
 http://109.200.130.123:7537/play/a023
 #EXTINF:-1 group-title="Кино",Страх HD
@@ -178,9 +178,9 @@ http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia",Комедия
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 #EXTINF:-1 group-title="Кино" tvg-id="russky-bestseller",Русский бестселлер
-http://178.57.121.38:8080/rusbest/index.m3u8?token=test
+http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 #EXTINF:-1 group-title="Кино" tvg-id="russky-detektiv",Русский детектив
-http://178.57.121.38:8080/rusdet/index.m3u8?token=test
+http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 #EXTINF:-1 group-title="Кино" tvg-id="star-cinema",Star Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/star-cinema.m3u8

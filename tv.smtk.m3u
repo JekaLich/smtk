@@ -512,7 +512,7 @@ https://jekalich.github.io/smtk/channels/match-boets.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl",KHL
 https://jekalich.github.io/smtk/channels/kxl.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd",KHL Prime
-https://jekalich.github.io/smtk/channels/kxl-hd.m3u8
+http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
 https://jekalich.github.io/smtk/channels/viasat-sport.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="okko-sport",Окко Спорт

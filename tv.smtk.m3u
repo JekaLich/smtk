@@ -3,9 +3,9 @@
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
 https://jekalich.github.io/smtk/channels/amedia1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
-http://%64m%693%79-%74%76.ru/hls/CH_AMEDIAII.m3u8
+http://176.113.48.221:8986/128
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
-http://stream01.vnet.am/Nauka/index.m3u8
+http://31.173.165.29:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
 https://jekalich.github.io/smtk/channels/amedia-premium.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
@@ -15,7 +15,7 @@ https://jekalich.github.io/smtk/channels/vip-premiere.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-comedy",Viju+ Comedy
 https://jekalich.github.io/smtk/channels/vip-comedy.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
-http://91.205.199.3/vipserialhd/index.m3u8
+http://176.113.48.221:8986/68
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000",Viju TV1000
 https://jekalich.github.io/smtk/channels/tv1000.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",Viju TV1000 Action
@@ -25,7 +25,7 @@ https://jekalich.github.io/smtk/channels/tv1000-russkoe-kino.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-worldkino",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema",Ultra HD Cinema
-http://str02.tv/6870/video.m3u8?token=4bce3826225a8144e51ff6377e290019
+http://31.130.16.62:4022/udp/239.1.12.8:1234
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv",Кино ТВ
 https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 group-title="Кино" tvg-id="bollywood-hd",Bollywood HD
@@ -57,7 +57,7 @@ https://jekalich.github.io/smtk/channels/indiyskoe-kino.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/kinoseria.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
-http://213.226.137.140:81/tl/l415/mpegts
+http://109.200.130.123:7537/play/a021
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd",Блокбастер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/blokbaster-hd.m3u8
@@ -82,7 +82,7 @@ https://jekalich.github.io/smtk/channels/pro-lyubov.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/khit-hd.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dushevnoe-hd",Душевное
-http://193.242.190.6:8099/37/index.m3u8
+http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe-hd",Остросюжетное
 https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 group-title="Кино" tvg-id="romantichnoe-hd",Романтичное
@@ -105,15 +105,15 @@ https://jekalich.github.io/smtk/channels/illuzion-plus.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fox",FX HD
 http://45.143.108.110:2203/FOX
 #EXTINF:-1 group-title="Кино" tvg-id="foxlife",FX Life HD
-http://stream01.vnet.am/KXLTV/tracks-v1a2/mono.m3u8
+http://188.237.47.212:6008
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Comedy Central
-http://live.admuspeh.my/8171/index.m3u8?token=iptvshared
+http://62.233.57.226:8001/play/a00c
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",.black
-http://185.50.148.2:7703/Sony_Turbo/index.m3u8
+http://188.190.222.53/Sony_turbo/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-tv",.red
-http://91.205.199.3/redhd/index.m3u8
+http://176.113.48.221:8986/111
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
-http://185.50.148.2:7703/Sony_Sci-Fi/index.m3u8
+http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b",Plan B
 http://live.admuspeh.my/8947/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
@@ -139,9 +139,9 @@ https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru",FilmBox Russia
 https://jekalich.github.io/smtk/channels/filmbox-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро
-http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
+http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
-http://185.50.148.2:7709/Evrokino/index.m3u8
+http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
 https://jekalich.github.io/smtk/channels/lubimoe-kino.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм
@@ -153,19 +153,19 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/
 #EXTINF:-1 group-title="Кино" tvg-id="russky-roman",Русский роман
 http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion",Русский иллюзион
-http://109.200.130.123:7537/play/a023
+http://178.212.71.253:8000/play/49/index.m3u8
 #EXTINF:-1 group-title="Кино",Страх HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/202127.m3u8
 #EXTINF:-1 group-title="Кино",Фантастика HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="trashtv",Trash
-http://185.23.80.29:8080/TRASH/index.m3u8?token=test
+http://178.163.5.162:4022/udp/234.0.0.3:2000
 #EXTINF:-1 group-title="Кино" tvg-id="start-air",Start Air
-http://live.admuspeh.my/8398/index.m3u8?token=iptvshared
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="start-world",Start World
-http://live.admuspeh.my/8402/index.m3u8?token=iptvshared
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kineko",Кинеко
 https://jekalich.github.io/smtk/channels/kineko.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sapfir",Сапфир
@@ -189,7 +189,7 @@ https://jekalich.github.io/smtk/channels/star-family.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bolt-ru",Bolt
 https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood",Hollywood
-http://109.200.130.123:7537/play/a02g
+http://31.173.165.29:8000/play/a055/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood-hd",Hollywood HD
 http://130.193.73.10:8937/play/a02k
 #EXTINF:-1 group-title="Кино" tvg-id="mir-seriala",Мир сериала
@@ -199,7 +199,8 @@ https://jekalich.github.io/smtk/channels/pobeda.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="arsenaltv",Арсенал
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
 #EXTINF:-1 group-title="Кино" tvg-id="tayna",Тайна
-http://185.23.80.29:8080/Tayna/index.m3u8?token=test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://jekalich.github.io/smtk/channels/tayna.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
@@ -595,7 +596,7 @@ http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="cartoon-network" tvg-logo="https://iptvx.one/picons/cartoon-network.png",Cartoon Network
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="cartoon-classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png",Cartoon Classics
-http://178.163.88.106:4022/udp/234.0.0.238:2000
+http://176.113.48.221:8986/142
 #EXTINF:-1 group-title="Мультфильмы" tvg-id="tiptop" tvg-logo="https://iptvx.one/picons/tiptop.png",ТипТоп
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/tiptop.m3u8

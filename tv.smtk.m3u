@@ -3,11 +3,11 @@
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
 https://jekalich.github.io/smtk/channels/amedia1.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
-http://176.113.48.221:8986/128
+http://tv.ttk.mx:9156
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
-http://31.173.165.29:8000/play/a053/index.m3u8
+http://130.193.73.10:8937/play/a02o
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
-https://jekalich.github.io/smtk/channels/amedia-premium.m3u8
+http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
 https://jekalich.github.io/smtk/channels/vip-megahit.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",Viju+ Premiere

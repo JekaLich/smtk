@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
 
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
-http://93.192.30.13:8070/hdamedia/index.m3u8
+http://109.248.236.51/amedia_1_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
-http://93.192.30.13:8070/a2prolybov/index.m3u8
+http://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
-http://130.193.73.10:8937/play/a02o
+http://109.248.236.51/amedia_hit_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
@@ -477,13 +477,13 @@ http://ott.server-iptv.live/140/video.m3u8?token=A3b61a999e
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
-https://tv.movielab.pro/145/video.m3u8?token=2a617f2e3a5d64a1e3a89efa8af801abd9c79dba-25e9c46ac977f633246ac4c9e6b6b531-1746298409-1746212009
+https://tv.movielab.pro/145/video.m3u8?token=5d3ab75c38281f7aa0e38eae40d1e4e2667645fc-8966202c6c56de125a315b31743ba25d-1746341652-1746255252
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
 http://pro.ipcover.lol:8080/Alexis58174/857164/401957
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
-https://tv.movielab.pro/942/video.m3u8?token=224f01542f9a2d0f99cde5691dcc3168f1b826ab-33ad74100bc73534ef0eabfc381a7745-1746298409-1746212009
+https://tv.movielab.pro/942/video.m3u8?token=6c09d904e99e7cb0204d1096c1d3aebbd3e5ea17-eaf7c5dde4ae2596402db5ce30cbdb3b-1746341652-1746255252
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
-https://tv.movielab.pro/943/video.m3u8?token=18828521d92f248ed2af1d0291f6bbaeb12cc2dd-435df2eca80965564761883f4d01c52a-1746298409-1746212009
+https://tv.movielab.pro/943/video.m3u8?token=39abb59007467afc8d817f2b13d6886c430f25a6-40f8ab852af565f6ccb017ae539eeea5-1746341652-1746255252
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
 http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NjQyMTk5OSwiaHdpZCI6IjNmNmNlNzQ5YzdiZTg3NWI2Y2JjMDdmMTBiODI4ZjY4NzNlY2UzNzczMGM0ZmYzNjVkZDU4YWUzOGY4MWU4ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1ODE3MTk5LCJzZXNzaW9uX2lkIjoiYjBmMDZlNmIyN2IwMDI2YTg1ODQ5Y2UwYmU1ODhiM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oWjtAhAIKUtkUUAqCvrgD5WEAhlkAMi6muPoM0OI_i4
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
@@ -1710,23 +1710,23 @@ http://live.adultiptv.net/gay.m3u8
 #EXTINF:-1 group-title="XXX",Asian
 http://live.adultiptv.net/asian.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="shalun",Шалун HD
-http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYyOTg3MDcsImlhdCI6MTc0NjIxMjMwNywiY2lkIjo2LCJ1aWQiOjkxMzMyMDIyNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Qavm0cbGYd5FOUlt6ihbq_tnCCVe6qF2aXz5khFgsNs&offset=10
+http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYzNDE5NTAsImlhdCI6MTc0NjI1NTU1MCwiY2lkIjo2LCJ1aWQiOjkxMzQwMzczMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D4ltAuW_NBBZLC91_GAD_ecIa4pq-Q-CWCC5Dtc8YzU&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="exxxotica",Exxxotica HD
-http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYyOTg3MDcsImlhdCI6MTc0NjIxMjMwNywiY2lkIjo2LCJ1aWQiOjkxMzMyMDIyNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Qavm0cbGYd5FOUlt6ihbq_tnCCVe6qF2aXz5khFgsNs&offset=10
+http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYzNDE5NTAsImlhdCI6MTc0NjI1NTU1MCwiY2lkIjo2LCJ1aWQiOjkxMzQwMzczMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D4ltAuW_NBBZLC91_GAD_ecIa4pq-Q-CWCC5Dtc8YzU&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="blue-hustler",Blue Hustler
-http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYyOTg3MDcsImlhdCI6MTc0NjIxMjMwNywiY2lkIjo2LCJ1aWQiOjkxMzMyMDIyNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Qavm0cbGYd5FOUlt6ihbq_tnCCVe6qF2aXz5khFgsNs&offset=10
+http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYzNDE5NTAsImlhdCI6MTc0NjI1NTU1MCwiY2lkIjo2LCJ1aWQiOjkxMzQwMzczMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D4ltAuW_NBBZLC91_GAD_ecIa4pq-Q-CWCC5Dtc8YzU&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="erox",Erox
-http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYyOTg3MDcsImlhdCI6MTc0NjIxMjMwNywiY2lkIjo2LCJ1aWQiOjkxMzMyMDIyNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Qavm0cbGYd5FOUlt6ihbq_tnCCVe6qF2aXz5khFgsNs&offset=10
+http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYzNDE5NTAsImlhdCI6MTc0NjI1NTU1MCwiY2lkIjo2LCJ1aWQiOjkxMzQwMzczMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D4ltAuW_NBBZLC91_GAD_ecIa4pq-Q-CWCC5Dtc8YzU&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="brazzers-tv-europe",Brazzers TV Europe
-http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYyOTg3MDcsImlhdCI6MTc0NjIxMjMwNywiY2lkIjo2LCJ1aWQiOjkxMzMyMDIyNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Qavm0cbGYd5FOUlt6ihbq_tnCCVe6qF2aXz5khFgsNs&offset=10
+http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYzNDE5NTAsImlhdCI6MTc0NjI1NTU1MCwiY2lkIjo2LCJ1aWQiOjkxMzQwMzczMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D4ltAuW_NBBZLC91_GAD_ecIa4pq-Q-CWCC5Dtc8YzU&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="redlips",Red Lips HD
-http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYyOTg3MDcsImlhdCI6MTc0NjIxMjMwNywiY2lkIjo2LCJ1aWQiOjkxMzMyMDIyNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Qavm0cbGYd5FOUlt6ihbq_tnCCVe6qF2aXz5khFgsNs&offset=10
+http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYzNDE5NTAsImlhdCI6MTc0NjI1NTU1MCwiY2lkIjo2LCJ1aWQiOjkxMzQwMzczMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D4ltAuW_NBBZLC91_GAD_ecIa4pq-Q-CWCC5Dtc8YzU&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="playboy-tv",Playboy TV
-http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYyOTg3MDcsImlhdCI6MTc0NjIxMjMwNywiY2lkIjo2LCJ1aWQiOjkxMzMyMDIyNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Qavm0cbGYd5FOUlt6ihbq_tnCCVe6qF2aXz5khFgsNs&offset=10
+http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYzNDE5NTAsImlhdCI6MTc0NjI1NTU1MCwiY2lkIjo2LCJ1aWQiOjkxMzQwMzczMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D4ltAuW_NBBZLC91_GAD_ecIa4pq-Q-CWCC5Dtc8YzU&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="babes-tv",Babes TV
-http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYyOTg3MDcsImlhdCI6MTc0NjIxMjMwNywiY2lkIjo2LCJ1aWQiOjkxMzMyMDIyNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Qavm0cbGYd5FOUlt6ihbq_tnCCVe6qF2aXz5khFgsNs&offset=10
+http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYzNDE5NTAsImlhdCI6MTc0NjI1NTU1MCwiY2lkIjo2LCJ1aWQiOjkxMzQwMzczMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D4ltAuW_NBBZLC91_GAD_ecIa4pq-Q-CWCC5Dtc8YzU&offset=10
 #EXTINF:-1 group-title="XXX" tvg-id="russkaya-noch",Русская ночь
-http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYyOTg3MDcsImlhdCI6MTc0NjIxMjMwNywiY2lkIjo2LCJ1aWQiOjkxMzMyMDIyNiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Qavm0cbGYd5FOUlt6ihbq_tnCCVe6qF2aXz5khFgsNs&offset=10
+http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYzNDE5NTAsImlhdCI6MTc0NjI1NTU1MCwiY2lkIjo2LCJ1aWQiOjkxMzQwMzczMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.D4ltAuW_NBBZLC91_GAD_ecIa4pq-Q-CWCC5Dtc8YzU&offset=10
 #EXTINF:-1 group-title="XXX",Playboy HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="XXX",Babestation

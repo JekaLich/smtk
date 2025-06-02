@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
 
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
-http://109.248.236.51/amedia_1_hd/mono.m3u8
+http://45.143.108.110:2200/amedia1
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
-http://sc.id-tv.kz/A2.m3u8
+http://45.143.108.110:2200/amedia2
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
-http://109.248.236.51/amedia_hit_hd/mono.m3u8
+http://45.143.108.110:2200/amediahit
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
@@ -15,7 +15,7 @@ https://jekalich.github.io/smtk/channels/vip-premiere.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-comedy",Viju+ Comedy
 https://jekalich.github.io/smtk/channels/vip-comedy.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
-http://176.113.48.221:8986/68
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5MzQwMDUsImlhdCI6MTc0ODg0NzYwNSwiY2lkIjo2LCJ1aWQiOjkyMTEwODQ1NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.dx2q3iplBdsIfS31QLhXIuxolXyUbns5wQo1qS2KUDU&offset=10
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000",Viju TV1000
 https://jekalich.github.io/smtk/channels/tv1000.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",Viju TV1000 Action

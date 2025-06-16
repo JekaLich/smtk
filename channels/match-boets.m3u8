@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1
-http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxMDAzNTUsImlhdCI6MTc1MDAxMzk1NSwiY2lkIjo2LCJ1aWQiOjkyNDAwMzU0NCwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.QJKIU0dQbMfxu8XlWS8RZ-9QhgyC1CeW1IcCrIqaE-g&offset=10
+http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTAxNDM0NjAsImlhdCI6MTc1MDA1NzA2MCwiY2lkIjo2LCJ1aWQiOjkyNDA5NTU4MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.S-1AFwET-ROg7u59p1Ym_Gb6sPeqpG_tSWJ4MJytC5o&offset=10

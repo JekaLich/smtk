@@ -203,7 +203,7 @@ https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/p
 https://jekalich.github.io/smtk/channels/tayna.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel",Discovery Channel HD
-http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-eu" audio-track="ru",Investigation Discovery
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="history-ru",History HD
@@ -211,9 +211,9 @@ http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/124
 #EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2 HD
 https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
-http://45.159.74.14:80/NatGeoWild/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
-http://45.159.74.14:80/NationalGeographic/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viju Explore
 https://jekalich.github.io/smtk/channels/viasat-explore.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viju History

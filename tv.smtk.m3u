@@ -1847,8 +1847,6 @@ http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e0
 http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
 http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наша сибирь 4K
-http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Живая планета
 http://127.0.0.1:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Наука 2.0

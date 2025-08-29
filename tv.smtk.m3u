@@ -39,9 +39,9 @@ https://jekalich.github.io/smtk/channels/kinoxit.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya",Киносемья
 https://jekalich.github.io/smtk/channels/kinosemiya.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks",Киномикс
-https://vod.splay.uz/live_splay/original/KinomiksHD/mono.ts.m3u8
+http://158.160.149.81:8080/4468/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino",Мужское кино
-https://vod.splay.uz/live_splay/original/Mujskoe-KinoHD/mono.ts.m3u8
+http://45.159.74.22/MujskoeKino/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
 https://jekalich.github.io/smtk/channels/kinosvidanie.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino",Наше новое кино
@@ -57,7 +57,7 @@ https://jekalich.github.io/smtk/channels/indiyskoe-kino.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/kinoseria.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas",Киноужас
-http://109.200.130.123:7537/play/a021
+http://178.217.72.66:8080/kinoujas/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd",Блокбастер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://jekalich.github.io/smtk/channels/blokbaster-hd.m3u8
@@ -255,11 +255,11 @@ https://jekalich.github.io/smtk/channels/dikaya-rybalka-hd.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
 http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTY1Mzc5MTMsImlhdCI6MTc1NjQ1MTUxMywiY2lkIjo2LCJ1aWQiOjk0MDgxNDMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.3ywNQuNZF44sdz5WlOvKZ7xPxyrpuPMwYFZzv3dhgDg&offset=10
 #EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy",Мужской
-http://80.245.95.243:8888/play/sgg798/index.m3u8
+http://77.235.1.19:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto24",Авто 24
-https://vod.splay.uz/live_splay/original/Avto24/mono.ts.m3u8
+http://89.221.57.5:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto-plus",Авто Плюс
-http://94.232.104.237:8000/play/087/index.m3u8
+http://87.246.54.249:8085/AvtoPlus/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="drive",Драйв
 https://jekalich.github.io/smtk/channels/drive.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="texno-24",Техно 24

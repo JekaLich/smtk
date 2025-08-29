@@ -5,7 +5,7 @@ http://178.217.72.66:8080/A1/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
 http://178.217.72.66:8080/A2/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
-https://stream-msk-12.ott.tricolor.tv/dtv/id820_MSKSG-PVR-1--Amedia_Hit_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzA4ODAyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2NDgzMjI3LCJzZXNzaW9uX2lkIjoiNmIyMzdkODBkODVhNTIxNTc1MGNmMjM4ZDIyN2UzODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VV5q6l0RqTpUaAS9zp_0g-CrTe8lCxwQMFkom1T_Vj4
+http://45.159.74.22/Nauka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
@@ -103,7 +103,7 @@ https://jekalich.github.io/smtk/channels/denpobedy.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
 https://jekalich.github.io/smtk/channels/illuzion-plus.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fox",FX HD
-http://45.143.108.110:2203/FOX
+http://45.159.74.22/Fox/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="foxlife",FX Life HD
 http://188.237.47.212:6008
 #EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy",Comedy Central
@@ -111,9 +111,9 @@ http://62.233.57.226:8001/play/a00c
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",.black
 http://188.190.222.53/Sony_turbo/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-tv",.red
-http://176.113.48.221:8986/111
+http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTY1ODAxMTgsImlhdCI6MTc1NjQ5MzcxOCwiY2lkIjo2LCJ1aWQiOjk0MDk2MjkwOCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.nYNeOJV2pmm3WsEmkUZyFLrTS4aydZ2j-RwpcNtoefQ&offset=10
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
-http://130.193.73.10:8937/play/a02q
+http://45.159.74.22/Kinoseriya/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b",Plan B
 http://77.235.1.19:8000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
@@ -129,7 +129,7 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/pls
 #EXTINF:-1 group-title="Кино" tvg-id="super",Суббота
 http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzA4ODAyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2NDgzMjI3LCJzZXNzaW9uX2lkIjoiNmIyMzdkODBkODVhNTIxNTc1MGNmMjM4ZDIyN2UzODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VV5q6l0RqTpUaAS9zp_0g-CrTe8lCxwQMFkom1T_Vj4
 #EXTINF:-1 group-title="Кино" tvg-id="feniks-plus-kino",Феникс+Кино
-http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
+http://77.235.1.19:8000/play/a059/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit",НТВ Хит
@@ -141,7 +141,7 @@ https://jekalich.github.io/smtk/channels/filmbox-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро
 http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino",Еврокино
-http://87.120.142.11:18000/STSLove
+http://89.221.57.5:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
 https://jekalich.github.io/smtk/channels/lubimoe-kino.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm",Золотая Коллекция. Мосфильм

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1
-http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTczNTc5ODEsImlhdCI6MTc1NzI3MTU4MSwiY2lkIjo2LCJ1aWQiOjk0MzM1NTU0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.u5Rb8PwGfHMK2n-ICkXhZ_RuxA3znDU-2u-GGGS-suM&offset=10
+http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTc0MDIxMDUsImlhdCI6MTc1NzMxNTcwNSwiY2lkIjo2LCJ1aWQiOjk0MzQ1MjY5OCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.idwjI_CIASbl-kZbTGSOgzENRM1VfCvKcuq2F42-60s&offset=10

@@ -355,9 +355,9 @@ https://jekalich.github.io/smtk/channels/gags-network.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://jekalich.github.io/smtk/channels/anekdottv.m3u8
 #EXTINF:-1 group-title="Юмор" tvg-id="kvn-tv",КВН ТВ
-http://80.245.95.243:8888/play/a02t/index.m3u8
+http://91.207.115.228:5000/c76
 #EXTINF:-1 group-title="Юмор" tvg-id="perec-int",Перец
-https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
+http://158.101.222.193:88/georgia_play.php?id=perec
 
 #EXTINF:-1 group-title="Женские" tvg-id="mama",Мама
 http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzU4MTA0NCwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2OTc2MjQ0LCJzZXNzaW9uX2lkIjoiNzhhZmY5MGQ5ZjZmMTk4MzA4MDJmYzgyNzJjODU1ZWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.pwR7sxbH0wMZqckEL3p5SIQEhAlMOp6JQYxVGfim568
@@ -445,7 +445,7 @@ https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rbk",РБК
 https://e3-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="nastoyaschee-vremia",Настоящее время
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
+https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="mir-24",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="mir",Мир

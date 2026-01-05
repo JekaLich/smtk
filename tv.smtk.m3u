@@ -537,7 +537,7 @@ http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?d
 #EXTINF:-1 group-title="Спорт" tvg-id="start-triumf",Старт Триумф
 https://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2ODE4NTczNCwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY3NTgwOTM0LCJzZXNzaW9uX2lkIjoiOTJiNmZhNzZjOWIxYjE3ZjZmZTZmNjUzY2FhZjhmYjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UVEZvO5WlCbOdwpQGCW-FWOLWl17JuZLk0yzPNSiVKo
 #EXTINF:-1 group-title="Спорт" tvg-id="football-ru",Футбол
-https://jekalich.github.io/smtk/channels/football-ru.m3u8
+http://91.207.115.228:5000/c102
 #EXTINF:-1 group-title="Спорт" tvg-id="konny-mir",Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim",Русский экстрим
@@ -545,9 +545,9 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/0
 #EXTINF:-1 group-title="Спорт" tvg-id="qsport-kz",Q Arena
 https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola",Мир баскетбола
-https://jekalich.github.io/smtk/channels/mir-basketbola.m3u8
+http://195.158.223.132:8003/Mir_Basketbola
 #EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports",Extreme sports
-http://176.113.48.221:8986/27
+http://91.207.115.228:5000/c112
 #EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd",FightBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://jekalich.github.io/smtk/channels/fightbox-hd.m3u8

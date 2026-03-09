@@ -431,7 +431,7 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?dr
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="piatnica",Пятница! HD
-https://edge01r.mediavitrina.ru/hls-livef7/friday/index.m3u8?token=v2.5c7JpnknJIS1jgXSfju-uq_28VWqljCdJeBGBZ4JRZc._gsEXa_latZd3M_wuQjCXMrf3ef5bFT31vzgfJC2X8o.1773610691.c05e9b898b04de461bf8eac0344e84f7
+https://edge02r.mediavitrina.ru/hls-livef7/friday/index.m3u8?token=v2.Jrrn4mBYPXv8s4x0Y5xhEtzdCy7Rwn1OMmRnt3DSfPM.HW--0KjYG_6aNenH-NvIW9TG_FDg2jrSz0zN4-pf-zI.1773653893.82ac7cf166712757179268917cd086b0
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda-plus",Звезда Плюс
@@ -488,7 +488,7 @@ http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
-https://edge01d.mediavitrina.ru/hls-livef5/matchtv/index.m3u8?token=v2.npmHxmk2IEPQyuqoxrtDmgCZVlztdqDqGA1cxDfPL_M.DOG0FyjZ4FgrfD5kNkN9dVHOd89hKEa4eeZzoYZTKhk.1773610689.f7131206782ac56dcc994e7d8cf68533
+https://edge01r.mediavitrina.ru/hls-livef6/matchtv/index.m3u8?token=v2.Wgj7LRqp5mqm6qah1IllSzMtQu0X11eNm_KlUQLliJM.UXTWtdhdHM875_MZMUkVlPsbafp13lXFQFwAK6hjpZ4.1773653890.d7380afc53969feac2d8951edf967975
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://jekalich.github.io/smtk/channels/match-premier.m3u8

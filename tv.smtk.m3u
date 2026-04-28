@@ -396,8 +396,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ HD
 https://live-stream-01.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NjUwMzMyMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1ODk4NTIzLCJzZXNzaW9uX2lkIjoiMjE2MjAwODNhY2ZhNjMzYmJiODllNGQ3ZjNjOWM3NTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.D8uTELXK7AqjYLIdKaexzc-qD6loHqVPNpVl_mcGU2A
-#EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ HD (test)
-https://jekalich.github.io/smtk/channels/ntv.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8

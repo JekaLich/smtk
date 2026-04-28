@@ -473,18 +473,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 #EXTINF:-1 group-title="Новости" tvg-id="rtvi",RTVi
-http://178.134.1.158:8081/rtvi/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="dozhd",Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="euronews",Euronews
-https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+http://77.245.98.18:8000/play/a007
 #EXTINF:-1 group-title="Новости" tvg-id="cctv-ru",CGTN Русский
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
-http://87.76.32.36:8001/eurosport1hd
+http://85.117.37.41/eurosport1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
-http://82.22.174.149/iptv_proxy/stream.php?stream=234%2Findex.m3u8
+http://85.117.37.41/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD

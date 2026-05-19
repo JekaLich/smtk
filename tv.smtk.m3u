@@ -549,7 +549,7 @@ https://edge01d.mediavitrina.ru/hls-livef6/matchtv/index.m3u8?token=v2.57HgXVTAu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://jekalich.github.io/smtk/channels/match-premier.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
-http://185.46.16.239:8000/Match_Arena
+https://kino.zunotv.workers.dev/match_arena_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт" tvg-id="match-igra",Матч! Игра

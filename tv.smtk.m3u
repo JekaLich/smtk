@@ -1,5 +1,58 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" m3uautoload=1 cache=2000 deinterlace=1
 
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinozal-prem-1",BCU Кинозал Premiere 1 HD
+https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_1_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinozal-prem-2",BCU Кинозал Premiere 2 HD
+https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_2_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinozal-prem-3",BCU Кинозал Premiere 3 HD
+https://kino.zunotv.workers.dev/BCU_Kinozal_Premiere_3_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-action",BCU Action HD
+https://kino.zunotv.workers.dev/BCU_Action_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-catastrophe",BCU Catastrophe HD
+https://kino.zunotv.workers.dev/BCU_Catastrophe_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-cinema",BCU Cinema HD
+https://kino.zunotv.workers.dev/BCU_Cinema_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-cinemaplus",BCU Cinema+ HD
+https://kino.zunotv.workers.dev/BCU_Cinema_Plus_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-criminal",BCU Criminal HD
+https://kino.zunotv.workers.dev/BCU_Criminal_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-fantastic",BCU Fantastic HD
+https://kino.zunotv.workers.dev/BCU_Fantastic_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-filmystic",BCU Filmystic HD
+https://kino.zunotv.workers.dev/BCU_FilMystic_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-history",BCU History HD
+https://kino.zunotv.workers.dev/BCU_History_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-comedy",BCU Comedy HD
+https://kino.zunotv.workers.dev/BCU_Comedy_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-romantic",BCU Romantic HD
+https://kino.zunotv.workers.dev/BCU_Romantic_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kinorating",BCU Kinorating HD
+https://kino.zunotv.workers.dev/BCU_Kinorating_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-marvel",BCU Marvel HD
+https://kino.zunotv.workers.dev/BCU_Marvel_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-premiere",BCU Premiere HD
+https://kino.zunotv.workers.dev/BCU_Premiere_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-stars",BCU Stars HD
+https://kino.zunotv.workers.dev/BCU_Stars_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-ultra4k",BCU Ultra 4K
+https://kino.zunotv.workers.dev/BCU_Ultra_4K/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-vhs",BCU VHS HD
+https://kino.zunotv.workers.dev/BCU_VHS_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-svaty",BCU Сваты HD
+https://kino.zunotv.workers.dev/BCU_Svaty_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-sssr",BCU СССР HD
+https://kino.zunotv.workers.dev/BCU_USSR_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-russian",BCU Russian HD
+https://kino.zunotv.workers.dev/BCU_Russian_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-ruserial",BCU RUSerial HD
+https://kino.zunotv.workers.dev/BCU_RUSERIAL_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kids",BCU Kids HD
+https://kino.zunotv.workers.dev/BCU_Kids_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-kids-plus",BCU Kids+ HD
+https://kino.zunotv.workers.dev/BCU_Kids_Plus_HD/index.m3u8
+#EXTINF:-1 group-title="BCU" tvg-id="bcu-multserial",BCU Мультсериал HD
+https://kino.zunotv.workers.dev/BCU_Multserial_HD/index.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
 https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
@@ -208,11 +261,11 @@ http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-eu" audio-track="ru",Investigation Discovery
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="history-ru",History HD
-http://bnajv.hdme.top/p/3121da06ebcdce752aef750d5d1c8070/124
+http://185.78.112.47:8077/History-HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2 HD
 https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
-http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+http://185.78.112.47:8077/natgeo_wild_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viju Explore
@@ -305,7 +358,7 @@ https://jekalich.github.io/smtk/channels/zootv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://jekalich.github.io/smtk/channels/ministerstvo-idey.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet
-http://135.181.115.81/russia/animal_planet/playlist.m3u8
+http://185.78.112.47:8077/AnimalPlanetRussiaHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="big-planet",Big Planet
 http://5.153.190.251:8000/play/a08g
 #EXTINF:-1 group-title="Познавательные" tvg-id="hd-life",HD Life
@@ -483,9 +536,9 @@ http://77.245.98.18:8000/play/a007
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport1",Eurosport 1 HD
-http://85.117.37.41/eurosport1/index.m3u8
+http://185.78.112.47:8077/Eurosport1HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
-http://85.117.37.41/eurosport2/index.m3u8
+http://185.78.112.47:8077/Eurosport2HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
@@ -1655,15 +1708,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus1",Беларусь 1
-https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w695777312_b5160000_sleng.m3u8
+https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w148744111_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus2",Беларусь 2
-https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w695777312_b5160000_sleng.m3u8
+https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w148744111_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus3",Беларусь 3
 https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w680816830_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus5-inet",Беларусь 5 Интернет
 https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus24",Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24/chunklist_w148744111_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-id="tro",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 

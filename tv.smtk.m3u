@@ -103,7 +103,7 @@ https://jekalich.github.io/smtk/channels/nashe-novoe-kino.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
 https://jekalich.github.io/smtk/channels/rodnoe-kino.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия
-https://jekalich.github.io/smtk/channels/kinokomedia.m3u8
+https://kino.zunotv.workers.dev/kinokomediya_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
 https://jekalich.github.io/smtk/channels/indiyskoe-kino.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria",Киносерия
@@ -168,7 +168,7 @@ https://kino.zunotv.workers.dev/red_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi",.sci-fi
 https://kino.zunotv.workers.dev/sci_fi_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b",Plan B
-http://46.32.176.50/paramountchannel/index.m3u8
+https://kino.zunotv.workers.dev/plan_b_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
 https://jekalich.github.io/smtk/channels/cinema-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nst",НСТ
@@ -209,13 +209,13 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/p
 #EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion",Русский иллюзион
 http://46.32.176.50/russkiyiluzion/index.m3u8
 #EXTINF:-1 group-title="Кино",Страх HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/202127.m3u8
+https://kino.zunotv.workers.dev/strah_hd/index.m3u8
 #EXTINF:-1 group-title="Кино",Фантастика HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="trashtv",Trash
-http://5.188.159.128:8070/Trash_HD/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
+https://jekalich.github.io/smtk/channels/trashtv.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="start-air",Start Air
 http://185.78.112.47:8077/start_air/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="start-world",Start World
@@ -228,7 +228,7 @@ https://jekalich.github.io/smtk/channels/sapfir.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tvxxi",TV XXI
 https://jekalich.github.io/smtk/channels/tvxxi.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv",Индия
-http://80.245.95.243:8888/play/a00v/index.m3u8
+https://kino.zunotv.workers.dev/indiya_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia",Комедия
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
 #EXTINF:-1 group-title="Кино" tvg-id="russky-bestseller",Русский бестселлер
@@ -243,11 +243,11 @@ https://jekalich.github.io/smtk/channels/star-family.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bolt-ru",Bolt
 https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood",Hollywood
-http://31.173.165.29:8000/play/a055/index.m3u8
+http://37.46.49.14:18010/play/a09n/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood-hd",Hollywood HD
-http://130.193.73.10:8937/play/a02k
+https://kino.zunotv.workers.dev/hollywood_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mir-seriala",Мир сериала
-https://jekalich.github.io/smtk/channels/mir-seriala.m3u8
+https://kino.zunotv.workers.dev/mir_seriala_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda",Победа
 https://jekalich.github.io/smtk/channels/pobeda.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="arsenaltv",Арсенал
@@ -529,7 +529,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="rtvi",RTVi
 https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="dozhd",Дождь
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b6692000.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="euronews",Euronews
 http://77.245.98.18:8000/play/a007
 #EXTINF:-1 group-title="Новости" tvg-id="cctv-ru",CGTN Русский

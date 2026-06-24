@@ -518,21 +518,17 @@ https://jekalich.github.io/smtk/channels/match-boets.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl",KHL
 https://jekalich.github.io/smtk/channels/kxl.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd",KHL Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://jekalich.github.io/smtk/channels/kxl-hd.m3u8
+http://193.25.8.59:8000/khl
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
 https://jekalich.github.io/smtk/channels/viasat-sport.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="okko-sport",Окко Спорт
 http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккей ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://jekalich.github.io/smtk/channels/xokkejny.m3u8
+https://stream-msk-06.ottgoods.ru/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MjUxODI2MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgxOTEzNDYyLCJzZXNzaW9uX2lkIjoiZWI5ZGJiZTMwMWQ4NjJmNzEzMjE5NjI4YzE1NTAxMzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kLawXpq7_CkPwhrZGSyQWuMHtm1iHDKijvP0IEBPcbw
 #EXTINF:-1 group-title="Спорт" tvg-id="sportivny",ТВ Спорт
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://jekalich.github.io/smtk/channels/sportivny.m3u8
+https://stream-msk-08.ottgoods.ru/dtv/id733_MSKSG-PVR-1--Sportivnii/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MjUxODI2MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgxOTEzNDYyLCJzZXNzaW9uX2lkIjoiZWI5ZGJiZTMwMWQ4NjJmNzEzMjE5NjI4YzE1NTAxMzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kLawXpq7_CkPwhrZGSyQWuMHtm1iHDKijvP0IEBPcbw
 #EXTINF:-1 group-title="Спорт" tvg-id="footbolny",Мяч
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://jekalich.github.io/smtk/channels/footbolny.m3u8
+https://stream-msk-08.ottgoods.ru/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MjUxODI2MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzgxOTEzNDYyLCJzZXNzaW9uX2lkIjoiZWI5ZGJiZTMwMWQ4NjJmNzEzMjE5NjI4YzE1NTAxMzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kLawXpq7_CkPwhrZGSyQWuMHtm1iHDKijvP0IEBPcbw
 #EXTINF:-1 group-title="Спорт",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="start",Старт

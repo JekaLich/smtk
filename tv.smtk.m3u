@@ -493,8 +493,7 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
 https://edge02d.mediavitrina.ru/hls-livef5/matchtv/index.m3u8?token=v2.YhrjUiFLn1ciGohEiiIPcMcWhpaksR0ZFfAztf1f5Qw.5yU_3SO4WbYBKT6nJIpyVCX9Mn0oQ-Fo01Z_oVdaGBk.1782913089.a6b0dcbeb8ceecfc543d7fefc3fe050d
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://jekalich.github.io/smtk/channels/match-premier.m3u8
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI2IDY6MTA6MDIgUE0maGFzaF92YWx1ZT1ZT0ZwamIxRmtSTlhWQ3NOT0ZxTllnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD1tZWdhcHVsdF9Ga2NYRXg4VEJSaElOZzFKU1Y5TkgxZFlVMU1GVzBVV0JoMEhDQVFLUGhrUlRrNGNVUms9
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
 http://46.32.176.50/MatchArenaHD/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета

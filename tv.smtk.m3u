@@ -216,11 +216,11 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=132626&ex
 #EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=132627&extension=ts&play_token=TS9y3Xagal
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viju Explore
-https://jekalich.github.io/smtk/channels/viasat-explore.m3u8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=301004&extension=ts&play_token=wGTh5R8fkd
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viju History
-https://jekalich.github.io/smtk/channels/viasat-history.m3u8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=132776&extension=ts&play_token=cC20E4W7JH
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature",Viju Nature
-https://jekalich.github.io/smtk/channels/viasat-nature.m3u8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148928&extension=ts&play_token=eARCTWLYIx
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viju+ Planet
 http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
@@ -242,27 +242,23 @@ http://94.232.104.237:8000/play/072/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxota-i-rybalka",Охота и рыбалка
 http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="oxotnik-i-rybolov",Охотник и рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://jekalich.github.io/smtk/channels/oxotnik-i-rybolov.m3u8
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikiy",Дикий
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://jekalich.github.io/smtk/channels/dikiy.m3u8
+https://s70378.cdn.ngenix.net/dikiy/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-oxota-hd",Дикая охота HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://jekalich.github.io/smtk/channels/dikaya-oxota-hd.m3u8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=132461&extension=ts&play_token=TOwMz410HY
 #EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.0.0 Safari/537.36
-https://jekalich.github.io/smtk/channels/dikaya-rybalka-hd.m3u8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=132462&extension=ts&play_token=jXxjYrdWZk
 #EXTINF:-1 group-title="Познавательные" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
-http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODQ5MTkyOTMsImlhdCI6MTc4NDgzMjg5MywiY2lkIjo2LCJ1aWQiOjEwNjk3MzI1NTEsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.JzxupxiwXD5r_iAw5xfBlAnCDh2833C31NDSWO95TGQ&offset=10
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148935&extension=ts&play_token=7YmGcJaDo9
 #EXTINF:-1 group-title="Познавательные" tvg-id="muzhskoy",Мужской
 http://77.235.1.19:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto24",Авто 24
 http://89.221.57.5:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="avto-plus",Авто Плюс
-http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODQ5MTkyOTMsImlhdCI6MTc4NDgzMjg5MywiY2lkIjo2LCJ1aWQiOjEwNjk3MzI1NTEsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.JzxupxiwXD5r_iAw5xfBlAnCDh2833C31NDSWO95TGQ&offset=10
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="drive",Драйв
-https://jekalich.github.io/smtk/channels/drive.m3u8
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="texno-24",Техно 24
 http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NzM1MDc1MSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2NzQ1OTUxLCJzZXNzaW9uX2lkIjoiYTdjZDcxNmRhNWM0MGVmM2Q2OThiOTMyYmQ4NDMwYmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bid-n6gYWnUGwU_6kR99F1TUOe50UwNDB3wnFOgomHY
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda",Живая природа
@@ -319,7 +315,7 @@ http://94.232.104.237:8000/play/107/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="glazami-turista",Глазами туриста
 http://217.174.229.136:8000/play/a043
 #EXTINF:-1 group-title="Познавательные" tvg-id="zagorodny-int",Загородный International
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=8qD5w2HR6rw5b-n78-wy3A&e=2087208639&scheme=https
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=YzrVESlW-qipjl7GTfKbbQ&e=2087295100&scheme=https
 #EXTINF:-1 group-title="Познавательные" tvg-id="oruzhie",Оружие
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Oruzhie.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NzM1MDc1MSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2NzQ1OTUxLCJzZXNzaW9uX2lkIjoiYTdjZDcxNmRhNWM0MGVmM2Q2OThiOTMyYmQ4NDMwYmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bid-n6gYWnUGwU_6kR99F1TUOe50UwNDB3wnFOgomHY
 #EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv",Ocean TV
@@ -394,27 +390,27 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="kultura",Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ HD
-https://edge02p.mediavitrina.ru/hls-livef5/ntv_msk/index.m3u8?token=v2.u3EQoPyWUwYb8LTYTyvf8fd8piWrPfqGtw0g9-DSpOc.lL1Hcr5bpjbGjnMRfYUDGBr5R37q--mKreONr8Nqz4E.1787823489.ef73bf391a47fcaea63db399bfc6d732
+https://edge02p.mediavitrina.ru/hls-livef5/ntv_msk/index.m3u8?token=v2.jKbZ537TNUXMMpTwK73-23cHC0kaOV4t3dhbQGBQuWY.QeijhLotGjTF1r6pBaiurdx-NPZHaoOruFm0xEtrRUs.1787895489.4e2bab9254ab4c67570b3068c9845f20
 #EXTINF:-1 group-title="Россия" tvg-id="ntv",НТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tvcentr",ТВЦ HD
-https://edge03d.mediavitrina.ru/hls-livef6/tvc/index.m3u8?token=v2.XvvNLwppn3zqM--Y3Zmsoc85z8AW1FInOHjApCbtpGE.nxg4XacCYtNCsfJLJfxJwFW0T589-OYivAbNqO5BdNA.1787823490.2a84e6ab852a0bdc3c6c3862a3445eb4
+https://edge03p.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2.s8Q2RNaIEslxs5iectmgbIBumUCaRYZlmyhYq-GQ2ZQ.EnJxNcUDlOQYNJr1pb_VsLqefs1cvLeqYumN2P5BBAs.1787895490.bf2d121fb59413c58970fc16a8707543
 #EXTINF:-1 group-title="Россия" tvg-id="tvcentr",ТВ Центр
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал HD
-https://edge04p.mediavitrina.ru/hls-livef7/5tv/index.m3u8?token=v2.YcJgtNq-hBG121z6sbKFDv9tYEFokwIO6SISj2e2uPk.wAu184zOrMaNZp1PL_Z-FFcrPlAi6rmVDynH7OjSTrI.1787823489.96b4e7341cb9c67c88ef1bfc324583a9
+https://edge02r.mediavitrina.ru/hls-livef7/5tv/index.m3u8?token=v2.rqWQwdJINBxu_EnZFnI0QVzYk8dp2S0nZJj-cUdWJWo.iDvELGBzlcCnE7d-jeJLqMc8TOFD-znGif4I3wPCaso.1787895489.547c468fc6ca2c09ac4df4f626a456b8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ HD
-https://edge01d.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.1Dagd1dopTCmP10hNRLMYw9Ri43axiF50awrUqTdNcw.Aeoz-rax3OIkHBVhvaxNVogGZkrWuSkT3u9SzGfeies.1787823490.66e1ba3b6da2b21eecb01c22366aadba
+https://edge01p.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.YjyECw20BUq624h0IwKN_f3ln8hS0puYw-AkPcdsZ4M.tqv0DAcvZ4zXzFU9PVqC8DiD1QcSQSy93amVfdekX-E.1787895490.816db015f2d8e432ccf87fd3cf74a421
 #EXTINF:-1 group-title="Россия" tvg-id="rentv",Рен ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="sts",СТС HD
-https://edge02p.mediavitrina.ru/hls-livef6/ctc/index.m3u8?token=v2.8fw05_bz5jp3h-W9SKh5og8nEoIDv4hvsbD2rDK_VBo.gIa98V9WChsydySXvPVkHSF2oAiGrk4Eujb4PHY0nHc.1787823490.d3afc0823e85066e54837f36b25960ab
+https://edge02d.mediavitrina.ru/hls-livef6/ctc/index.m3u8?token=v2.h-OFCFV_OpW-JRJvdxjpWsiy5VBNJzUjJkiRkGCygP0.RyHDhlmk5qSO1lRwuhiw_FCSAVjG6rpTtstwwt-Qbdk.1787895490.bbf5ead8385325fa66c754092024eb93
 #EXTINF:-1 group-title="Россия" tvg-id="sts",СТС
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
@@ -422,23 +418,23 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ HD
-https://edge04p.mediavitrina.ru/hls-livef8/tnt/index.m3u8?token=v2.9I4g2oRqRctosZaPHLzLEACLmEleIK4p2RqPIJhdcZE.chtnLfBnaTbJrEpfq-Kq_prR47w4rpdqJkJ4lo6VtTo.1787823491.68e6af1f9478635afd9bd151546396c4
+https://edge01p.mediavitrina.ru/hls-livef8/tnt/index.m3u8?token=v2.QhVDrOwS77JVRi8rUgjGYmMRPwg6-OR-lrQVTx4XJLM.L9QO_cdLKfuk8CMnGKHz2WDfjNzeOz8TO1owE6YA57s.1787895491.4a9775f2610c6958542b3cba6de8e739
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=6GJpDgnN6sdjeYeHAwh5iA&e=2087208634&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=NoJxbbNteVIqSASdz8_1jA&e=2087295093&scheme=https
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="piatnica",Пятница! HD
-https://edge05p.mediavitrina.ru/hls-livef8/friday/index.m3u8?token=v2.gotnQB8EtxEDwyjUNBJ-ThAL--lrgQy63uAVDVHv2Cg.KRyFiFI0ycDPmKQqR4TFe0oPW0zII7Gzhir8XVt0dtw.1787823491.190ea0872c73c838d6519a20aa7e180e
+https://edge02d.mediavitrina.ru/hls-livef7/friday/index.m3u8?token=v2.mseOdvkhSLnw0tgDnHDTZGv50ne325_W15PjUgzwRPI.1u9IVVuY8WI0zLujiaWTqUGDL2gsu8unAPXmSq2a_Qs.1787895491.cf77466154ffb470c900e63adbc162b8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda-plus",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tv3-ru",ТВ3 HD
-https://edge02p.mediavitrina.ru/hls-livef7/tv3/index.m3u8?token=v2.2cPR29Mf31OT7LdOfskYBA7i9vR5X4IMKuYIRnnMoBU.Zj7Dh8jPZtwSlvayB7UpqkXQxpazR3Vm8-_ZlMY-YnA.1787823491.3ad13bc95b3c549918b260a5ea58b582
+https://edge01r.mediavitrina.ru/hls-livef8/tv3/index.m3u8?token=v2.Ip3RHY2nerE8a2DuAYDfSh7qQOZr83wQkO8xAjlGh_Y.O-QMsVDOoCcfpRPhgm9kXLC3b02jUAKabfwUKfyyN5U.1787895491.1eb81cc4e21879b5c342d8c7b3e9e40f
 #EXTINF:-1 group-title="Россия" tvg-id="rossia-24",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="izvestia",Известия
@@ -454,13 +450,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="vmeste-rf",Вместе-РФ
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="domashny",Домашний HD
-https://edge02r.mediavitrina.ru/hls-livef5/ctc-dom/index.m3u8?token=v2.OrtyXE4Nzq2QkRgWX_BK5ic2lmcdsMwSdQSx8yWZGIY.nqmM_Dgr5jIm1IH_WZc5lI2GMI6oF77Hcjb-tl6Tq70.1787823490.8ce9320b59023b4d8a110b6ab0bb9252
+https://edge01p.mediavitrina.ru/hls-livef5/ctc-dom/index.m3u8?token=v2.oqEYsT7_JIfBaBawQbZKERbj3I0Ld1Ay_f2eADpTwE0.D63xMn7gFb0FAGUK2kddAWdrdlNV5gLKz9-KktIoD3c.1787895490.0944040eb055fabb6484b32f740873ba
 #EXTINF:-1 group-title="Россия" tvg-id="8kanal-ru",8 канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="8kanal-eu",8 канал International
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="otr",ОТР
-https://edge03p.mediavitrina.ru/hls-livef6/otr_0/index.m3u8?token=v2.rHq2QcQpFB3Bjfp4sJYxWSHu603LiGVrvgHmXC9uNEs.-yzjnOSkPOpRcAenkrlXEe6uccfCiQ5MbWkOOht-RdM.1787823489.3b6200bef3dff7419385596626317f9c
+https://edge03p.mediavitrina.ru/hls-livef6/otr_0/index.m3u8?token=v2.sI0fuKaVNqdESNNJBRvudwfFVSh6Vh6vewP9AfFbq7A.lxQRwMbuud-8D53Zr4H2eCtENYz_cXSjZDSmaM4uMD8.1787895489.976652df83ad5f1f71b389fda2f84278
 #EXTINF:-1 group-title="Россия" tvg-id="spas",Спас
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
@@ -489,7 +485,7 @@ https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
-https://edge04p.mediavitrina.ru/hls-livef5/matchtv/index.m3u8?token=v2.YNHCKxVTy1DRl7TDXmZpjk5QZJH0NnxmadLyiSLQCMU.tSn2FfpKhMzJvHkll9ccgRQ3celc7jyd6sBsuKmO7sw.1787823489.c3fb18111f3da186d0d8749685b62257
+https://edge01p.mediavitrina.ru/hls-livef5/matchtv/index.m3u8?token=v2.Nl1tFL25u1G2b9x7eQi4blC1cvyi_8CknJTGmArhEQw.sv9NLyCWkClECIidVAVKc3YM269lWis4HA5L4a51KK4.1787895489.8a63c9cab47c3698e1045252b787e1c6
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена

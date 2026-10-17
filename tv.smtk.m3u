@@ -386,7 +386,7 @@ https://edge03p.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2.jPrR_ucXD23PB
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал HD
-https://edge01d.mediavitrina.ru/hls-livef8/5tv/index.m3u8?token=v2.g_RGPY9wZWNh9UrYbpV_nEF4uKOCWm-JkDHwOPyDrJM.A1tkSt6aKcnBiDYcTDY9BwDPlG_-sUagQ5IwhvYUsd4.1792841889.1274bfb83ce898db9496ed340a16ea29
+https://edge01r.mediavitrina.ru/hls-livef7/5tv/index.m3u8?token=v2.t_zkKu_pZyNoCYas26W7tTuGb5gzt9ybRO73IIJOP3o.0hunu0a8VpFiJzUKXQpCQpHiGSnir-cSpMk7vQm-FcQ.1792525089.49fe24ac69fe4ce128a47cb5064b999f
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
@@ -404,7 +404,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ HD
-https://edge01p.mediavitrina.ru/hls-livef7/tnt/index.m3u8?token=v2.WX0lCha3SkveY021gmcWVXjmP_VqmPi1j_h-FlGuU7k.mDcuvbQlWXyo4jESJmLSFLUBiOsL1S93XBffIs0JitU.1792841892.e3285f9a02aa615e4ee7aa3da127ba56
+https://edge07r.mediavitrina.ru/hls-livef7/tnt/index.m3u8?token=v2.z2vN0aZwWUHvQgHBcGq-aqUHbvKx-WUMb-3KWLLk0wU.2Br1CcOc4RLxPxel8q8nUuWJvmbH-wdoFAOB5zCdXXg.1792611491.4f7afd6f55483f2d22e4dcda56144944
 #EXTINF:-1 group-title="Россия" tvg-id="tnt",ТНТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -442,7 +442,7 @@ http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="8kanal-eu",8 канал International
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="otr",ОТР
-https://edge03p.mediavitrina.ru/hls-livef6/otr_0/index.m3u8?token=v2.KgD-ZigxJKpz7sRphIdUz2mCX1evaWfnzcU6FLkuWmw.uQidtvABhpyNzaZ5904RLAoYDvmgQy0P3aXJql4k23Y.1792841890.bcaae2ed11e797f16922919c4ffff908
+https://edge03p.mediavitrina.ru/hls-livef5/otr_0/index.m3u8?token=v2.-UnHnZcpmEuBpPWl7IdLda7JkquKMuLpHkpIqvFwydM.ILyd8Ncw4mNGFnibVr72eKMQt09KHcZLNc3X-Z1Rrto.1792611489.f2f6ddfc779799ef10b646a4d20f2f3d
 #EXTINF:-1 group-title="Россия" tvg-id="spas",Спас
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8

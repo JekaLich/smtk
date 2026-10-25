@@ -89,7 +89,7 @@ http://stream-msk-12.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/01/pl
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe-hd",Комедийное
 http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjA0MDkwNTk0OTM0NSIsImV4cCI6MTc5MTcwODA5MiwiaHdpZCI6ImYxY2I2OGZiZDVjMzI5NTA3ZGQ1ZjE2M2MzMjlkMjYyMDNhYmViZTc0M2YyOTc4ZmYwZDM2ZmRlMmJhMjE0ZGEiLCJsYXN0X3JlcV9kYXRlIjoxNzkxMTAzMjkyLCJzZXNzaW9uX2lkIjoiNjdmOWMyMjhhNDU0NzlmYjZhYTRmN2U2NzE4MzBlMGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bmsyStjKulgzOcqNQz2Cz_ZrhMBcNmM5jNujcDW2pJM
 #EXTINF:-1 group-title="Кино" tvg-id="denpobedy",День Победы
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869496&extension=ts
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9utocN8ZjQXaWIi0jPC781tsTWz1ipyOzRtwJg-cZ-byJ691ZdJculnin8V-dS69Y
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
 http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-EeeZuSIwEhDAlo0Tul56VYN3KeCe2ye0ELMr-NqWf15R6WEgPnb5z4CPqQLBEZYI
 #EXTINF:-1 group-title="Кино" tvg-id="fox",FX HD
@@ -467,9 +467,9 @@ http://5.188.159.128:8070/eurosport1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="eurosport2",Eurosport 2 HD
 http://5.188.159.128:8070/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports",Setanta Sports 1 HD
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd8xOqu96cZkzhEgq527OdeZOStOWj4L-i17h14Grx8lN7Tc92ZVb7lY73-TzoW4cRk
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd8xOqu96cZkzhEgq527OdeZnDpASFnQQ7tCizlEj7FMFmNRJgx29OzyOnNZNA7Cc7Q
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
 https://edge07r.mediavitrina.ru/hls-livef6/matchtv/index.m3u8?token=v2.zG_e-ci9sErZZaBdKOvHoPCsYZsBi-NyfSl9iAaeqgs.ipSowHXDzVLzK-94-sssKlO42E3J65Da2FuLdMss7zU.1793561888.c7727da8f9f8fe1a9c6564d685facd59
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier",Матч! Премьер
@@ -477,7 +477,7 @@ http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-arena",Матч! Арена
 http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869577&extension=ts
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO4kH4ruotHLyX2qf7RXNgn4A9bj537I0bnGmuZZVT9dg
 #EXTINF:-1 group-title="Спорт" tvg-id="match-igra",Матч! Игра
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт" tvg-id="match-nash-sport",Матч! Страна
@@ -493,11 +493,11 @@ http://31.210.208.171:8080/match_boec/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl",KHL
 http://31.210.208.171:8080/khl/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd",KHL Prime
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869580&extension=ts
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-EeeZuSIwEhDAlo0Tul56VYap0cjTdn1VaE0kN7B8e9QgicsKJnRTTdyX6Dy3m5HM
 #EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport",Viju+ Sport
 http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="okko-sport",Окко Спорт
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=869584&extension=ts
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82nF7Ji5KS24D8h7t6RIgJXeI-GE9QdWVbrt1v71zNbes
 #EXTINF:-1 group-title="Спорт" tvg-id="xokkejny",Хоккей ТВ
 https://stream-msk-06.ottgoods.ru/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjA0MDkwNTk0OTM0NSIsImV4cCI6MTc5MTcwODA5MiwiaHdpZCI6ImYxY2I2OGZiZDVjMzI5NTA3ZGQ1ZjE2M2MzMjlkMjYyMDNhYmViZTc0M2YyOTc4ZmYwZDM2ZmRlMmJhMjE0ZGEiLCJsYXN0X3JlcV9kYXRlIjoxNzkxMTAzMjkyLCJzZXNzaW9uX2lkIjoiNjdmOWMyMjhhNDU0NzlmYjZhYTRmN2U2NzE4MzBlMGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bmsyStjKulgzOcqNQz2Cz_ZrhMBcNmM5jNujcDW2pJM
 #EXTINF:-1 group-title="Спорт" tvg-id="sportivny",ТВ Спорт
